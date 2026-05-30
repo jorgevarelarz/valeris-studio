@@ -146,6 +146,7 @@ export const portfolioProjects = [
     description:
       'Web completa para un espacio de música en vivo y hostelería: programación de eventos, formulario de captación para artistas y cartas de menú integradas.',
     impact: 'Presencia digital coherente con la identidad del espacio, con mejor captación de artistas y más visibilidad de la oferta gastronómica.',
+    logo: '/projects/noma-logo.png',
   },
   {
     name: 'IHA Race',
@@ -153,6 +154,7 @@ export const portfolioProjects = [
     description:
       'Rediseño visual de la home de una tienda WooCommerce de material FPV y drones, con nueva estructura, jerarquía de categorías y componentes editables desde Elementor.',
     impact: 'Home más clara y comercial, con mejor recorrido hacia las categorías clave y mayor coherencia visual de marca.',
+    logo: '/projects/iha-logo.png',
   },
   {
     name: 'Mussvap',
@@ -160,6 +162,7 @@ export const portfolioProjects = [
     description:
       'Landing page de captación, corrección de errores técnicos y actualización de páginas para una marca de vapeadores con presencia digital activa.',
     impact: 'Web más sólida y una landing más efectiva que mejora la primera impresión y el recorrido hacia compra o contacto.',
+    logo: '/projects/mussvap-logo.png',
   },
 ]
 

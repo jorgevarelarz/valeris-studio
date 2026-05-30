@@ -32,9 +32,18 @@ function Portfolio() {
                     {project.name}
                   </p>
                 </div>
+                {project.logo && (
+                  <div className="mt-4">
+                    <img
+                      src={project.logo}
+                      alt={`Logo ${project.name}`}
+                      className="h-10 w-auto object-contain brightness-0 invert"
+                    />
+                  </div>
+                )}
                 <div className="mt-5 grid gap-4">
                   <p className="max-w-xl text-sm leading-6 text-white">{project.description}</p>
-                  <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white">
+                  <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white/70">
                     {project.impact}
                   </p>
                 </div>
@@ -60,8 +69,15 @@ function Portfolio() {
                       </p>
                     </div>
                     <div className="grid gap-6">
-                      <p className="max-w-xl text-base leading-7 text-white/82">{project.description}</p>
-                      <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white">
+                      {project.logo && (
+                        <img
+                          src={project.logo}
+                          alt={`Logo ${project.name}`}
+                          className="h-10 w-auto object-contain brightness-0 invert"
+                        />
+                      )}
+                      <p className="max-w-xl text-base leading-7 text-white">{project.description}</p>
+                      <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white/70">
                         {project.impact}
                       </p>
                     </div>
