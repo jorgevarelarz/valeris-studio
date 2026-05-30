@@ -4,20 +4,20 @@ import { serviceFaqs, services } from '../../data/siteData'
 
 const SITE_URL = 'https://valerisstudio.es'
 const DEFAULT_IMAGE = `${SITE_URL}/social-card.png`
-const DEFAULT_TITLE = 'Valeris Studio | Diseño y desarrollo web premium'
+const DEFAULT_TITLE = 'Diseño Web en A Coruña | Valeris Studio'
 const DEFAULT_DESCRIPTION =
-  'Valeris Studio diseña y desarrolla webs premium para marcas, negocios locales y proyectos que necesitan una presencia digital elegante, rápida y estratégica.'
+  'Estudio de diseño y desarrollo web en A Coruña. Creamos webs premium para negocios locales, marcas y pymes de Galicia que necesitan una presencia digital más fuerte.'
 const DEFAULT_KEYWORDS =
-  'valeris studio, diseño web premium, desarrollo web, landing pages, estudio digital, diseño web para negocios, webs para marcas'
+  'diseño web A Coruña, desarrollo web Galicia, agencia web A Coruña, diseño web Galicia, páginas web para negocios, estudio web Galicia, Valeris Studio'
 const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'
 
 const routeSeo = {
   '/': {
-    title: 'Valeris Studio | Diseño y desarrollo web premium',
+    title: 'Diseño Web en A Coruña | Valeris Studio',
     description:
-      'Diseñamos, escribimos y desarrollamos webs premium para marcas que no quieren parecer una más.',
+      'Estudio de diseño web en A Coruña. Webs premium para negocios locales, marcas y pymes de Galicia con una presencia digital elegante, rápida y que convierte.',
     keywords:
-      'Valeris Studio, diseño web premium, desarrollo web premium, estudio web, landing pages, webs con impacto',
+      'diseño web A Coruña, desarrollo web A Coruña, agencia web Galicia, páginas web negocios locales, estudio web Coruña',
     canonical: '/',
     robots: DEFAULT_ROBOTS,
     pageType: 'WebPage',
@@ -37,11 +37,11 @@ const routeSeo = {
     ],
   },
   '/servicios': {
-    title: 'Servicios web premium | Valeris Studio',
+    title: 'Servicios de Diseño Web en A Coruña | Valeris Studio',
     description:
-      'Diseño web, desarrollo, landings de conversión, rediseños, soporte, SEO técnico y webs con inteligencia integrada.',
+      'Diseño web, landings de conversión, rediseños, mantenimiento y webs con IA para negocios en A Coruña y Galicia. Presupuesto sin compromiso.',
     keywords:
-      'servicios diseño web, desarrollo web, landings de conversión, rediseño web, mantenimiento web, SEO técnico, automatizaciones web',
+      'servicios diseño web A Coruña, desarrollo web Galicia, landing pages, rediseño web, agencia web Coruña',
     canonical: '/servicios',
     pageType: 'CollectionPage',
     breadcrumb: [
@@ -115,11 +115,11 @@ const routeSeo = {
     ],
   },
   '/estudio': {
-    title: 'Estudio | Valeris Studio',
+    title: 'Estudio de Diseño Web en A Coruña | Valeris Studio',
     description:
-      'Valeris Studio une dirección visual, estrategia y desarrollo web para negocios que necesitan dar una mejor impresión digital.',
+      'Somos un estudio de diseño y desarrollo web en A Coruña. Trabajamos con negocios locales y marcas de Galicia que quieren destacar online.',
     keywords:
-      'estudio de diseño web, dirección visual, estrategia digital, desarrollo web para negocios',
+      'estudio diseño web A Coruña, agencia web Galicia, diseñador web Coruña, Valeris Studio',
     canonical: '/estudio',
     pageType: 'AboutPage',
     breadcrumb: [
@@ -128,11 +128,11 @@ const routeSeo = {
     ],
   },
   '/contacto': {
-    title: 'Contacto | Valeris Studio',
+    title: 'Presupuesto Diseño Web A Coruña | Valeris Studio',
     description:
-      'Solicita tu proyecto web en Valeris Studio por WhatsApp o correo y empecemos a construir una presencia digital más fuerte.',
+      'Solicita presupuesto para tu web en A Coruña o Galicia. Contacta con Valeris Studio por WhatsApp o correo y cuéntanos tu proyecto.',
     keywords:
-      'contacto valeris studio, solicitar presupuesto web, agencia diseño web, contacto desarrollo web',
+      'presupuesto diseño web A Coruña, contacto agencia web Galicia, crear web A Coruña, solicitar web',
     canonical: '/contacto',
     pageType: 'ContactPage',
     breadcrumb: [
@@ -211,20 +211,40 @@ function buildBreadcrumbSchema(items) {
 function buildRouteSchema(pathname, seo, url) {
   const baseGraph = [
     {
-      '@type': 'Organization',
+      '@type': ['Organization', 'LocalBusiness'],
       '@id': `${SITE_URL}/#organization`,
       name: 'Valeris Studio',
       url: SITE_URL,
       logo: `${SITE_URL}/logo.png`,
+      image: `${SITE_URL}/social-card.png`,
       email: 'info@valerisstudio.es',
       telephone: '+34672710040',
+      priceRange: '€€',
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'A Coruña',
+        addressRegion: 'Galicia',
+        addressCountry: 'ES',
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: 43.3623,
+        longitude: -8.4115,
+      },
+      areaServed: [
+        { '@type': 'City', name: 'A Coruña' },
+        { '@type': 'AdministrativeArea', name: 'Galicia' },
+        { '@type': 'Country', name: 'España' },
+      ],
+      sameAs: [],
       contactPoint: [
         {
           '@type': 'ContactPoint',
           contactType: 'customer support',
           email: 'info@valerisstudio.es',
           telephone: '+34672710040',
-          availableLanguage: ['es', 'en'],
+          availableLanguage: 'es',
+          areaServed: 'ES',
         },
       ],
     },
