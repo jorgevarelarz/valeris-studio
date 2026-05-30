@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /acceso
+Disallow: /gracias
+
+Sitemap: https://valerisstudio.es/sitemap.xml
