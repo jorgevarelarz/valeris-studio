@@ -1,1 +1,68 @@
-{"data":"aW1wb3J0IHsgcHJvY2Vzc1N0ZXBzIH0gZnJvbSAnLi4vLi4vZGF0YS9zaXRlRGF0YScKaW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwppbXBvcnQgU2VjdGlvbkhlYWRpbmcgZnJvbSAnLi4vdWkvU2VjdGlvbkhlYWRpbmcnCgpmdW5jdGlvbiBQcm9jZXNzKCkgewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBpZD0icHJvY2VzbyIgY2xhc3NOYW1lPSJyZWxhdGl2ZSBmbGV4IG1pbi1oLVtjYWxjKDEwMHN2aC01cmVtKV0gaXRlbXMtc3RhcnQgb3ZlcmZsb3ctaGlkZGVuIHB4LTQgcHktNSBsZzpoLWZ1bGwgbGc6aXRlbXMtY2VudGVyIGxnOnB5LTQiPgogICAgICA8aW1nCiAgICAgICAgc3JjPSIvcHJvY2Vzcy1iZy5naWYiCiAgICAgICAgYWx0PSIiCiAgICAgICAgY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGFic29sdXRlIGluc2V0LTAgaC1mdWxsIHctZnVsbCBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciBvcGFjaXR5LVswLjQyXSIKICAgICAgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNTgiIC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1zaGVsbCByZWxhdGl2ZSB3LWZ1bGwiPgogICAgICAgIDxSZXZlYWw+CiAgICAgICAgICA8U2VjdGlvbkhlYWRpbmcKICAgICAgICAgICAgZXllYnJvdz0iUHJvY2VzbyIKICAgICAgICAgICAgdGl0bGU9IkVMIFBST1lFQ1RPIEFWQU5aQSBFTiBCTE9RVUVTIENMQVJPUywgTk8gRU4gSURBUyBZIFZVRUxUQVMgSU5VVElMRVMuIgogICAgICAgICAgICBjb3B5PSJMYSB3ZWIgc2Ugb3JkZW5hIGVuIGZhc2VzIHNlY2FzOiBwZW5zYXIsIGRlZmluaXIsIGNvbnN0cnVpciB5IGxhbnphci4iCiAgICAgICAgICAgIGxldmVsPXsxfQogICAgICAgICAgLz4KICAgICAgICA8L1JldmVhbD4KCiAgICAgICAgPFJldmVhbCBkZWxheT17ODB9PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZ3JpZCBnYXAtMCBib3JkZXIteSBib3JkZXItd2hpdGUvMTggbGc6aGlkZGVuIj4KICAgICAgICAgICAge3Byb2Nlc3NTdGVwcy5tYXAoKHN0ZXAsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgPGFydGljbGUKICAgICAgICAgICAgICAgIGtleT17c3RlcC5udW1iZXJ9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2luZGV4IDwgcHJvY2Vzc1N0ZXBzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNScgOiAncHgtNSBweS01J30KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjZlbV0gdGV4dC1nb2xkIj4KICAgICAgICAgICAgICAgICAge3N0ZXAubnVtYmVyfQogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0ibXQtMyBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNGVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIj4KICAgICAgICAgICAgICAgICAge3N0ZXAudGl0bGV9CiAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IG1heC13LWxnIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPntzdGVwLmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPEhvcml6b250YWxXaGVlbCBjbGFzc05hbWU9Im10LTUgaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi0yIHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWluLXctbWF4IGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgICAge3Byb2Nlc3NTdGVwcy5tYXAoKHN0ZXApID0+ICgKICAgICAgICAgICAgICAgIDxhcnRpY2xlCiAgICAgICAgICAgICAgICAgIGtleT17c3RlcC5udW1iZXJ9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1bNzR2d10gbWF4LXctWzYyMHB4XSBzaHJpbmstMCBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS01IHNtOnB4LTYgbGc6dy1bMzR2d10iCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNmVtXSB0ZXh0LWdvbGQiPgogICAgICAgICAgICAgICAgICAgIHtzdGVwLm51bWJlcn0KICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC0zIGZvbnQtZGlzcGxheSB0ZXh0LTR4bCB1cHBlcmNhc2UgbGVhZGluZy1bMC45Ml0gdHJhY2tpbmctWy0wLjA0ZW1dIHRleHQtd2hpdGUgc206dGV4dC01eGwiPgogICAgICAgICAgICAgICAgICAgIHtzdGVwLnRpdGxlfQogICAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbWF4LXctbGcgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSI+e3N0ZXAuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvSG9yaXpvbnRhbFdoZWVsPgogICAgICAgIDwvUmV2ZWFsPgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFByb2Nlc3MK"}
+import { processSteps } from '../../data/siteData'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function Process() {
+  return (
+    <section id="proceso" className="relative flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <img
+        src="/process-bg.gif"
+        alt=""
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover object-center opacity-[0.42]"
+      />
+      <div className="absolute inset-0 bg-black/58" />
+
+      <div className="section-shell relative w-full">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Proceso"
+            title="EL PROYECTO AVANZA EN BLOQUES CLAROS, NO EN IDAS Y VUELTAS INUTILES."
+            copy="La web se ordena en fases secas: pensar, definir, construir y lanzar."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={80}>
+          <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+            {processSteps.map((step, index) => (
+              <article
+                key={step.number}
+                className={index < processSteps.length - 1 ? 'border-b border-white/12 px-5 py-5' : 'px-5 py-5'}
+              >
+                <p className="text-xs font-semibold uppercase tracking-[0.26em] text-gold">
+                  {step.number}
+                </p>
+                <h3 className="mt-3 font-display text-4xl uppercase leading-[0.92] tracking-[-0.04em] text-white sm:text-5xl">
+                  {step.title}
+                </h3>
+                <p className="mt-4 max-w-lg text-sm leading-6 text-white">{step.description}</p>
+              </article>
+            ))}
+          </div>
+
+          <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+            <div className="flex min-w-max border-y border-white/18">
+              {processSteps.map((step) => (
+                <article
+                  key={step.number}
+                  className="w-[74vw] max-w-[620px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[34vw]"
+                >
+                  <p className="text-xs font-semibold uppercase tracking-[0.26em] text-gold">
+                    {step.number}
+                  </p>
+                  <h3 className="mt-3 font-display text-4xl uppercase leading-[0.92] tracking-[-0.04em] text-white sm:text-5xl">
+                    {step.title}
+                  </h3>
+                  <p className="mt-4 max-w-lg text-sm leading-6 text-white">{step.description}</p>
+                </article>
+              ))}
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Process

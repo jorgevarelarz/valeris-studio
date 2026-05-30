@@ -1,1 +1,209 @@
-{"data":"aW1wb3J0IHsgQXJyb3dSaWdodCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCcKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBMaW5rIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScKaW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwoKZnVuY3Rpb24gSGVybygpIHsKICBjb25zdCBbc2Nyb2xsWSwgc2V0U2Nyb2xsWV0gPSB1c2VTdGF0ZSgwKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgaGFuZGxlU2Nyb2xsID0gKCkgPT4gewogICAgICBzZXRTY3JvbGxZKHdpbmRvdy5zY3JvbGxZKQogICAgfQoKICAgIGhhbmRsZVNjcm9sbCgpCiAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcignc2Nyb2xsJywgaGFuZGxlU2Nyb2xsLCB7IHBhc3NpdmU6IHRydWUgfSkKCiAgICByZXR1cm4gKCkgPT4gewogICAgICB3aW5kb3cucmVtb3ZlRXZlbnRMaXN0ZW5lcignc2Nyb2xsJywgaGFuZGxlU2Nyb2xsKQogICAgfQogIH0sIFtdKQoKICBjb25zdCBob3Jpem9udGFsTGVhZCA9IE1hdGgubWluKHNjcm9sbFkgKiAwLjM1LCAyMjApCiAgY29uc3QgaG9yaXpvbnRhbFRyYWlsID0gTWF0aC5taW4oc2Nyb2xsWSAqIDAuMTgsIDEyMCkKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJpbmljaW8iIGNsYXNzTmFtZT0iZmxleCBtaW4taC1bY2FsYygxMDBzdmgtNXJlbSldIGl0ZW1zLXN0YXJ0IG92ZXJmbG93LWhpZGRlbiBweC00IHBiLTYgcHQtMiBsZzpoLWZ1bGwgbGc6aXRlbXMtY2VudGVyIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InNlY3Rpb24tc2hlbGwgZmxleCB3LWZ1bGwgZmxleC1jb2wganVzdGlmeS1iZXR3ZWVuIGxnOmgtZnVsbCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InB0LTUiPgogICAgICAgICAgPFJldmVhbCBkZWxheT17NDB9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMyBib3JkZXItYiBib3JkZXItd2hpdGUvMTggcGItNCBsZzpmbGV4LXJvdyBsZzppdGVtcy1lbmQgbGc6anVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctc20iPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVswLjcycmVtXSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4zMmVtXSB0ZXh0LXdoaXRlLzcwIj4KICAgICAgICAgICAgICAgICAgRXN0dWRpbyBkZSBkaXNlw7FvIHkgZGVzYXJyb2xsbyB3ZWIKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMyB0ZXh0LXNtIGxlYWRpbmctNiB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAgRGlzZcOxYW1vcywgZXNjcmliaW1vcyB5IGRlc2Fycm9sbGFtb3Mgd2VicyBwcmVtaXVtIHBhcmEgbWFyY2FzLCBuZWdvY2lvcyB5IHByb3llY3RvcyBxdWUgbm8gcXVpZXJlbiBwYXJlY2VyIHVuYSBtYXMuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgZ2FwLTMgc206ZmxleC1yb3ciPgogICAgICAgICAgICAgICAgPExpbmsgdG89Ii9jb250YWN0byIgY2xhc3NOYW1lPSJwcmltYXJ5LWJ1dHRvbiB3LWZ1bGwgZ2FwLTIgc206dy1hdXRvIj4KICAgICAgICAgICAgICAgICAgU29saWNpdGFyIHByZXN1cHVlc3RvCiAgICAgICAgICAgICAgICAgIDxBcnJvd1JpZ2h0IHNpemU9ezE2fSAvPgogICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgPExpbmsgdG89Ii9wcm95ZWN0b3MiIGNsYXNzTmFtZT0ic2Vjb25kYXJ5LWJ1dHRvbiB3LWZ1bGwgc206dy1hdXRvIj4KICAgICAgICAgICAgICAgICAgVmVyIHByb3llY3RvcwogICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvUmV2ZWFsPgoKICAgICAgICA8UmV2ZWFsIGRlbGF5PXsxMjB9PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdhcC0wIGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCBsZzpoaWRkZW4iPgogICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0icmVsYXRpdmUgb3ZlcmZsb3ctaGlkZGVuIGJvcmRlci1iIGJvcmRlci13aGl0ZS8xMiBweC00IHB5LTUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgb3ZlcmZsb3ctaGlkZGVuIG9wYWNpdHktNDAiPgogICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgc3JjPSIvaW1wYWN0LWJnLmdpZiIKICAgICAgICAgICAgICAgICAgICBhbHQ9IiIKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtZnVsbCB3LWZ1bGwgc2NhbGUtWzEuMV0gb2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNTUiIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJyZWxhdGl2ZSBmbGV4IGZsZXgtY29sIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1bM3JlbV0gdXBwZXJjYXNlIGxlYWRpbmctWzAuODRdIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtWzQuNHJlbV0iPgogICAgICAgICAgICAgICAgICAgIFdFQlMKICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LVszcmVtXSB1cHBlcmNhc2UgbGVhZGluZy1bMC44NF0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtWyNmZjJhMWZdIHNtOnRleHQtWzQuNHJlbV0iPgogICAgICAgICAgICAgICAgICAgIENPTgogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtWzNyZW1dIHVwcGVyY2FzZSBsZWFkaW5nLVswLjg0XSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LVs0LjRyZW1dIj4KICAgICAgICAgICAgICAgICAgICBJTVBBQ1RPCiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvaDE+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtNCBweS01Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIG92ZXJmbG93LWhpZGRlbiBvcGFjaXR5LTQwIj4KICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgIHNyYz0iL2RpcmVjY2lvbi1jcmVhdGl2YS5naWYiCiAgICAgICAgICAgICAgICAgICAgYWx0PSIiCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLWZ1bGwgdy1mdWxsIHNjYWxlLVsxLjE1XSBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciBwb2ludGVyLWV2ZW50cy1ub25lIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1ibGFjay82MCIgLz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBncmlkIGdhcC00Ij4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI0ZW1dIHRleHQtWyNmZjJhMWZdIj4KICAgICAgICAgICAgICAgICAgICBEaXJlY2Npb24gY3JlYXRpdmEKICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im1heC13LWxnIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICAgIE1lbm9zIHBsYW50aWxsYSwgbWFzIGNyaXRlcmlvLiBNZW5vcyByZWxsZW5vLCBtYXMgdGVuc2lvbiB2aXN1YWwuIE1lbm9zIHdlYiBjb3JyZWN0YSwgbWFzIG1hcmNhIHJlY29ub2NpYmxlLgogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtdC01IGdyaWQgZ2FwLTIgdGV4dC14cyBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4xNmVtXSB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLXdoaXRlLzE4IHB4LTMgcHktMiI+QnJhbmQtZmlyc3Q8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci13aGl0ZS8xOCBweC0zIHB5LTIiPkNvcHkgKyBkaXNlbm88L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci13aGl0ZS8xOCBweC0zIHB5LTIiPkZyb250ZW5kIGxpbXBpbzwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KCiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJweC00IHB5LTUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im92ZXJmbG93LWhpZGRlbiBib3JkZXIgYm9yZGVyLXdoaXRlLzE4Ij4KICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaC1bMjh2aF0gbWluLWgtWzE4MHB4XSB3LWZ1bGwgb2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIgc206aC1bMzJ2aF0gc206bWluLWgtWzIyMHB4XSIKICAgICAgICAgICAgICAgICAgICBzcmM9Ii9oZXJvLWxvb3AuZ2lmIgogICAgICAgICAgICAgICAgICAgIGFsdD0iIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMyBncmlkIGdhcC0wIHRleHQtWzAuN3JlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMTZlbV0gdGV4dC13aGl0ZS84MCI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtMyBweS00Ij5MYW5kaW5ncyBkZSBjb252ZXJzaW9uPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtMyBweS00Ij5XZWJzIGNvcnBvcmF0aXZhczwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTMgcHktNCI+UmVkaXNlbm9zIGNvbiBjcml0ZXJpbzwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtMyBweS00Ij5Tb3BvcnRlIHkgZXZvbHVjaW9uPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPEhvcml6b250YWxXaGVlbCBjbGFzc05hbWU9Im10LTUgaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi0yIHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4tdy1tYXggYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4Ij4KICAgICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCB3LVs5MnZ3XSBtYXgtdy1bMTA4MHB4XSBzaHJpbmstMCBmbGV4LWNvbCBqdXN0aWZ5LWJldHdlZW4gb3ZlcmZsb3ctaGlkZGVuIGJvcmRlci1yIGJvcmRlci13aGl0ZS8xOCBweC00IHB5LTUgc206cHgtNSBsZzp3LVs2OHZ3XSBsZzpweC02Ij4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgb3ZlcmZsb3ctaGlkZGVuIG9wYWNpdHktNDAiPgogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgIHNyYz0iL2ltcGFjdC1iZy5naWYiCiAgICAgICAgICAgICAgICAgICAgICBhbHQ9IiIKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIHctZnVsbCBzY2FsZS1bMS4yNV0gb2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWJsYWNrLzU1IiAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC1bM3JlbV0gdXBwZXJjYXNlIGxlYWRpbmctWzAuODRdIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTc1IGVhc2Utb3V0IHNtOnRleHQtWzUuNXJlbV0gbGc6dGV4dC1bOHJlbV0geGw6dGV4dC1bOXJlbV0iCiAgICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyB0cmFuc2Zvcm06IGB0cmFuc2xhdGUzZCgke2hvcml6b250YWxUcmFpbH1weCwwLDApYCB9fQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIFdFQlMKICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtWzNyZW1dIHVwcGVyY2FzZSBsZWFkaW5nLVswLjg0XSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC1bI2ZmMmExZl0gdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tNzUgZWFzZS1vdXQgc206dGV4dC1bNS41cmVtXSBsZzp0ZXh0LVs4cmVtXSB4bDp0ZXh0LVs5cmVtXSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IHRyYW5zZm9ybTogYHRyYW5zbGF0ZTNkKCR7LWhvcml6b250YWxMZWFkfXB4LDAsMClgIH19CiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgQ09OCiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LVszcmVtXSB1cHBlcmNhc2UgbGVhZGluZy1bMC44NF0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtd2hpdGUgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tNzUgZWFzZS1vdXQgc206dGV4dC1bNS41cmVtXSBsZzp0ZXh0LVs4cmVtXSB4bDp0ZXh0LVs5cmVtXSIKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IHRyYW5zZm9ybTogYHRyYW5zbGF0ZTNkKCR7aG9yaXpvbnRhbExlYWR9cHgsMCwwKWAgfX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICBJTVBBQ1RPCiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2gxPgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCB3LVs4MnZ3XSBtYXgtdy1bNzYwcHhdIHNocmluay0wIGZsZXgtY29sIGp1c3RpZnktYmV0d2VlbiBvdmVyZmxvdy1oaWRkZW4gYm9yZGVyLXIgYm9yZGVyLXdoaXRlLzE4IHB4LTQgcHktNSBzbTpweC01IGxnOnctWzQ4dnddIGxnOnB4LTYiPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBvdmVyZmxvdy1oaWRkZW4gb3BhY2l0eS00MCI+CiAgICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgICAgc3JjPSIvZGlyZWNjaW9uLWNyZWF0aXZhLmdpZiIKICAgICAgICAgICAgICAgICAgICAgIGFsdD0iIgogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLWZ1bGwgdy1mdWxsIHNjYWxlLVsxLjJdIG9iamVjdC1jb3ZlciBvYmplY3QtY2VudGVyIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1ibGFjay82MCIgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgZ3JpZCBnYXAtNCI+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI0ZW1dIHRleHQtWyNmZjJhMWZdIj4KICAgICAgICAgICAgICAgICAgICAgIERpcmVjY2lvbiBjcmVhdGl2YQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im1heC13LWxnIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICAgICAgTWVub3MgcGxhbnRpbGxhLCBtYXMgY3JpdGVyaW8uIE1lbm9zIHJlbGxlbm8sIG1hcyB0ZW5zaW9uIHZpc3VhbC4gTWVub3Mgd2ViIGNvcnJlY3RhLCBtYXMgbWFyY2EgcmVjb25vY2libGUuCiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGdyaWQgZ2FwLTIgdGV4dC14cyBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4xNmVtXSB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJvcmRlciBib3JkZXItd2hpdGUvMTggcHgtMyBweS0yIj5CcmFuZC1maXJzdDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJvcmRlciBib3JkZXItd2hpdGUvMTggcHgtMyBweS0yIj5Db3B5ICsgZGlzZW5vPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYm9yZGVyIGJvcmRlci13aGl0ZS8xOCBweC0zIHB5LTIiPkZyb250ZW5kIGxpbXBpbzwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJ3LVs4OHZ3XSBtYXgtdy1bOTgwcHhdIHNocmluay0wIHB4LTQgcHktNSBzbTpweC01IGxnOnctWzY0dnddIGxnOnB4LTYiPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIGJvcmRlciBib3JkZXItd2hpdGUvMTgiPgogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaC1bMjh2aF0gbWluLWgtWzE4MHB4XSB3LWZ1bGwgb2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIgc206aC1bMzJ2aF0gc206bWluLWgtWzIyMHB4XSIKICAgICAgICAgICAgICAgICAgICAgIHNyYz0iL2hlcm8tbG9vcC5naWYiCiAgICAgICAgICAgICAgICAgICAgICBhbHQ9IiIKICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgZ3JpZCBnYXAtMCB0ZXh0LVswLjdyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjE2ZW1dIHRleHQtd2hpdGUvODAgbGc6Z3JpZC1jb2xzLTQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtMyBweS00IGxnOmJvcmRlci1iLTAgbGc6Ym9yZGVyLXIgbGc6Ym9yZGVyLXdoaXRlLzEyIj4KICAgICAgICAgICAgICAgICAgICAgIExhbmRpbmdzIGRlIGNvbnZlcnNpb24KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTMgcHktNCBsZzpib3JkZXItYi0wIGxnOmJvcmRlci1yIGxnOmJvcmRlci13aGl0ZS8xMiI+CiAgICAgICAgICAgICAgICAgICAgICBXZWJzIGNvcnBvcmF0aXZhcwogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtMyBweS00IGxnOmJvcmRlci1iLTAgbGc6Ym9yZGVyLXIgbGc6Ym9yZGVyLXdoaXRlLzEyIj4KICAgICAgICAgICAgICAgICAgICAgIFJlZGlzZW5vcyBjb24gY3JpdGVyaW8KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtMyBweS00Ij5Tb3BvcnRlIHkgZXZvbHVjaW9uPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L0hvcml6b250YWxXaGVlbD4KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICA8L3NlY3Rpb24+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBIZXJvCg=="}
+import { ArrowRight } from 'lucide-react'
+import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+
+function Hero() {
+  const [scrollY, setScrollY] = useState(0)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrollY(window.scrollY)
+    }
+
+    handleScroll()
+    window.addEventListener('scroll', handleScroll, { passive: true })
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll)
+    }
+  }, [])
+
+  const horizontalLead = Math.min(scrollY * 0.35, 220)
+  const horizontalTrail = Math.min(scrollY * 0.18, 120)
+
+  return (
+    <section id="inicio" className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 pb-6 pt-2 lg:h-full lg:items-center">
+      <div className="section-shell flex w-full flex-col justify-between lg:h-full">
+        <div className="pt-5">
+          <Reveal delay={40}>
+            <div className="flex flex-col gap-3 border-b border-white/18 pb-4 lg:flex-row lg:items-end lg:justify-between">
+              <div className="max-w-sm">
+                <p className="text-[0.72rem] font-semibold uppercase tracking-[0.32em] text-white/70">
+                  Estudio de diseño y desarrollo web
+                </p>
+                <p className="mt-3 text-sm leading-6 text-white">
+                  Diseñamos, escribimos y desarrollamos webs premium para marcas, negocios y proyectos que no quieren parecer una mas.
+                </p>
+              </div>
+              <div className="flex flex-col gap-3 sm:flex-row">
+                <Link to="/contacto" className="primary-button w-full gap-2 sm:w-auto">
+                  Solicitar presupuesto
+                  <ArrowRight size={16} />
+                </Link>
+                <Link to="/proyectos" className="secondary-button w-full sm:w-auto">
+                  Ver proyectos
+                </Link>
+              </div>
+            </div>
+          </Reveal>
+
+        <Reveal delay={120}>
+            <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+              <article className="relative overflow-hidden border-b border-white/12 px-4 py-5">
+                <div className="absolute inset-0 overflow-hidden opacity-40">
+                  <img
+                    src="/impact-bg.gif"
+                    alt=""
+                    className="h-full w-full scale-[1.1] object-cover object-center pointer-events-none"
+                  />
+                  <div className="absolute inset-0 bg-black/55" />
+                </div>
+
+                <h1 className="relative flex flex-col">
+                  <span className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-white sm:text-[4.4rem]">
+                    WEBS
+                  </span>
+                  <span className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-[#ff2a1f] sm:text-[4.4rem]">
+                    CON
+                  </span>
+                  <span className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-white sm:text-[4.4rem]">
+                    IMPACTO
+                  </span>
+                </h1>
+              </article>
+
+              <article className="relative overflow-hidden border-b border-white/12 px-4 py-5">
+                <div className="absolute inset-0 overflow-hidden opacity-40">
+                  <img
+                    src="/direccion-creativa.gif"
+                    alt=""
+                    className="h-full w-full scale-[1.15] object-cover object-center pointer-events-none"
+                  />
+                  <div className="absolute inset-0 bg-black/60" />
+                </div>
+
+                <div className="relative grid gap-4">
+                  <p className="text-sm font-semibold uppercase tracking-[0.24em] text-[#ff2a1f]">
+                    Direccion creativa
+                  </p>
+                  <p className="max-w-lg text-sm leading-6 text-white">
+                    Menos plantilla, mas criterio. Menos relleno, mas tension visual. Menos web correcta, mas marca reconocible.
+                  </p>
+                </div>
+                <div className="relative mt-5 grid gap-2 text-xs font-semibold uppercase tracking-[0.16em] text-white">
+                  <span className="border border-white/18 px-3 py-2">Brand-first</span>
+                  <span className="border border-white/18 px-3 py-2">Copy + diseno</span>
+                  <span className="border border-white/18 px-3 py-2">Frontend limpio</span>
+                </div>
+              </article>
+
+              <article className="px-4 py-5">
+                <div className="overflow-hidden border border-white/18">
+                  <img
+                    className="h-[28vh] min-h-[180px] w-full object-cover object-center sm:h-[32vh] sm:min-h-[220px]"
+                    src="/hero-loop.gif"
+                    alt=""
+                  />
+                </div>
+                <div className="mt-3 grid gap-0 text-[0.7rem] font-semibold uppercase tracking-[0.16em] text-white/80">
+                  <div className="border-b border-white/12 px-3 py-4">Landings de conversion</div>
+                  <div className="border-b border-white/12 px-3 py-4">Webs corporativas</div>
+                  <div className="border-b border-white/12 px-3 py-4">Redisenos con criterio</div>
+                  <div className="px-3 py-4">Soporte y evolucion</div>
+                </div>
+              </article>
+            </div>
+
+            <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+              <div className="flex min-w-max border-y border-white/18">
+                <article className="relative flex w-[92vw] max-w-[1080px] shrink-0 flex-col justify-between overflow-hidden border-r border-white/18 px-4 py-5 sm:px-5 lg:w-[68vw] lg:px-6">
+                  <div className="absolute inset-0 overflow-hidden opacity-40">
+                    <img
+                      src="/impact-bg.gif"
+                      alt=""
+                      className="h-full w-full scale-[1.25] object-cover object-center pointer-events-none"
+                    />
+                    <div className="absolute inset-0 bg-black/55" />
+                  </div>
+
+                  <h1 className="relative">
+                    <span
+                      className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-white transition-transform duration-75 ease-out sm:text-[5.5rem] lg:text-[8rem] xl:text-[9rem]"
+                      style={{ transform: `translate3d(${horizontalTrail}px,0,0)` }}
+                    >
+                      WEBS
+                    </span>
+                    <span
+                      className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-[#ff2a1f] transition-transform duration-75 ease-out sm:text-[5.5rem] lg:text-[8rem] xl:text-[9rem]"
+                      style={{ transform: `translate3d(${-horizontalLead}px,0,0)` }}
+                    >
+                      CON
+                    </span>
+                    <span
+                      className="font-display text-[3rem] uppercase leading-[0.84] tracking-[-0.05em] text-white transition-transform duration-75 ease-out sm:text-[5.5rem] lg:text-[8rem] xl:text-[9rem]"
+                      style={{ transform: `translate3d(${horizontalLead}px,0,0)` }}
+                    >
+                      IMPACTO
+                    </span>
+                  </h1>
+                </article>
+
+                <article className="relative flex w-[82vw] max-w-[760px] shrink-0 flex-col justify-between overflow-hidden border-r border-white/18 px-4 py-5 sm:px-5 lg:w-[48vw] lg:px-6">
+                  <div className="absolute inset-0 overflow-hidden opacity-40">
+                    <img
+                      src="/direccion-creativa.gif"
+                      alt=""
+                      className="h-full w-full scale-[1.2] object-cover object-center pointer-events-none"
+                    />
+                    <div className="absolute inset-0 bg-black/60" />
+                  </div>
+
+                  <div className="relative grid gap-4">
+                    <p className="text-sm font-semibold uppercase tracking-[0.24em] text-[#ff2a1f]">
+                      Direccion creativa
+                    </p>
+                    <p className="max-w-lg text-sm leading-6 text-white">
+                      Menos plantilla, mas criterio. Menos relleno, mas tension visual. Menos web correcta, mas marca reconocible.
+                    </p>
+                  </div>
+                  <div className="relative grid gap-2 text-xs font-semibold uppercase tracking-[0.16em] text-white">
+                    <span className="border border-white/18 px-3 py-2">Brand-first</span>
+                    <span className="border border-white/18 px-3 py-2">Copy + diseno</span>
+                    <span className="border border-white/18 px-3 py-2">Frontend limpio</span>
+                  </div>
+                </article>
+
+                <article className="w-[88vw] max-w-[980px] shrink-0 px-4 py-5 sm:px-5 lg:w-[64vw] lg:px-6">
+                  <div className="overflow-hidden border border-white/18">
+                    <img
+                      className="h-[28vh] min-h-[180px] w-full object-cover object-center sm:h-[32vh] sm:min-h-[220px]"
+                      src="/hero-loop.gif"
+                      alt=""
+                    />
+                  </div>
+                  <div className="mt-3 grid gap-0 text-[0.7rem] font-semibold uppercase tracking-[0.16em] text-white/80 lg:grid-cols-4">
+                    <div className="border-b border-white/12 px-3 py-4 lg:border-b-0 lg:border-r lg:border-white/12">
+                      Landings de conversion
+                    </div>
+                    <div className="border-b border-white/12 px-3 py-4 lg:border-b-0 lg:border-r lg:border-white/12">
+                      Webs corporativas
+                    </div>
+                    <div className="border-b border-white/12 px-3 py-4 lg:border-b-0 lg:border-r lg:border-white/12">
+                      Redisenos con criterio
+                    </div>
+                    <div className="px-3 py-4">Soporte y evolucion</div>
+                  </div>
+                </article>
+              </div>
+            </HorizontalWheel>
+          </Reveal>
+        </div>
+      </div>
+
+    </section>
+  )
+}
+
+export default Hero

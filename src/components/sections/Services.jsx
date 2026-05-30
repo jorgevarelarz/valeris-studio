@@ -1,1 +1,180 @@
-{"data":"aW1wb3J0IHsgc2VydmljZUZhcXMsIHNlcnZpY2VzIH0gZnJvbSAnLi4vLi4vZGF0YS9zaXRlRGF0YScKaW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwppbXBvcnQgU2VjdGlvbkhlYWRpbmcgZnJvbSAnLi4vdWkvU2VjdGlvbkhlYWRpbmcnCgpmdW5jdGlvbiBTZXJ2aWNlcygpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9InNlcnZpY2lvcyIgY2xhc3NOYW1lPSJyZWxhdGl2ZSBmbGV4IG1pbi1oLVtjYWxjKDEwMHN2aC01cmVtKV0gaXRlbXMtc3RhcnQgb3ZlcmZsb3ctaGlkZGVuIHB4LTQgcHktNSBsZzpoLWZ1bGwgbGc6aXRlbXMtY2VudGVyIGxnOnB5LTQiPgogICAgICA8aW1nCiAgICAgICAgc3JjPSIvc2VydmljZXMtYmcuZ2lmIgogICAgICAgIGFsdD0iIgogICAgICAgIGNsYXNzTmFtZT0icG9pbnRlci1ldmVudHMtbm9uZSBhYnNvbHV0ZSBpbnNldC0wIGgtZnVsbCB3LWZ1bGwgb2JqZWN0LWNvdmVyIG9iamVjdC1jZW50ZXIgb3BhY2l0eS1bMC40Ml0iCiAgICAgIC8+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWJsYWNrLzU4IiAvPgoKICAgICAgPGRpdiBjbGFzc05hbWU9InNlY3Rpb24tc2hlbGwgcmVsYXRpdmUgdy1mdWxsIj4KICAgICAgICA8UmV2ZWFsPgogICAgICAgICAgPFNlY3Rpb25IZWFkaW5nCiAgICAgICAgICAgIGV5ZWJyb3c9IlNlcnZpY2lvcyIKICAgICAgICAgICAgdGl0bGU9IlNFUlZJQ0lPUyBQRU5TQURPUyBQQVJBIFFVRSBMQSBNQVJDQSBFTlRSRSBGVUVSVEUgWSBTRSBRVUVERS4iCiAgICAgICAgICAgIGNvcHk9IkRpc2VjY2lvbmFtb3MgbG8gcXVlIGxhIHdlYiB0aWVuZSBxdWUgaGFjZXIgeSBsbyBjb252ZXJ0aW1vcyBlbiBlc3RydWN0dXJhLCByaXRtbywgY29weSB5IHByZXNlbmNpYSB2aXN1YWwuIgogICAgICAgICAgICBsZXZlbD17MX0KICAgICAgICAgIC8+CiAgICAgICAgPC9SZXZlYWw+CgogICAgICAgIDxSZXZlYWwgZGVsYXk9ezgwfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01IGdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IGxnOmhpZGRlbiI+CiAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVswLjcycmVtXSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yOGVtXSB0ZXh0LVsjZmYyYTFmXSI+CiAgICAgICAgICAgICAgICBOdWNsZW8KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIG1heC13LW1kIGZvbnQtZGlzcGxheSB0ZXh0LTR4bCB1cHBlcmNhc2UgbGVhZGluZy1bMC45Ml0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtd2hpdGUgc206dGV4dC01eGwiPgogICAgICAgICAgICAgICAgV0VCUyBBIE1FRElEQSBDT04gRElSRUNDSU9OIFZJU1VBTCBSRUFMLgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgbWF4LXctbWQgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICBObyB0cmFiYWphbW9zIGNvbW8gY2F0YWxvZ28gZGUgYmxvcXVlcy4gRGVmaW5pbW9zIHVuYSBsb2dpY2EgdmlzdWFsLCB1bmEgbmFycmF0aXZhIHkgdW5hIGVzdHJ1Y3R1cmEgcXVlIGhhZ2FuIHF1ZSBsYSB3ZWIgc2UgcGVyY2liYSBwcm9waWEuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01IGdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IHRleHQteHMgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMTRlbV0gdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci13aGl0ZS8xMiBweC0wIHB5LTMiPkRpcmVjY2lvbiBkZSBhcnRlIGRpZ2l0YWw8L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci13aGl0ZS8xMiBweC0wIHB5LTMiPkFycXVpdGVjdHVyYSBkZSBjb250ZW5pZG9zPC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJweC0wIHB5LTMiPkRlc2Fycm9sbG8gZnJvbnRlbmQgcHJlbWl1bTwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAge3NlcnZpY2VzLm1hcCgoc2VydmljZSwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAga2V5PXtzZXJ2aWNlLnRpdGxlfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpbmRleCA8IHNlcnZpY2VzLmxlbmd0aCAtIDEgfHwgc2VydmljZUZhcXMubGVuZ3RoID8gJ2JvcmRlci1iIGJvcmRlci13aGl0ZS8xMiBweC01IHB5LTUnIDogJ3B4LTUgcHktNSd9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTMiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTR4bCBsZWFkaW5nLW5vbmUgdHJhY2tpbmctWy0wLjA4ZW1dIHRleHQtd2hpdGUvNjAiPgogICAgICAgICAgICAgICAgICAgIHtTdHJpbmcoaW5kZXggKyAxKS5wYWRTdGFydCgyLCAnMCcpfQogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTN4bCB1cHBlcmNhc2UgbGVhZGluZy1ub25lIHRyYWNraW5nLVstMC4wNGVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNHhsIj4KICAgICAgICAgICAgICAgICAgICB7c2VydmljZS50aXRsZX0KICAgICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtYXgtdy14bCB0ZXh0LXNtIGxlYWRpbmctNiB0ZXh0LXdoaXRlIj57c2VydmljZS5kZXNjcmlwdGlvbn08L3A+CiAgICAgICAgICAgICAgICAgIHtzZXJ2aWNlLnN1YnNlcnZpY2VzID8gKAogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC0yIGdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IHRleHQtWzAuNjhyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjE0ZW1dIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICAgICAge3NlcnZpY2Uuc3Vic2VydmljZXMubWFwKChpdGVtLCBpdGVtSW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgPHAKICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2l0ZW19CiAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpdGVtSW5kZXggPCBzZXJ2aWNlLnN1YnNlcnZpY2VzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTAgcHktMycgOiAncHgtMCBweS0zJ30KICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtpdGVtfQogICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgKSA6IG51bGx9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICkpfQoKICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJweC01IHB5LTUiPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMC43MnJlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjhlbV0gdGV4dC1bI2ZmMmExZl0iPgogICAgICAgICAgICAgICAgUHJlZ3VudGFzIGZyZWN1ZW50ZXMKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy0zeGwgZm9udC1kaXNwbGF5IHRleHQtM3hsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjk0XSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LTR4bCI+CiAgICAgICAgICAgICAgICBSRVNQVUVTVEFTIENMQVJBUyBQQVJBIFFVSUVOIEVTVEEgQlVTQ0FORE8gVU5BIFdFQiBDT04gQ1JJVEVSSU8uCiAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdhcC0wIGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgICAgICB7c2VydmljZUZhcXMubWFwKChmYXEsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICAgIDxhcnRpY2xlCiAgICAgICAgICAgICAgICAgICAga2V5PXtmYXEucXVlc3Rpb259CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpbmRleCA8IHNlcnZpY2VGYXFzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB5LTQnIDogJ3B5LTQnfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0ibWF4LXctM3hsIGZvbnQtZGlzcGxheSB0ZXh0LVsxLjA1cmVtXSB1cHBlcmNhc2UgbGVhZGluZy1bMS4wMl0gdHJhY2tpbmctWy0wLjAyZW1dIHRleHQtd2hpdGUgc206dGV4dC1bMS4xNXJlbV0iPgogICAgICAgICAgICAgICAgICAgICAge2ZhcS5xdWVzdGlvbn0KICAgICAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiBtYXgtdy0zeGwgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSBzbTp0ZXh0LVswLjk4cmVtXSI+CiAgICAgICAgICAgICAgICAgICAgICB7ZmFxLmFuc3dlcn0KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8SG9yaXpvbnRhbFdoZWVsIGNsYXNzTmFtZT0ibXQtNSBoaWRkZW4gb3ZlcmZsb3cteC1hdXRvIHBiLTIgc2Nyb2xsYmFyLW5vbmUgbGc6YmxvY2siPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4tdy1tYXggYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4Ij4KICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9InctWzgwdnddIG1heC13LVs3NjBweF0gc2hyaW5rLTAgYm9yZGVyLXIgYm9yZGVyLXdoaXRlLzE4IHB4LTUgcHktNSBzbTpweC02IGxnOnctWzQ2dnddIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMC43MnJlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjhlbV0gdGV4dC1bI2ZmMmExZl0iPgogICAgICAgICAgICAgICAgICBOdWNsZW8KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy1tZCBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIj4KICAgICAgICAgICAgICAgICAgV0VCUyBBIE1FRElEQSBDT04gRElSRUNDSU9OIFZJU1VBTCBSRUFMLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IG1heC13LW1kIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICBObyB0cmFiYWphbW9zIGNvbW8gY2F0YWxvZ28gZGUgYmxvcXVlcy4gRGVmaW5pbW9zIHVuYSBsb2dpY2EgdmlzdWFsLCB1bmEgbmFycmF0aXZhIHkgdW5hIGVzdHJ1Y3R1cmEgcXVlIGhhZ2FuIHF1ZSBsYSB3ZWIgc2UgcGVyY2liYSBwcm9waWEuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdhcC0wIGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCB0ZXh0LXhzIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjE0ZW1dIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci13aGl0ZS8xMiBweC0wIHB5LTMiPkRpcmVjY2lvbiBkZSBhcnRlIGRpZ2l0YWw8L3A+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTAgcHktMyI+QXJxdWl0ZWN0dXJhIGRlIGNvbnRlbmlkb3M8L3A+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHgtMCBweS0zIj5EZXNhcnJvbGxvIGZyb250ZW5kIHByZW1pdW08L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICAgIHtzZXJ2aWNlcy5tYXAoKHNlcnZpY2UsIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAgICBrZXk9e3NlcnZpY2UudGl0bGV9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1bNzR2d10gbWF4LXctWzY2MHB4XSBzaHJpbmstMCBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS01IHNtOnB4LTYgbGc6dy1bMzh2d10iCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC0zIj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTR4bCBsZWFkaW5nLW5vbmUgdHJhY2tpbmctWy0wLjA4ZW1dIHRleHQtd2hpdGUvNjAiPgogICAgICAgICAgICAgICAgICAgICAge1N0cmluZyhpbmRleCArIDEpLnBhZFN0YXJ0KDIsICcwJyl9CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTN4bCB1cHBlcmNhc2UgbGVhZGluZy1ub25lIHRyYWNraW5nLVstMC4wNGVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNHhsIj4KICAgICAgICAgICAgICAgICAgICAgIHtzZXJ2aWNlLnRpdGxlfQogICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtYXgtdy14bCB0ZXh0LXNtIGxlYWRpbmctNiB0ZXh0LXdoaXRlIj57c2VydmljZS5kZXNjcmlwdGlvbn08L3A+CiAgICAgICAgICAgICAgICAgICAge3NlcnZpY2Uuc3Vic2VydmljZXMgPyAoCiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtMiBncmlkIGdhcC0wIGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCB0ZXh0LVswLjY4cmVtXSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4xNGVtXSB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAge3NlcnZpY2Uuc3Vic2VydmljZXMubWFwKChpdGVtLCBpdGVtSW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICA8cAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtpdGVtfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpdGVtSW5kZXggPCBzZXJ2aWNlLnN1YnNlcnZpY2VzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTAgcHktMycgOiAncHgtMCBweS0zJ30KICAgICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aXRlbX0KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgKSA6IG51bGx9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICAgICkpfQoKICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9InctWzk2dnddIG1heC13LVsxMjQwcHhdIHNocmluay0wIGJvcmRlci1yIGJvcmRlci13aGl0ZS8xOCBweC01IHB5LTUgc206cHgtNiBsZzp3LVs3MnZ3XSI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzAuNzJyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI4ZW1dIHRleHQtWyNmZjJhMWZdIj4KICAgICAgICAgICAgICAgICAgUHJlZ3VudGFzIGZyZWN1ZW50ZXMKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9Im10LTMgbWF4LXctM3hsIGZvbnQtZGlzcGxheSB0ZXh0LTN4bCB1cHBlcmNhc2UgbGVhZGluZy1bMC45NF0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtd2hpdGUgc206dGV4dC00eGwiPgogICAgICAgICAgICAgICAgICBSRVNQVUVTVEFTIENMQVJBUyBQQVJBIFFVSUVOIEVTVEEgQlVTQ0FORE8gVU5BIFdFQiBDT04gQ1JJVEVSSU8uCiAgICAgICAgICAgICAgICA8L2gyPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZ3JpZCBnYXAtMCBib3JkZXIteSBib3JkZXItd2hpdGUvMTggbGc6Z3JpZC1jb2xzLTIgbGc6Z2FwLXgtOCI+CiAgICAgICAgICAgICAgICAgIHtzZXJ2aWNlRmFxcy5tYXAoKGZhcSwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAgICAgICAga2V5PXtmYXEucXVlc3Rpb259CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BweS00ICR7aW5kZXggPCBzZXJ2aWNlRmFxcy5sZW5ndGggLSAxID8gJ2JvcmRlci1iIGJvcmRlci13aGl0ZS8xMicgOiAnJ30gJHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXggJSAyID09PSAwID8gJ2xnOnByLTYnIDogJ2xnOnBsLTYnCiAgICAgICAgICAgICAgICAgICAgICB9ICR7aW5kZXggPCBzZXJ2aWNlRmFxcy5sZW5ndGggLSAyID8gJ2xnOmJvcmRlci1iIGxnOmJvcmRlci13aGl0ZS8xMicgOiAnJ31gfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9Im1heC13LTN4bCBmb250LWRpc3BsYXkgdGV4dC1bMS4wNXJlbV0gdXBwZXJjYXNlIGxlYWRpbmctWzEuMDJdIHRyYWNraW5nLVstMC4wMmVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtWzEuMTVyZW1dIj4KICAgICAgICAgICAgICAgICAgICAgICAge2ZhcS5xdWVzdGlvbn0KICAgICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTIgbWF4LXctM3hsIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUgc206dGV4dC1bMC45OHJlbV0iPgogICAgICAgICAgICAgICAgICAgICAgICB7ZmFxLmFuc3dlcn0KICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvSG9yaXpvbnRhbFdoZWVsPgogICAgICAgIDwvUmV2ZWFsPgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFNlcnZpY2VzCg=="}
+import { serviceFaqs, services } from '../../data/siteData'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function Services() {
+  return (
+    <section id="servicios" className="relative flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <img
+        src="/services-bg.gif"
+        alt=""
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover object-center opacity-[0.42]"
+      />
+      <div className="absolute inset-0 bg-black/58" />
+
+      <div className="section-shell relative w-full">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Servicios"
+            title="SERVICIOS PENSADOS PARA QUE LA MARCA ENTRE FUERTE Y SE QUEDE."
+            copy="Diseccionamos lo que la web tiene que hacer y lo convertimos en estructura, ritmo, copy y presencia visual."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={80}>
+          <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+            <article className="border-b border-white/12 px-5 py-5">
+              <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#ff2a1f]">
+                Nucleo
+              </p>
+              <p className="mt-3 max-w-md font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl">
+                WEBS A MEDIDA CON DIRECCION VISUAL REAL.
+              </p>
+              <p className="mt-4 max-w-md text-sm leading-6 text-white">
+                No trabajamos como catalogo de bloques. Definimos una logica visual, una narrativa y una estructura que hagan que la web se perciba propia.
+              </p>
+              <div className="mt-5 grid gap-0 border-y border-white/18 text-xs font-semibold uppercase tracking-[0.14em] text-white">
+                <p className="border-b border-white/12 px-0 py-3">Direccion de arte digital</p>
+                <p className="border-b border-white/12 px-0 py-3">Arquitectura de contenidos</p>
+                <p className="px-0 py-3">Desarrollo frontend premium</p>
+              </div>
+            </article>
+
+            {services.map((service, index) => (
+              <article
+                key={service.title}
+                className={index < services.length - 1 || serviceFaqs.length ? 'border-b border-white/12 px-5 py-5' : 'px-5 py-5'}
+              >
+                <div className="grid gap-3">
+                  <p className="font-display text-4xl leading-none tracking-[-0.08em] text-white/60">
+                    {String(index + 1).padStart(2, '0')}
+                  </p>
+                  <h3 className="font-display text-3xl uppercase leading-none tracking-[-0.04em] text-white sm:text-4xl">
+                    {service.title}
+                  </h3>
+                  <p className="max-w-xl text-sm leading-6 text-white">{service.description}</p>
+                  {service.subservices ? (
+                    <div className="mt-2 grid gap-0 border-y border-white/18 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-white">
+                      {service.subservices.map((item, itemIndex) => (
+                        <p
+                          key={item}
+                          className={itemIndex < service.subservices.length - 1 ? 'border-b border-white/12 px-0 py-3' : 'px-0 py-3'}
+                        >
+                          {item}
+                        </p>
+                      ))}
+                    </div>
+                  ) : null}
+                </div>
+              </article>
+            ))}
+
+            <article className="px-5 py-5">
+              <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#ff2a1f]">
+                Preguntas frecuentes
+              </p>
+              <h2 className="mt-3 max-w-3xl font-display text-3xl uppercase leading-[0.94] tracking-[-0.05em] text-white sm:text-4xl">
+                RESPUESTAS CLARAS PARA QUIEN ESTA BUSCANDO UNA WEB CON CRITERIO.
+              </h2>
+              <div className="mt-5 grid gap-0 border-y border-white/18">
+                {serviceFaqs.map((faq, index) => (
+                  <article
+                    key={faq.question}
+                    className={index < serviceFaqs.length - 1 ? 'border-b border-white/12 py-4' : 'py-4'}
+                  >
+                    <h3 className="max-w-3xl font-display text-[1.05rem] uppercase leading-[1.02] tracking-[-0.02em] text-white sm:text-[1.15rem]">
+                      {faq.question}
+                    </h3>
+                    <p className="mt-2 max-w-3xl text-sm leading-6 text-white sm:text-[0.98rem]">
+                      {faq.answer}
+                    </p>
+                  </article>
+                ))}
+              </div>
+            </article>
+          </div>
+
+          <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+            <div className="flex min-w-max border-y border-white/18">
+              <article className="w-[80vw] max-w-[760px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[46vw]">
+                <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#ff2a1f]">
+                  Nucleo
+                </p>
+                <p className="mt-3 max-w-md font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl">
+                  WEBS A MEDIDA CON DIRECCION VISUAL REAL.
+                </p>
+                <p className="mt-4 max-w-md text-sm leading-6 text-white">
+                  No trabajamos como catalogo de bloques. Definimos una logica visual, una narrativa y una estructura que hagan que la web se perciba propia.
+                </p>
+                <div className="mt-5 grid gap-0 border-y border-white/18 text-xs font-semibold uppercase tracking-[0.14em] text-white">
+                  <p className="border-b border-white/12 px-0 py-3">Direccion de arte digital</p>
+                  <p className="border-b border-white/12 px-0 py-3">Arquitectura de contenidos</p>
+                  <p className="px-0 py-3">Desarrollo frontend premium</p>
+                </div>
+              </article>
+
+              {services.map((service, index) => (
+                <article
+                  key={service.title}
+                  className="w-[74vw] max-w-[660px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[38vw]"
+                >
+                  <div className="grid gap-3">
+                    <p className="font-display text-4xl leading-none tracking-[-0.08em] text-white/60">
+                      {String(index + 1).padStart(2, '0')}
+                    </p>
+                    <h3 className="font-display text-3xl uppercase leading-none tracking-[-0.04em] text-white sm:text-4xl">
+                      {service.title}
+                    </h3>
+                    <p className="max-w-xl text-sm leading-6 text-white">{service.description}</p>
+                    {service.subservices ? (
+                      <div className="mt-2 grid gap-0 border-y border-white/18 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-white">
+                        {service.subservices.map((item, itemIndex) => (
+                          <p
+                            key={item}
+                            className={itemIndex < service.subservices.length - 1 ? 'border-b border-white/12 px-0 py-3' : 'px-0 py-3'}
+                          >
+                            {item}
+                          </p>
+                        ))}
+                      </div>
+                    ) : null}
+                  </div>
+                </article>
+              ))}
+
+              <article className="w-[96vw] max-w-[1240px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[72vw]">
+                <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#ff2a1f]">
+                  Preguntas frecuentes
+                </p>
+                <h2 className="mt-3 max-w-3xl font-display text-3xl uppercase leading-[0.94] tracking-[-0.05em] text-white sm:text-4xl">
+                  RESPUESTAS CLARAS PARA QUIEN ESTA BUSCANDO UNA WEB CON CRITERIO.
+                </h2>
+                <div className="mt-5 grid gap-0 border-y border-white/18 lg:grid-cols-2 lg:gap-x-8">
+                  {serviceFaqs.map((faq, index) => (
+                    <article
+                      key={faq.question}
+                      className={`py-4 ${index < serviceFaqs.length - 1 ? 'border-b border-white/12' : ''} ${
+                        index % 2 === 0 ? 'lg:pr-6' : 'lg:pl-6'
+                      } ${index < serviceFaqs.length - 2 ? 'lg:border-b lg:border-white/12' : ''}`}
+                    >
+                      <h3 className="max-w-3xl font-display text-[1.05rem] uppercase leading-[1.02] tracking-[-0.02em] text-white sm:text-[1.15rem]">
+                        {faq.question}
+                      </h3>
+                      <p className="mt-2 max-w-3xl text-sm leading-6 text-white sm:text-[0.98rem]">
+                        {faq.answer}
+                      </p>
+                    </article>
+                  ))}
+                </div>
+              </article>
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Services

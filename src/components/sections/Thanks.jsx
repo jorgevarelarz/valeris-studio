@@ -1,1 +1,48 @@
-{"data":"aW1wb3J0IHsgQXJyb3dMZWZ0LCBBcnJvd1JpZ2h0IH0gZnJvbSAnbHVjaWRlLXJlYWN0JwppbXBvcnQgeyBMaW5rIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScKaW1wb3J0IFJldmVhbCBmcm9tICcuLi91aS9SZXZlYWwnCgpmdW5jdGlvbiBUaGFua3MoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCBtaW4taC1bY2FsYygxMDBzdmgtNXJlbSldIGl0ZW1zLXN0YXJ0IG92ZXJmbG93LWhpZGRlbiBweC00IHB5LTUgbGc6aC1mdWxsIGxnOml0ZW1zLWNlbnRlciBsZzpweS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InNlY3Rpb24tc2hlbGwgcmVsYXRpdmUgdy1mdWxsIj4KICAgICAgICA8UmV2ZWFsIGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIHRleHQtd2hpdGUiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC0wIGxnOmdyaWQtY29scy1bMS4xZnJfMC45ZnJdIj4KICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci13aGl0ZS8xOCBweC01IHB5LTYgc206cHgtNiBsZzpib3JkZXItYi0wIGxnOmJvcmRlci1yIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB1cHBlcmNhc2UgdHJhY2tpbmctWzAuM2VtXSB0ZXh0LVsjZmYyYTFmXSI+U29saWNpdHVkIGVudmlhZGE8L3A+CiAgICAgICAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJtdC0zIG1heC13LTR4bCBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOV0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtd2hpdGUgc206dGV4dC01eGwgbGc6dGV4dC02eGwiPgogICAgICAgICAgICAgICAgICBIRU1PUyBSRUdJU1RSQURPCiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1bI2ZmMmExZl0iPlRVIENPTlRBQ1RPLjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvaDE+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTUgbWF4LXctMnhsIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUgc206dGV4dC1iYXNlIj4KICAgICAgICAgICAgICAgICAgU2kgaGFzIHB1bHNhZG8gV2hhdHNBcHAgbyBDb3JyZW8sIHlhIGRlYmVyw61hcyB0ZW5lciBhYmllcnRvIGVsIGNhbmFsIGRlIGNvbnRhY3RvLgogICAgICAgICAgICAgICAgICBDdWFuZG8gbm9zIGVzY3JpYmFzLCBzZWd1aW1vcyBwb3IgYWjDrSBwYXJhIHBsYW50ZWFyIGVsIHByb3llY3RvLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KCiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGp1c3RpZnktY2VudGVyIGdhcC00IHB4LTUgcHktNiBzbTpweC02Ij4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibWF4LXcteGwgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZS84OCI+CiAgICAgICAgICAgICAgICAgIE1pZW50cmFzIHRhbnRvLCBwdWVkZXMgdm9sdmVyIGFsIGluaWNpbyBvIHJldmlzYXIgbG9zIHNlcnZpY2lvcyBwYXJhIGRlZmluaXIgbWVqb3IKICAgICAgICAgICAgICAgICAgcXXDqSBuZWNlc2l0YSB0dSB3ZWIuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMyBzbTpmbGV4LXJvdyI+CiAgICAgICAgICAgICAgICAgIDxMaW5rIHRvPSIvIiBjbGFzc05hbWU9InByaW1hcnktYnV0dG9uIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICBWb2x2ZXIgYWwgaW5pY2lvCiAgICAgICAgICAgICAgICAgICAgPEFycm93TGVmdCBzaXplPXsxNn0gLz4KICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICA8TGluayB0bz0iL3NlcnZpY2lvcyIgY2xhc3NOYW1lPSJzZWNvbmRhcnktYnV0dG9uIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICBWZXIgc2VydmljaW9zCiAgICAgICAgICAgICAgICAgICAgPEFycm93UmlnaHQgc2l6ZT17MTZ9IC8+CiAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L1JldmVhbD4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBUaGFua3MK"}
+import { ArrowLeft, ArrowRight } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import Reveal from '../ui/Reveal'
+
+function Thanks() {
+  return (
+    <section className="relative flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <div className="section-shell relative w-full">
+        <Reveal className="overflow-hidden text-white">
+          <div className="border-y border-white/18">
+            <div className="grid gap-0 lg:grid-cols-[1.1fr_0.9fr]">
+              <article className="border-b border-white/18 px-5 py-6 sm:px-6 lg:border-b-0 lg:border-r">
+                <p className="text-xs uppercase tracking-[0.3em] text-[#ff2a1f]">Solicitud enviada</p>
+                <h1 className="mt-3 max-w-4xl font-display text-4xl uppercase leading-[0.9] tracking-[-0.05em] text-white sm:text-5xl lg:text-6xl">
+                  HEMOS REGISTRADO
+                  <span className="block text-[#ff2a1f]">TU CONTACTO.</span>
+                </h1>
+                <p className="mt-5 max-w-2xl text-sm leading-6 text-white sm:text-base">
+                  Si has pulsado WhatsApp o Correo, ya deberías tener abierto el canal de contacto.
+                  Cuando nos escribas, seguimos por ahí para plantear el proyecto.
+                </p>
+              </article>
+
+              <article className="flex flex-col justify-center gap-4 px-5 py-6 sm:px-6">
+                <p className="max-w-xl text-sm leading-6 text-white/88">
+                  Mientras tanto, puedes volver al inicio o revisar los servicios para definir mejor
+                  qué necesita tu web.
+                </p>
+                <div className="flex flex-col gap-3 sm:flex-row">
+                  <Link to="/" className="primary-button gap-2">
+                    Volver al inicio
+                    <ArrowLeft size={16} />
+                  </Link>
+                  <Link to="/servicios" className="secondary-button gap-2">
+                    Ver servicios
+                    <ArrowRight size={16} />
+                  </Link>
+                </div>
+              </article>
+            </div>
+          </div>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Thanks

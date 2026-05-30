@@ -1,1 +1,41 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAncmVhY3QnCgpmdW5jdGlvbiBSZXZlYWwoeyBjaGlsZHJlbiwgY2xhc3NOYW1lID0gJycsIGRlbGF5ID0gMCwgYXMgPSAnZGl2JyB9KSB7CiAgY29uc3QgcmVmID0gdXNlUmVmKG51bGwpCiAgY29uc3QgW2lzVmlzaWJsZSwgc2V0SXNWaXNpYmxlXSA9IHVzZVN0YXRlKGZhbHNlKQogIGNvbnN0IENvbXBvbmVudCA9IGFzCgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBub2RlID0gcmVmLmN1cnJlbnQKCiAgICBpZiAoIW5vZGUpIHsKICAgICAgcmV0dXJuIHVuZGVmaW5lZAogICAgfQoKICAgIGNvbnN0IG9ic2VydmVyID0gbmV3IEludGVyc2VjdGlvbk9ic2VydmVyKAogICAgICAoW2VudHJ5XSkgPT4gewogICAgICAgIGlmIChlbnRyeS5pc0ludGVyc2VjdGluZykgewogICAgICAgICAgc2V0SXNWaXNpYmxlKHRydWUpCiAgICAgICAgICBvYnNlcnZlci51bm9ic2VydmUoZW50cnkudGFyZ2V0KQogICAgICAgIH0KICAgICAgfSwKICAgICAgeyB0aHJlc2hvbGQ6IDAuMTggfSwKICAgICkKCiAgICBvYnNlcnZlci5vYnNlcnZlKG5vZGUpCgogICAgcmV0dXJuICgpID0+IG9ic2VydmVyLmRpc2Nvbm5lY3QoKQogIH0sIFtdKQoKICByZXR1cm4gKAogICAgPENvbXBvbmVudAogICAgICByZWY9e3JlZn0KICAgICAgY2xhc3NOYW1lPXtgJHtjbGFzc05hbWV9IHJldmVhbCAke2lzVmlzaWJsZSA/ICdyZXZlYWwtdmlzaWJsZScgOiAnJ31gfQogICAgICBzdHlsZT17eyB0cmFuc2l0aW9uRGVsYXk6IGAke2RlbGF5fW1zYCB9fQogICAgPgogICAgICB7Y2hpbGRyZW59CiAgICA8L0NvbXBvbmVudD4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFJldmVhbAo="}
+import { useEffect, useRef, useState } from 'react'
+
+function Reveal({ children, className = '', delay = 0, as = 'div' }) {
+  const ref = useRef(null)
+  const [isVisible, setIsVisible] = useState(false)
+  const Component = as
+
+  useEffect(() => {
+    const node = ref.current
+
+    if (!node) {
+      return undefined
+    }
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true)
+          observer.unobserve(entry.target)
+        }
+      },
+      { threshold: 0.18 },
+    )
+
+    observer.observe(node)
+
+    return () => observer.disconnect()
+  }, [])
+
+  return (
+    <Component
+      ref={ref}
+      className={`${className} reveal ${isVisible ? 'reveal-visible' : ''}`}
+      style={{ transitionDelay: `${delay}ms` }}
+    >
+      {children}
+    </Component>
+  )
+}
+
+export default Reveal

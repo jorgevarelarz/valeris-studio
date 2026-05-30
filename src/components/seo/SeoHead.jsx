@@ -1,1 +1,353 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnCmltcG9ydCB7IHVzZUxvY2F0aW9uIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbScKaW1wb3J0IHsgc2VydmljZUZhcXMsIHNlcnZpY2VzIH0gZnJvbSAnLi4vLi4vZGF0YS9zaXRlRGF0YScKCmNvbnN0IFNJVEVfVVJMID0gJ2h0dHBzOi8vdmFsZXJpc3N0dWRpby5lcycKY29uc3QgREVGQVVMVF9JTUFHRSA9IGAke1NJVEVfVVJMfS9zb2NpYWwtY2FyZC5wbmdgCmNvbnN0IERFRkFVTFRfVElUTEUgPSAnVmFsZXJpcyBTdHVkaW8gfCBEaXNlw7FvIHkgZGVzYXJyb2xsbyB3ZWIgcHJlbWl1bScKY29uc3QgREVGQVVMVF9ERVNDUklQVElPTiA9CiAgJ1ZhbGVyaXMgU3R1ZGlvIGRpc2XDsWEgeSBkZXNhcnJvbGxhIHdlYnMgcHJlbWl1bSBwYXJhIG1hcmNhcywgbmVnb2Npb3MgbG9jYWxlcyB5IHByb3llY3RvcyBxdWUgbmVjZXNpdGFuIHVuYSBwcmVzZW5jaWEgZGlnaXRhbCBlbGVnYW50ZSwgcsOhcGlkYSB5IGVzdHJhdMOpZ2ljYS4nCmNvbnN0IERFRkFVTFRfS0VZV09SRFMgPQogICd2YWxlcmlzIHN0dWRpbywgZGlzZcOxbyB3ZWIgcHJlbWl1bSwgZGVzYXJyb2xsbyB3ZWIsIGxhbmRpbmcgcGFnZXMsIGVzdHVkaW8gZGlnaXRhbCwgZGlzZcOxbyB3ZWIgcGFyYSBuZWdvY2lvcywgd2VicyBwYXJhIG1hcmNhcycKY29uc3QgREVGQVVMVF9ST0JPVFMgPSAnaW5kZXgsZm9sbG93LG1heC1pbWFnZS1wcmV2aWV3OmxhcmdlLG1heC1zbmlwcGV0Oi0xLG1heC12aWRlby1wcmV2aWV3Oi0xJwoKY29uc3Qgcm91dGVTZW8gPSB7CiAgJy8nOiB7CiAgICB0aXRsZTogJ1ZhbGVyaXMgU3R1ZGlvIHwgRGlzZcOxbyB5IGRlc2Fycm9sbG8gd2ViIHByZW1pdW0nLAogICAgZGVzY3JpcHRpb246CiAgICAgICdEaXNlw7FhbW9zLCBlc2NyaWJpbW9zIHkgZGVzYXJyb2xsYW1vcyB3ZWJzIHByZW1pdW0gcGFyYSBtYXJjYXMgcXVlIG5vIHF1aWVyZW4gcGFyZWNlciB1bmEgbcOhcy4nLAogICAga2V5d29yZHM6CiAgICAgICdWYWxlcmlzIFN0dWRpbywgZGlzZcOxbyB3ZWIgcHJlbWl1bSwgZGVzYXJyb2xsbyB3ZWIgcHJlbWl1bSwgZXN0dWRpbyB3ZWIsIGxhbmRpbmcgcGFnZXMsIHdlYnMgY29uIGltcGFjdG8nLAogICAgY2Fub25pY2FsOiAnLycsCiAgICByb2JvdHM6IERFRkFVTFRfUk9CT1RTLAogICAgcGFnZVR5cGU6ICdXZWJQYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICBdLAogIH0sCiAgJy9hY2Nlc28nOiB7CiAgICB0aXRsZTogJ0FjY2VzbyB8IFZhbGVyaXMgU3R1ZGlvJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnUHVlcnRhIGRlIGVudHJhZGEgYSBWYWxlcmlzIFN0dWRpbywgZXN0dWRpbyBlc3BlY2lhbGl6YWRvIGVuIGRpc2XDsW8geSBkZXNhcnJvbGxvIHdlYiBjb24gZGlyZWNjacOzbiB2aXN1YWwgZnVlcnRlLicsCiAgICBjYW5vbmljYWw6ICcvJywKICAgIHJvYm90czogJ25vaW5kZXgsZm9sbG93LG1heC1pbWFnZS1wcmV2aWV3OmxhcmdlLG1heC1zbmlwcGV0Oi0xLG1heC12aWRlby1wcmV2aWV3Oi0xJywKICAgIHBhZ2VUeXBlOiAnV2ViUGFnZScsCiAgICBicmVhZGNydW1iOiBbCiAgICAgIHsgbmFtZTogJ0luaWNpbycsIHBhdGg6ICcvJyB9LAogICAgXSwKICB9LAogICcvc2VydmljaW9zJzogewogICAgdGl0bGU6ICdTZXJ2aWNpb3Mgd2ViIHByZW1pdW0gfCBWYWxlcmlzIFN0dWRpbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0Rpc2XDsW8gd2ViLCBkZXNhcnJvbGxvLCBsYW5kaW5ncyBkZSBjb252ZXJzacOzbiwgcmVkaXNlw7Fvcywgc29wb3J0ZSwgU0VPIHTDqWNuaWNvIHkgd2VicyBjb24gaW50ZWxpZ2VuY2lhIGludGVncmFkYS4nLAogICAga2V5d29yZHM6CiAgICAgICdzZXJ2aWNpb3MgZGlzZcOxbyB3ZWIsIGRlc2Fycm9sbG8gd2ViLCBsYW5kaW5ncyBkZSBjb252ZXJzacOzbiwgcmVkaXNlw7FvIHdlYiwgbWFudGVuaW1pZW50byB3ZWIsIFNFTyB0w6ljbmljbywgYXV0b21hdGl6YWNpb25lcyB3ZWInLAogICAgY2Fub25pY2FsOiAnL3NlcnZpY2lvcycsCiAgICBwYWdlVHlwZTogJ0NvbGxlY3Rpb25QYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICAgIHsgbmFtZTogJ1NlcnZpY2lvcycsIHBhdGg6ICcvc2VydmljaW9zJyB9LAogICAgXSwKICB9LAogICcvdmFsZXJpcy1yb3cnOiB7CiAgICB0aXRsZTogJ1ZhbGVyaXMgeCBSb3cgfCBJZGVudGlkYWQgdmlzdWFsIHkgZXhwZXJpZW5jaWEgZGlnaXRhbCcsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0NvbGFib3JhY2nDs24gZW50cmUgUm93IHkgVmFsZXJpcyBTdHVkaW8gcGFyYSBwcm95ZWN0b3MgcXVlIG5lY2VzaXRhbiBpZGVudGlkYWQgdmlzdWFsIHPDs2xpZGEgeSB1bmEgd2ViIGEgbGEgYWx0dXJhLicsCiAgICBrZXl3b3JkczoKICAgICAgJ1ZhbGVyaXMgeCBSb3csIGJyYW5kaW5nIHkgd2ViLCBpZGVudGlkYWQgdmlzdWFsLCBleHBlcmllbmNpYSBkaWdpdGFsLCBjb2xhYm9yYWNpw7NuIGNyZWF0aXZhJywKICAgIGNhbm9uaWNhbDogJy92YWxlcmlzLXJvdycsCiAgICBwYWdlVHlwZTogJ1dlYlBhZ2UnLAogICAgYnJlYWRjcnVtYjogWwogICAgICB7IG5hbWU6ICdJbmljaW8nLCBwYXRoOiAnLycgfSwKICAgICAgeyBuYW1lOiAnVmFsZXJpcyB4IFJvdycsIHBhdGg6ICcvdmFsZXJpcy1yb3cnIH0sCiAgICBdLAogIH0sCiAgJy9wb3ItcXVlLXZhbGVyaXMnOiB7CiAgICB0aXRsZTogJ1BvciBxdcOpIFZhbGVyaXMgfCBXZWJzIGNvbiBkaXJlY2Npw7NuIHZpc3VhbCB5IGVzdHJhdGVnaWEnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdXZWJzIHLDoXBpZGFzLCBwZW5zYWRhcyBwYXJhIGNvbnZlcnNpw7NuIHkgZGlzZcOxYWRhcyBwYXJhIHJlZm9yemFyIGxhIHBlcmNlcGNpw7NuIGRlIG1hcmNhIGNvbiB1bmEgZGlyZWNjacOzbiB2aXN1YWwgY2xhcmEuJywKICAgIGtleXdvcmRzOgogICAgICAncG9yIHF1w6kgdmFsZXJpcywgZGlzZcOxbyB3ZWIgZXN0cmF0w6lnaWNvLCB3ZWJzIHLDoXBpZGFzLCBkaXNlw7FvIHJlc3BvbnNpdmUsIGNvbnZlcnNpw7NuIHdlYiwgaW1hZ2VuIGRlIG1hcmNhJywKICAgIGNhbm9uaWNhbDogJy9wb3ItcXVlLXZhbGVyaXMnLAogICAgcGFnZVR5cGU6ICdXZWJQYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICAgIHsgbmFtZTogJ1ZhbG9yJywgcGF0aDogJy9wb3ItcXVlLXZhbGVyaXMnIH0sCiAgICBdLAogIH0sCiAgJy9wcm9jZXNvJzogewogICAgdGl0bGU6ICdQcm9jZXNvIGRlIHRyYWJham8gfCBWYWxlcmlzIFN0dWRpbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0VzdHJhdGVnaWEsIGRpc2XDsW8sIGRlc2Fycm9sbG8geSBsYW56YW1pZW50byBlbiB1biBwcm9jZXNvIGNsYXJvIHBhcmEgY3JlYXIgd2VicyBwcmVtaXVtIGNvbiBjcml0ZXJpbyB5IGVzdHJ1Y3R1cmEuJywKICAgIGtleXdvcmRzOgogICAgICAncHJvY2VzbyBkaXNlw7FvIHdlYiwgZXN0cmF0ZWdpYSB3ZWIsIGRlc2Fycm9sbG8gd2ViIHByZW1pdW0sIGxhbnphbWllbnRvIHdlYiwgZXN0dWRpbyB3ZWInLAogICAgY2Fub25pY2FsOiAnL3Byb2Nlc28nLAogICAgcGFnZVR5cGU6ICdXZWJQYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICAgIHsgbmFtZTogJ1Byb2Nlc28nLCBwYXRoOiAnL3Byb2Nlc28nIH0sCiAgICBdLAogIH0sCiAgJy9wcm95ZWN0b3MnOiB7CiAgICB0aXRsZTogJ1Byb3llY3RvcyB3ZWIgfCBWYWxlcmlzIFN0dWRpbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1NlbGVjY2nDs24gZGUgcHJveWVjdG9zIHdlYiBjb24gZW5mb3F1ZSBlZGl0b3JpYWwsIHByZXNlbmNpYSB2aXN1YWwgZnVlcnRlIHkgZXN0cnVjdHVyYSBwZW5zYWRhIHBhcmEgY2FwdGFyIG1lam9yLicsCiAgICBrZXl3b3JkczoKICAgICAgJ3Byb3llY3RvcyB3ZWIsIHBvcnRmb2xpbyB3ZWIsIGNhc29zIHdlYiwgZGlzZcOxbyB3ZWIgZWRpdG9yaWFsLCB3ZWJzIHBhcmEgbWFyY2FzJywKICAgIGNhbm9uaWNhbDogJy9wcm95ZWN0b3MnLAogICAgcGFnZVR5cGU6ICdDb2xsZWN0aW9uUGFnZScsCiAgICBicmVhZGNydW1iOiBbCiAgICAgIHsgbmFtZTogJ0luaWNpbycsIHBhdGg6ICcvJyB9LAogICAgICB7IG5hbWU6ICdQcm95ZWN0b3MnLCBwYXRoOiAnL3Byb3llY3RvcycgfSwKICAgIF0sCiAgfSwKICAnL3Rlc3RpbW9uaW9zJzogewogICAgdGl0bGU6ICdUZXN0aW1vbmlvcyB8IFZhbGVyaXMgU3R1ZGlvJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnTG8gcXVlIGNhbWJpYSBubyBlcyBzb2xvIGxhIHdlYjogbWVqb3JhIGxhIHBlcmNlcGNpw7NuIGRlIG1hcmNhLCBsYSBjbGFyaWRhZCBkZWwgcHJveWVjdG8geSBsYSBjb25maWFuemEuJywKICAgIGtleXdvcmRzOgogICAgICAndGVzdGltb25pb3MgZGlzZcOxbyB3ZWIsIG9waW5pb25lcyBjbGllbnRlcywgZXN0dWRpbyB3ZWIgcHJlbWl1bSwgcGVyY2VwY2nDs24gZGUgbWFyY2EnLAogICAgY2Fub25pY2FsOiAnL3Rlc3RpbW9uaW9zJywKICAgIHBhZ2VUeXBlOiAnQ29sbGVjdGlvblBhZ2UnLAogICAgYnJlYWRjcnVtYjogWwogICAgICB7IG5hbWU6ICdJbmljaW8nLCBwYXRoOiAnLycgfSwKICAgICAgeyBuYW1lOiAnVGVzdGltb25pb3MnLCBwYXRoOiAnL3Rlc3RpbW9uaW9zJyB9LAogICAgXSwKICB9LAogICcvZXN0dWRpbyc6IHsKICAgIHRpdGxlOiAnRXN0dWRpbyB8IFZhbGVyaXMgU3R1ZGlvJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnVmFsZXJpcyBTdHVkaW8gdW5lIGRpcmVjY2nDs24gdmlzdWFsLCBlc3RyYXRlZ2lhIHkgZGVzYXJyb2xsbyB3ZWIgcGFyYSBuZWdvY2lvcyBxdWUgbmVjZXNpdGFuIGRhciB1bmEgbWVqb3IgaW1wcmVzacOzbiBkaWdpdGFsLicsCiAgICBrZXl3b3JkczoKICAgICAgJ2VzdHVkaW8gZGUgZGlzZcOxbyB3ZWIsIGRpcmVjY2nDs24gdmlzdWFsLCBlc3RyYXRlZ2lhIGRpZ2l0YWwsIGRlc2Fycm9sbG8gd2ViIHBhcmEgbmVnb2Npb3MnLAogICAgY2Fub25pY2FsOiAnL2VzdHVkaW8nLAogICAgcGFnZVR5cGU6ICdBYm91dFBhZ2UnLAogICAgYnJlYWRjcnVtYjogWwogICAgICB7IG5hbWU6ICdJbmljaW8nLCBwYXRoOiAnLycgfSwKICAgICAgeyBuYW1lOiAnRXN0dWRpbycsIHBhdGg6ICcvZXN0dWRpbycgfSwKICAgIF0sCiAgfSwKICAnL2NvbnRhY3RvJzogewogICAgdGl0bGU6ICdDb250YWN0byB8IFZhbGVyaXMgU3R1ZGlvJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnU29saWNpdGEgdHUgcHJveWVjdG8gd2ViIGVuIFZhbGVyaXMgU3R1ZGlvIHBvciBXaGF0c0FwcCBvIGNvcnJlbyB5IGVtcGVjZW1vcyBhIGNvbnN0cnVpciB1bmEgcHJlc2VuY2lhIGRpZ2l0YWwgbcOhcyBmdWVydGUuJywKICAgIGtleXdvcmRzOgogICAgICAnY29udGFjdG8gdmFsZXJpcyBzdHVkaW8sIHNvbGljaXRhciBwcmVzdXB1ZXN0byB3ZWIsIGFnZW5jaWEgZGlzZcOxbyB3ZWIsIGNvbnRhY3RvIGRlc2Fycm9sbG8gd2ViJywKICAgIGNhbm9uaWNhbDogJy9jb250YWN0bycsCiAgICBwYWdlVHlwZTogJ0NvbnRhY3RQYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICAgIHsgbmFtZTogJ0NvbnRhY3RvJywgcGF0aDogJy9jb250YWN0bycgfSwKICAgIF0sCiAgfSwKICAnL2dyYWNpYXMnOiB7CiAgICB0aXRsZTogJ0dyYWNpYXMgfCBWYWxlcmlzIFN0dWRpbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0dyYWNpYXMgcG9yIGNvbnRhY3RhciBjb24gVmFsZXJpcyBTdHVkaW8uIFlhIHRlbmVtb3MgcmVnaXN0cmFkYSB0dSBzb2xpY2l0dWQgeSBzZWd1aW1vcyBsYSBjb252ZXJzYWNpw7NuIHBvciBlbCBjYW5hbCBlbGVnaWRvLicsCiAgICBrZXl3b3JkczoKICAgICAgJ2dyYWNpYXMgdmFsZXJpcyBzdHVkaW8sIHNvbGljaXR1ZCBlbnZpYWRhLCBjb250YWN0byBkaXNlw7FvIHdlYiwgcHJlc3VwdWVzdG8gd2ViIGVudmlhZG8nLAogICAgY2Fub25pY2FsOiAnL2dyYWNpYXMnLAogICAgcGFnZVR5cGU6ICdXZWJQYWdlJywKICAgIGJyZWFkY3J1bWI6IFsKICAgICAgeyBuYW1lOiAnSW5pY2lvJywgcGF0aDogJy8nIH0sCiAgICAgIHsgbmFtZTogJ0dyYWNpYXMnLCBwYXRoOiAnL2dyYWNpYXMnIH0sCiAgICBdLAogIH0sCn0KCmZ1bmN0aW9uIHVwc2VydE1ldGEoYXR0cmlidXRlLCBrZXksIGNvbnRlbnQpIHsKICBsZXQgbm9kZSA9IGRvY3VtZW50LmhlYWQucXVlcnlTZWxlY3RvcihgbWV0YVske2F0dHJpYnV0ZX09IiR7a2V5fSJdYCkKCiAgaWYgKCFub2RlKSB7CiAgICBub2RlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnbWV0YScpCiAgICBub2RlLnNldEF0dHJpYnV0ZShhdHRyaWJ1dGUsIGtleSkKICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobm9kZSkKICB9CgogIG5vZGUuc2V0QXR0cmlidXRlKCdjb250ZW50JywgY29udGVudCkKfQoKZnVuY3Rpb24gdXBzZXJ0TGluayhyZWwsIGhyZWYpIHsKICBsZXQgbm9kZSA9IGRvY3VtZW50LmhlYWQucXVlcnlTZWxlY3RvcihgbGlua1tyZWw9IiR7cmVsfSJdYCkKCiAgaWYgKCFub2RlKSB7CiAgICBub2RlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnbGluaycpCiAgICBub2RlLnNldEF0dHJpYnV0ZSgncmVsJywgcmVsKQogICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChub2RlKQogIH0KCiAgbm9kZS5zZXRBdHRyaWJ1dGUoJ2hyZWYnLCBocmVmKQp9CgpmdW5jdGlvbiB1cHNlcnRKc29uTGQoaWQsIGRhdGEpIHsKICBsZXQgbm9kZSA9IGRvY3VtZW50LmhlYWQucXVlcnlTZWxlY3Rvcihgc2NyaXB0W2RhdGEtc2VvPSIke2lkfSJdYCkKCiAgaWYgKCFub2RlKSB7CiAgICBub2RlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JykKICAgIG5vZGUudHlwZSA9ICdhcHBsaWNhdGlvbi9sZCtqc29uJwogICAgbm9kZS5kYXRhc2V0LnNlbyA9IGlkCiAgICBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKG5vZGUpCiAgfQoKICBub2RlLnRleHRDb250ZW50ID0gSlNPTi5zdHJpbmdpZnkoZGF0YSkKfQoKZnVuY3Rpb24gYnVpbGRCcmVhZGNydW1iU2NoZW1hKGl0ZW1zKSB7CiAgaWYgKCFpdGVtcz8ubGVuZ3RoKSB7CiAgICByZXR1cm4gbnVsbAogIH0KCiAgcmV0dXJuIHsKICAgICdAdHlwZSc6ICdCcmVhZGNydW1iTGlzdCcsCiAgICBpdGVtTGlzdEVsZW1lbnQ6IGl0ZW1zLm1hcCgoaXRlbSwgaW5kZXgpID0+ICh7CiAgICAgICdAdHlwZSc6ICdMaXN0SXRlbScsCiAgICAgIHBvc2l0aW9uOiBpbmRleCArIDEsCiAgICAgIG5hbWU6IGl0ZW0ubmFtZSwKICAgICAgaXRlbTogYCR7U0lURV9VUkx9JHtpdGVtLnBhdGh9YCwKICAgIH0pKSwKICB9Cn0KCmZ1bmN0aW9uIGJ1aWxkUm91dGVTY2hlbWEocGF0aG5hbWUsIHNlbywgdXJsKSB7CiAgY29uc3QgYmFzZUdyYXBoID0gWwogICAgewogICAgICAnQHR5cGUnOiAnT3JnYW5pemF0aW9uJywKICAgICAgJ0BpZCc6IGAke1NJVEVfVVJMfS8jb3JnYW5pemF0aW9uYCwKICAgICAgbmFtZTogJ1ZhbGVyaXMgU3R1ZGlvJywKICAgICAgdXJsOiBTSVRFX1VSTCwKICAgICAgbG9nbzogYCR7U0lURV9VUkx9L2xvZ28ucG5nYCwKICAgICAgZW1haWw6ICdpbmZvQHZhbGVyaXNzdHVkaW8uZXMnLAogICAgICB0ZWxlcGhvbmU6ICcrMzQ2NzI3MTAwNDAnLAogICAgICBjb250YWN0UG9pbnQ6IFsKICAgICAgICB7CiAgICAgICAgICAnQHR5cGUnOiAnQ29udGFjdFBvaW50JywKICAgICAgICAgIGNvbnRhY3RUeXBlOiAnY3VzdG9tZXIgc3VwcG9ydCcsCiAgICAgICAgICBlbWFpbDogJ2luZm9AdmFsZXJpc3N0dWRpby5lcycsCiAgICAgICAgICB0ZWxlcGhvbmU6ICcrMzQ2NzI3MTAwNDAnLAogICAgICAgICAgYXZhaWxhYmxlTGFuZ3VhZ2U6IFsnZXMnLCAnZW4nXSwKICAgICAgICB9LAogICAgICBdLAogICAgfSwKICAgIHsKICAgICAgJ0B0eXBlJzogJ1dlYlNpdGUnLAogICAgICAnQGlkJzogYCR7U0lURV9VUkx9LyN3ZWJzaXRlYCwKICAgICAgdXJsOiBTSVRFX1VSTCwKICAgICAgbmFtZTogJ1ZhbGVyaXMgU3R1ZGlvJywKICAgICAgaW5MYW5ndWFnZTogJ2VzLUVTJywKICAgICAgcHVibGlzaGVyOiB7CiAgICAgICAgJ0BpZCc6IGAke1NJVEVfVVJMfS8jb3JnYW5pemF0aW9uYCwKICAgICAgfSwKICAgIH0sCiAgICB7CiAgICAgICdAdHlwZSc6IHNlby5wYWdlVHlwZSB8fCAnV2ViUGFnZScsCiAgICAgICdAaWQnOiBgJHt1cmx9I3dlYnBhZ2VgLAogICAgICB1cmwsCiAgICAgIG5hbWU6IHNlby50aXRsZSwKICAgICAgZGVzY3JpcHRpb246IHNlby5kZXNjcmlwdGlvbiwKICAgICAgaW5MYW5ndWFnZTogJ2VzLUVTJywKICAgICAgaXNQYXJ0T2Y6IHsKICAgICAgICAnQGlkJzogYCR7U0lURV9VUkx9LyN3ZWJzaXRlYCwKICAgICAgfSwKICAgICAgYWJvdXQ6IHsKICAgICAgICAnQGlkJzogYCR7U0lURV9VUkx9LyNvcmdhbml6YXRpb25gLAogICAgICB9LAogICAgfSwKICBdCgogIGNvbnN0IGJyZWFkY3J1bWJTY2hlbWEgPSBidWlsZEJyZWFkY3J1bWJTY2hlbWEoc2VvLmJyZWFkY3J1bWIpCgogIGlmIChicmVhZGNydW1iU2NoZW1hKSB7CiAgICBiYXNlR3JhcGgucHVzaChicmVhZGNydW1iU2NoZW1hKQogIH0KCiAgaWYgKHBhdGhuYW1lID09PSAnL3NlcnZpY2lvcycpIHsKICAgIGJhc2VHcmFwaC5wdXNoKHsKICAgICAgJ0B0eXBlJzogJ0l0ZW1MaXN0JywKICAgICAgbmFtZTogJ1NlcnZpY2lvcyBkZSBWYWxlcmlzIFN0dWRpbycsCiAgICAgIGl0ZW1MaXN0RWxlbWVudDogc2VydmljZXMubWFwKChzZXJ2aWNlLCBpbmRleCkgPT4gKHsKICAgICAgICAnQHR5cGUnOiAnTGlzdEl0ZW0nLAogICAgICAgIHBvc2l0aW9uOiBpbmRleCArIDEsCiAgICAgICAgaXRlbTogewogICAgICAgICAgJ0B0eXBlJzogJ1NlcnZpY2UnLAogICAgICAgICAgbmFtZTogc2VydmljZS50aXRsZSwKICAgICAgICAgIGRlc2NyaXB0aW9uOiBzZXJ2aWNlLmRlc2NyaXB0aW9uLAogICAgICAgICAgcHJvdmlkZXI6IHsKICAgICAgICAgICAgJ0BpZCc6IGAke1NJVEVfVVJMfS8jb3JnYW5pemF0aW9uYCwKICAgICAgICAgIH0sCiAgICAgICAgICBhcmVhU2VydmVkOiAnRVMnLAogICAgICAgIH0sCiAgICAgIH0pKSwKICAgIH0pCgogICAgYmFzZUdyYXBoLnB1c2goewogICAgICAnQHR5cGUnOiAnRkFRUGFnZScsCiAgICAgIG1haW5FbnRpdHk6IHNlcnZpY2VGYXFzLm1hcCgoZmFxKSA9PiAoewogICAgICAgICdAdHlwZSc6ICdRdWVzdGlvbicsCiAgICAgICAgbmFtZTogZmFxLnF1ZXN0aW9uLAogICAgICAgIGFjY2VwdGVkQW5zd2VyOiB7CiAgICAgICAgICAnQHR5cGUnOiAnQW5zd2VyJywKICAgICAgICAgIHRleHQ6IGZhcS5hbnN3ZXIsCiAgICAgICAgfSwKICAgICAgfSkpLAogICAgfSkKICB9CgogIGlmIChwYXRobmFtZSA9PT0gJy9jb250YWN0bycpIHsKICAgIGJhc2VHcmFwaC5wdXNoKHsKICAgICAgJ0B0eXBlJzogJ0NvbnRhY3RQYWdlJywKICAgICAgbmFtZTogJ0NvbnRhY3RvIFZhbGVyaXMgU3R1ZGlvJywKICAgICAgdXJsLAogICAgICBtYWluRW50aXR5OiB7CiAgICAgICAgJ0BpZCc6IGAke1NJVEVfVVJMfS8jb3JnYW5pemF0aW9uYCwKICAgICAgfSwKICAgIH0pCiAgfQoKICByZXR1cm4gewogICAgJ0Bjb250ZXh0JzogJ2h0dHBzOi8vc2NoZW1hLm9yZycsCiAgICAnQGdyYXBoJzogYmFzZUdyYXBoLAogIH0KfQoKZnVuY3Rpb24gU2VvSGVhZCgpIHsKICBjb25zdCB7IHBhdGhuYW1lIH0gPSB1c2VMb2NhdGlvbigpCiAgY29uc3Qgc2VvID0gcm91dGVTZW9bcGF0aG5hbWVdIHx8IHJvdXRlU2VvWycvJ10KCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IGNhbm9uaWNhbFBhdGggPSBzZW8uY2Fub25pY2FsIHx8IHBhdGhuYW1lCiAgICBjb25zdCB1cmwgPSBgJHtTSVRFX1VSTH0ke2Nhbm9uaWNhbFBhdGh9YAoKICAgIGRvY3VtZW50LnRpdGxlID0gc2VvLnRpdGxlIHx8IERFRkFVTFRfVElUTEUKCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ2Rlc2NyaXB0aW9uJywgc2VvLmRlc2NyaXB0aW9uIHx8IERFRkFVTFRfREVTQ1JJUFRJT04pCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ2tleXdvcmRzJywgc2VvLmtleXdvcmRzIHx8IERFRkFVTFRfS0VZV09SRFMpCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ3JvYm90cycsIHNlby5yb2JvdHMgfHwgREVGQVVMVF9ST0JPVFMpCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ2F1dGhvcicsICdWYWxlcmlzIFN0dWRpbycpCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ3RoZW1lLWNvbG9yJywgJyMxMTExMTEnKQoKICAgIHVwc2VydE1ldGEoJ3Byb3BlcnR5JywgJ29nOnRpdGxlJywgc2VvLnRpdGxlIHx8IERFRkFVTFRfVElUTEUpCiAgICB1cHNlcnRNZXRhKCdwcm9wZXJ0eScsICdvZzpkZXNjcmlwdGlvbicsIHNlby5kZXNjcmlwdGlvbiB8fCBERUZBVUxUX0RFU0NSSVBUSU9OKQogICAgdXBzZXJ0TWV0YSgncHJvcGVydHknLCAnb2c6dHlwZScsICd3ZWJzaXRlJykKICAgIHVwc2VydE1ldGEoJ3Byb3BlcnR5JywgJ29nOmxvY2FsZScsICdlc19FUycpCiAgICB1cHNlcnRNZXRhKCdwcm9wZXJ0eScsICdvZzp1cmwnLCB1cmwpCiAgICB1cHNlcnRNZXRhKCdwcm9wZXJ0eScsICdvZzpzaXRlX25hbWUnLCAnVmFsZXJpcyBTdHVkaW8nKQogICAgdXBzZXJ0TWV0YSgncHJvcGVydHknLCAnb2c6aW1hZ2UnLCBERUZBVUxUX0lNQUdFKQogICAgdXBzZXJ0TWV0YSgncHJvcGVydHknLCAnb2c6aW1hZ2U6c2VjdXJlX3VybCcsIERFRkFVTFRfSU1BR0UpCiAgICB1cHNlcnRNZXRhKCdwcm9wZXJ0eScsICdvZzppbWFnZTphbHQnLCAnTG9nbyBkZSBWYWxlcmlzIFN0dWRpbyBzb2JyZSBmb25kbyBibGFuY28nKQogICAgdXBzZXJ0TWV0YSgncHJvcGVydHknLCAnb2c6aW1hZ2U6d2lkdGgnLCAnMTIwMCcpCiAgICB1cHNlcnRNZXRhKCdwcm9wZXJ0eScsICdvZzppbWFnZTpoZWlnaHQnLCAnNjMwJykKCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ3R3aXR0ZXI6Y2FyZCcsICdzdW1tYXJ5X2xhcmdlX2ltYWdlJykKICAgIHVwc2VydE1ldGEoJ25hbWUnLCAndHdpdHRlcjp0aXRsZScsIHNlby50aXRsZSB8fCBERUZBVUxUX1RJVExFKQogICAgdXBzZXJ0TWV0YSgnbmFtZScsICd0d2l0dGVyOmRlc2NyaXB0aW9uJywgc2VvLmRlc2NyaXB0aW9uIHx8IERFRkFVTFRfREVTQ1JJUFRJT04pCiAgICB1cHNlcnRNZXRhKCduYW1lJywgJ3R3aXR0ZXI6aW1hZ2UnLCBERUZBVUxUX0lNQUdFKQogICAgdXBzZXJ0TWV0YSgnbmFtZScsICd0d2l0dGVyOmltYWdlOmFsdCcsICdMb2dvIGRlIFZhbGVyaXMgU3R1ZGlvIHNvYnJlIGZvbmRvIGJsYW5jbycpCgogICAgdXBzZXJ0TGluaygnY2Fub25pY2FsJywgdXJsKQogICAgdXBzZXJ0SnNvbkxkKCdyb3V0ZS1zY2hlbWEnLCBidWlsZFJvdXRlU2NoZW1hKHBhdGhuYW1lLCBzZW8sIHVybCkpCiAgfSwgW3BhdGhuYW1lLCBzZW9dKQoKICByZXR1cm4gbnVsbAp9CgpleHBvcnQgZGVmYXVsdCBTZW9IZWFkCg=="}
+import { useEffect } from 'react'
+import { useLocation } from 'react-router-dom'
+import { serviceFaqs, services } from '../../data/siteData'
+
+const SITE_URL = 'https://valerisstudio.es'
+const DEFAULT_IMAGE = `${SITE_URL}/social-card.png`
+const DEFAULT_TITLE = 'Valeris Studio | Diseño y desarrollo web premium'
+const DEFAULT_DESCRIPTION =
+  'Valeris Studio diseña y desarrolla webs premium para marcas, negocios locales y proyectos que necesitan una presencia digital elegante, rápida y estratégica.'
+const DEFAULT_KEYWORDS =
+  'valeris studio, diseño web premium, desarrollo web, landing pages, estudio digital, diseño web para negocios, webs para marcas'
+const DEFAULT_ROBOTS = 'index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1'
+
+const routeSeo = {
+  '/': {
+    title: 'Valeris Studio | Diseño y desarrollo web premium',
+    description:
+      'Diseñamos, escribimos y desarrollamos webs premium para marcas que no quieren parecer una más.',
+    keywords:
+      'Valeris Studio, diseño web premium, desarrollo web premium, estudio web, landing pages, webs con impacto',
+    canonical: '/',
+    robots: DEFAULT_ROBOTS,
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+    ],
+  },
+  '/acceso': {
+    title: 'Acceso | Valeris Studio',
+    description:
+      'Puerta de entrada a Valeris Studio, estudio especializado en diseño y desarrollo web con dirección visual fuerte.',
+    canonical: '/',
+    robots: 'noindex,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1',
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+    ],
+  },
+  '/servicios': {
+    title: 'Servicios web premium | Valeris Studio',
+    description:
+      'Diseño web, desarrollo, landings de conversión, rediseños, soporte, SEO técnico y webs con inteligencia integrada.',
+    keywords:
+      'servicios diseño web, desarrollo web, landings de conversión, rediseño web, mantenimiento web, SEO técnico, automatizaciones web',
+    canonical: '/servicios',
+    pageType: 'CollectionPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Servicios', path: '/servicios' },
+    ],
+  },
+  '/valeris-row': {
+    title: 'Valeris x Row | Identidad visual y experiencia digital',
+    description:
+      'Colaboración entre Row y Valeris Studio para proyectos que necesitan identidad visual sólida y una web a la altura.',
+    keywords:
+      'Valeris x Row, branding y web, identidad visual, experiencia digital, colaboración creativa',
+    canonical: '/valeris-row',
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Valeris x Row', path: '/valeris-row' },
+    ],
+  },
+  '/por-que-valeris': {
+    title: 'Por qué Valeris | Webs con dirección visual y estrategia',
+    description:
+      'Webs rápidas, pensadas para conversión y diseñadas para reforzar la percepción de marca con una dirección visual clara.',
+    keywords:
+      'por qué valeris, diseño web estratégico, webs rápidas, diseño responsive, conversión web, imagen de marca',
+    canonical: '/por-que-valeris',
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Valor', path: '/por-que-valeris' },
+    ],
+  },
+  '/proceso': {
+    title: 'Proceso de trabajo | Valeris Studio',
+    description:
+      'Estrategia, diseño, desarrollo y lanzamiento en un proceso claro para crear webs premium con criterio y estructura.',
+    keywords:
+      'proceso diseño web, estrategia web, desarrollo web premium, lanzamiento web, estudio web',
+    canonical: '/proceso',
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Proceso', path: '/proceso' },
+    ],
+  },
+  '/proyectos': {
+    title: 'Proyectos web | Valeris Studio',
+    description:
+      'Selección de proyectos web con enfoque editorial, presencia visual fuerte y estructura pensada para captar mejor.',
+    keywords:
+      'proyectos web, portfolio web, casos web, diseño web editorial, webs para marcas',
+    canonical: '/proyectos',
+    pageType: 'CollectionPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Proyectos', path: '/proyectos' },
+    ],
+  },
+  '/testimonios': {
+    title: 'Testimonios | Valeris Studio',
+    description:
+      'Lo que cambia no es solo la web: mejora la percepción de marca, la claridad del proyecto y la confianza.',
+    keywords:
+      'testimonios diseño web, opiniones clientes, estudio web premium, percepción de marca',
+    canonical: '/testimonios',
+    pageType: 'CollectionPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Testimonios', path: '/testimonios' },
+    ],
+  },
+  '/estudio': {
+    title: 'Estudio | Valeris Studio',
+    description:
+      'Valeris Studio une dirección visual, estrategia y desarrollo web para negocios que necesitan dar una mejor impresión digital.',
+    keywords:
+      'estudio de diseño web, dirección visual, estrategia digital, desarrollo web para negocios',
+    canonical: '/estudio',
+    pageType: 'AboutPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Estudio', path: '/estudio' },
+    ],
+  },
+  '/contacto': {
+    title: 'Contacto | Valeris Studio',
+    description:
+      'Solicita tu proyecto web en Valeris Studio por WhatsApp o correo y empecemos a construir una presencia digital más fuerte.',
+    keywords:
+      'contacto valeris studio, solicitar presupuesto web, agencia diseño web, contacto desarrollo web',
+    canonical: '/contacto',
+    pageType: 'ContactPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Contacto', path: '/contacto' },
+    ],
+  },
+  '/gracias': {
+    title: 'Gracias | Valeris Studio',
+    description:
+      'Gracias por contactar con Valeris Studio. Ya tenemos registrada tu solicitud y seguimos la conversación por el canal elegido.',
+    keywords:
+      'gracias valeris studio, solicitud enviada, contacto diseño web, presupuesto web enviado',
+    canonical: '/gracias',
+    pageType: 'WebPage',
+    breadcrumb: [
+      { name: 'Inicio', path: '/' },
+      { name: 'Gracias', path: '/gracias' },
+    ],
+  },
+}
+
+function upsertMeta(attribute, key, content) {
+  let node = document.head.querySelector(`meta[${attribute}="${key}"]`)
+
+  if (!node) {
+    node = document.createElement('meta')
+    node.setAttribute(attribute, key)
+    document.head.appendChild(node)
+  }
+
+  node.setAttribute('content', content)
+}
+
+function upsertLink(rel, href) {
+  let node = document.head.querySelector(`link[rel="${rel}"]`)
+
+  if (!node) {
+    node = document.createElement('link')
+    node.setAttribute('rel', rel)
+    document.head.appendChild(node)
+  }
+
+  node.setAttribute('href', href)
+}
+
+function upsertJsonLd(id, data) {
+  let node = document.head.querySelector(`script[data-seo="${id}"]`)
+
+  if (!node) {
+    node = document.createElement('script')
+    node.type = 'application/ld+json'
+    node.dataset.seo = id
+    document.head.appendChild(node)
+  }
+
+  node.textContent = JSON.stringify(data)
+}
+
+function buildBreadcrumbSchema(items) {
+  if (!items?.length) {
+    return null
+  }
+
+  return {
+    '@type': 'BreadcrumbList',
+    itemListElement: items.map((item, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: item.name,
+      item: `${SITE_URL}${item.path}`,
+    })),
+  }
+}
+
+function buildRouteSchema(pathname, seo, url) {
+  const baseGraph = [
+    {
+      '@type': 'Organization',
+      '@id': `${SITE_URL}/#organization`,
+      name: 'Valeris Studio',
+      url: SITE_URL,
+      logo: `${SITE_URL}/logo.png`,
+      email: 'info@valerisstudio.es',
+      telephone: '+34672710040',
+      contactPoint: [
+        {
+          '@type': 'ContactPoint',
+          contactType: 'customer support',
+          email: 'info@valerisstudio.es',
+          telephone: '+34672710040',
+          availableLanguage: ['es', 'en'],
+        },
+      ],
+    },
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      url: SITE_URL,
+      name: 'Valeris Studio',
+      inLanguage: 'es-ES',
+      publisher: {
+        '@id': `${SITE_URL}/#organization`,
+      },
+    },
+    {
+      '@type': seo.pageType || 'WebPage',
+      '@id': `${url}#webpage`,
+      url,
+      name: seo.title,
+      description: seo.description,
+      inLanguage: 'es-ES',
+      isPartOf: {
+        '@id': `${SITE_URL}/#website`,
+      },
+      about: {
+        '@id': `${SITE_URL}/#organization`,
+      },
+    },
+  ]
+
+  const breadcrumbSchema = buildBreadcrumbSchema(seo.breadcrumb)
+
+  if (breadcrumbSchema) {
+    baseGraph.push(breadcrumbSchema)
+  }
+
+  if (pathname === '/servicios') {
+    baseGraph.push({
+      '@type': 'ItemList',
+      name: 'Servicios de Valeris Studio',
+      itemListElement: services.map((service, index) => ({
+        '@type': 'ListItem',
+        position: index + 1,
+        item: {
+          '@type': 'Service',
+          name: service.title,
+          description: service.description,
+          provider: {
+            '@id': `${SITE_URL}/#organization`,
+          },
+          areaServed: 'ES',
+        },
+      })),
+    })
+
+    baseGraph.push({
+      '@type': 'FAQPage',
+      mainEntity: serviceFaqs.map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: faq.answer,
+        },
+      })),
+    })
+  }
+
+  if (pathname === '/contacto') {
+    baseGraph.push({
+      '@type': 'ContactPage',
+      name: 'Contacto Valeris Studio',
+      url,
+      mainEntity: {
+        '@id': `${SITE_URL}/#organization`,
+      },
+    })
+  }
+
+  return {
+    '@context': 'https://schema.org',
+    '@graph': baseGraph,
+  }
+}
+
+function SeoHead() {
+  const { pathname } = useLocation()
+  const seo = routeSeo[pathname] || routeSeo['/']
+
+  useEffect(() => {
+    const canonicalPath = seo.canonical || pathname
+    const url = `${SITE_URL}${canonicalPath}`
+
+    document.title = seo.title || DEFAULT_TITLE
+
+    upsertMeta('name', 'description', seo.description || DEFAULT_DESCRIPTION)
+    upsertMeta('name', 'keywords', seo.keywords || DEFAULT_KEYWORDS)
+    upsertMeta('name', 'robots', seo.robots || DEFAULT_ROBOTS)
+    upsertMeta('name', 'author', 'Valeris Studio')
+    upsertMeta('name', 'theme-color', '#111111')
+
+    upsertMeta('property', 'og:title', seo.title || DEFAULT_TITLE)
+    upsertMeta('property', 'og:description', seo.description || DEFAULT_DESCRIPTION)
+    upsertMeta('property', 'og:type', 'website')
+    upsertMeta('property', 'og:locale', 'es_ES')
+    upsertMeta('property', 'og:url', url)
+    upsertMeta('property', 'og:site_name', 'Valeris Studio')
+    upsertMeta('property', 'og:image', DEFAULT_IMAGE)
+    upsertMeta('property', 'og:image:secure_url', DEFAULT_IMAGE)
+    upsertMeta('property', 'og:image:alt', 'Logo de Valeris Studio sobre fondo blanco')
+    upsertMeta('property', 'og:image:width', '1200')
+    upsertMeta('property', 'og:image:height', '630')
+
+    upsertMeta('name', 'twitter:card', 'summary_large_image')
+    upsertMeta('name', 'twitter:title', seo.title || DEFAULT_TITLE)
+    upsertMeta('name', 'twitter:description', seo.description || DEFAULT_DESCRIPTION)
+    upsertMeta('name', 'twitter:image', DEFAULT_IMAGE)
+    upsertMeta('name', 'twitter:image:alt', 'Logo de Valeris Studio sobre fondo blanco')
+
+    upsertLink('canonical', url)
+    upsertJsonLd('route-schema', buildRouteSchema(pathname, seo, url))
+  }, [pathname, seo])
+
+  return null
+}
+
+export default SeoHead

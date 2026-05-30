@@ -1,1 +1,72 @@
-{"data":"aW1wb3J0IHsgQXJyb3dSaWdodCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCcKaW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCgpmdW5jdGlvbiBJbnRyb0dhdGUoeyBhc092ZXJsYXkgPSBmYWxzZSwgb25FbnRlciA9IG51bGwgfSkgewogIGNvbnN0IFdyYXBwZXIgPSBhc092ZXJsYXkgPyAnZGl2JyA6ICdtYWluJwogIGNvbnN0IGhhbmRsZUVudGVyID0gKCkgPT4gewogICAgaWYgKG9uRW50ZXIpIHsKICAgICAgb25FbnRlcigpCiAgICB9CiAgfQoKICByZXR1cm4gKAogICAgPFdyYXBwZXIKICAgICAgY2xhc3NOYW1lPXtgcmVsYXRpdmUgb3ZlcmZsb3ctaGlkZGVuIGJnLWJsYWNrIHRleHQtd2hpdGUgJHsKICAgICAgICBhc092ZXJsYXkgPyAnZml4ZWQgaW5zZXQtMCB6LVsxMjBdIGgtWzEwMHN2aF0nIDogJ2gtc2NyZWVuJwogICAgICB9YH0KICAgID4KICAgICAgPGltZwogICAgICAgIHNyYz0iL2VudHJ5LWJnLmdpZiIKICAgICAgICBhbHQ9IiIKICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgaC1mdWxsIHctZnVsbCBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciIKICAgICAgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svMzgiIC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCBoLWZ1bGwgZmxleC1jb2wganVzdGlmeS1iZXR3ZWVuIHB4LTUgcHktNSBzbTpweC04IHNtOnB5LTgiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtNCI+CiAgICAgICAgICA8aW1nIHNyYz0iL2xvZ28ucG5nIiBhbHQ9IkxvZ28gVmFsZXJpcyBTdHVkaW8iIGNsYXNzTmFtZT0iaC0xNCB3LTE0IG9iamVjdC1jb250YWluIiAvPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLXdoaXRlLzIwIGJnLWJsYWNrIHB4LTQgcHktMyBmb250LWRpc3BsYXkgdGV4dC0zeGwgdXBwZXJjYXNlIHRyYWNraW5nLVswLjA4ZW1dIHRleHQtd2hpdGUgc206dGV4dC00eGwiPgogICAgICAgICAgICBWYWxlcmlzIFN0dWRpbwogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LTEgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IHctZnVsbCBtYXgtdy1zbSBmbGV4LWNvbCBpdGVtcy1jZW50ZXIiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGJvcmRlciBib3JkZXItd2hpdGUvMjAgYmctWyNFREVERURdIHB4LTQgcHktNCB0ZXh0LWNlbnRlciBzbTpweC01Ij4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIGJvcmRlci1iIGJvcmRlci13aGl0ZS8xNCBwYi0zIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMC42NXJlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjhlbV0gdGV4dC1ibGFjayI+CiAgICAgICAgICAgICAgICAgIFdhcm5pbmcKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaC0yLjUgdy0yLjUgcm91bmRlZC1mdWxsIGJnLVsjZmYyYTFmXSIgLz4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJoLTIuNSB3LTIuNSByb3VuZGVkLWZ1bGwgYmctd2hpdGUvNDAiIC8+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iaC0yLjUgdy0yLjUgcm91bmRlZC1mdWxsIGJnLXdoaXRlLzIwIiAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGgxIGNsYXNzTmFtZT0ibXQtMyBmb250LWRpc3BsYXkgdGV4dC1zbSB1cHBlcmNhc2UgbGVhZGluZy1bMS4wMl0gdHJhY2tpbmctWzAuMDJlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LWJhc2UgbGc6dGV4dC1sZyI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJsb2NrIHRleHQtYmxhY2siPkVTVEFTIEEgUFVOVE88L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJsb2NrIHRleHQtYmxhY2siPkRFIENPTlNFR1VJUjwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1ibGFjayI+VFUgTUVKT1IgV0VCPC9zcGFuPgogICAgICAgICAgICAgIDwvaDE+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICB7YXNPdmVybGF5ID8gKAogICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzc05hbWU9InByaW1hcnktYnV0dG9uIG10LTQgZ2FwLTIiIG9uQ2xpY2s9e2hhbmRsZUVudGVyfT4KICAgICAgICAgICAgICAgIEVudHJhcgogICAgICAgICAgICAgICAgPEFycm93UmlnaHQgc2l6ZT17MTZ9IC8+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPExpbmsgdG89Ii8iIGNsYXNzTmFtZT0icHJpbWFyeS1idXR0b24gbXQtNCBnYXAtMiIgb25DbGljaz17aGFuZGxlRW50ZXJ9PgogICAgICAgICAgICAgICAgRW50cmFyCiAgICAgICAgICAgICAgICA8QXJyb3dSaWdodCBzaXplPXsxNn0gLz4KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiAvPgogICAgICA8L2Rpdj4KICAgIDwvV3JhcHBlcj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IEludHJvR2F0ZQo="}
+import { ArrowRight } from 'lucide-react'
+import { Link } from 'react-router-dom'
+
+function IntroGate({ asOverlay = false, onEnter = null }) {
+  const Wrapper = asOverlay ? 'div' : 'main'
+  const handleEnter = () => {
+    if (onEnter) {
+      onEnter()
+    }
+  }
+
+  return (
+    <Wrapper
+      className={`relative overflow-hidden bg-black text-white ${
+        asOverlay ? 'fixed inset-0 z-[120] h-[100svh]' : 'h-screen'
+      }`}
+    >
+      <img
+        src="/entry-bg.gif"
+        alt=""
+        className="absolute inset-0 h-full w-full object-cover object-center"
+      />
+      <div className="absolute inset-0 bg-black/38" />
+
+      <div className="relative flex h-full flex-col justify-between px-5 py-5 sm:px-8 sm:py-8">
+        <div className="flex items-center gap-4">
+          <img src="/logo.png" alt="Logo Valeris Studio" className="h-14 w-14 object-contain" />
+          <p className="border border-white/20 bg-black px-4 py-3 font-display text-3xl uppercase tracking-[0.08em] text-white sm:text-4xl">
+            Valeris Studio
+          </p>
+        </div>
+
+        <div className="flex flex-1 items-center justify-center">
+          <div className="flex w-full max-w-sm flex-col items-center">
+            <div className="w-full border border-white/20 bg-[#EDEDED] px-4 py-4 text-center sm:px-5">
+              <div className="flex items-center justify-between border-b border-white/14 pb-3">
+                <p className="text-[0.65rem] font-semibold uppercase tracking-[0.28em] text-black">
+                  Warning
+                </p>
+                <div className="flex items-center gap-2">
+                  <span className="h-2.5 w-2.5 rounded-full bg-[#ff2a1f]" />
+                  <span className="h-2.5 w-2.5 rounded-full bg-white/40" />
+                  <span className="h-2.5 w-2.5 rounded-full bg-white/20" />
+                </div>
+              </div>
+              <h1 className="mt-3 font-display text-sm uppercase leading-[1.02] tracking-[0.02em] text-white sm:text-base lg:text-lg">
+                <span className="block text-black">ESTAS A PUNTO</span>
+                <span className="block text-black">DE CONSEGUIR</span>
+                <span className="block text-black">TU MEJOR WEB</span>
+              </h1>
+            </div>
+            {asOverlay ? (
+              <button type="button" className="primary-button mt-4 gap-2" onClick={handleEnter}>
+                Entrar
+                <ArrowRight size={16} />
+              </button>
+            ) : (
+              <Link to="/" className="primary-button mt-4 gap-2" onClick={handleEnter}>
+                Entrar
+                <ArrowRight size={16} />
+              </Link>
+            )}
+          </div>
+        </div>
+
+        <div />
+      </div>
+    </Wrapper>
+  )
+}
+
+export default IntroGate

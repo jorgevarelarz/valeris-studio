@@ -1,1 +1,80 @@
-{"data":"aW1wb3J0IHsgQXJyb3dSaWdodCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCcKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKaW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBDb250YWN0T3B0aW9uc01vZGFsIGZyb20gJy4uL3VpL0NvbnRhY3RPcHRpb25zTW9kYWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwoKZnVuY3Rpb24gRmluYWxDdGEoKSB7CiAgY29uc3QgW2lzQ29udGFjdE9wZW4sIHNldElzQ29udGFjdE9wZW5dID0gdXNlU3RhdGUoZmFsc2UpCgogIHJldHVybiAoCiAgICA8PgogICAgICA8c2VjdGlvbiBpZD0iY29udGFjdG8iIGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCBtaW4taC1bY2FsYygxMDBzdmgtNXJlbSldIGl0ZW1zLXN0YXJ0IG92ZXJmbG93LWhpZGRlbiBweC00IHB5LTUgbGc6aC1mdWxsIGxnOml0ZW1zLWNlbnRlciBsZzpweS00Ij4KICAgICAgICA8aW1nCiAgICAgICAgICBzcmM9Ii9jb250YWN0LWJnLmdpZiIKICAgICAgICAgIGFsdD0iIgogICAgICAgICAgY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGFic29sdXRlIGluc2V0LTAgaC1mdWxsIHctZnVsbCBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciBvcGFjaXR5LVswLjQyXSIKICAgICAgICAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWJsYWNrLzU4IiAvPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1zaGVsbCByZWxhdGl2ZSB3LWZ1bGwiPgogICAgICAgICAgPFJldmVhbCBjbGFzc05hbWU9Im92ZXJmbG93LWhpZGRlbiB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IGxnOmhpZGRlbiI+CiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtNSBweS02Ij4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB1cHBlcmNhc2UgdHJhY2tpbmctWzAuM2VtXSB0ZXh0LVsjZmYyYTFmXSI+Q2llcnJlPC9wPgogICAgICAgICAgICAgICAgPGgxIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy00eGwgZm9udC1kaXNwbGF5IHRleHQtNHhsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjldIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIj4KICAgICAgICAgICAgICAgICAgVFUgTUFSQ0EgTk8gTkVDRVNJVEEgVU5BIFdFQiBDT1JSRUNUQS4KICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJibG9jayB0ZXh0LVsjZmYyYTFmXSI+TkVDRVNJVEEgVU5BIFdFQiBRVUUgU0UgUkVDVUVSREUuPC9zcGFuPgogICAgICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0icHgtNSBweS02Ij4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibWF4LXcteGwgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZS84MiI+CiAgICAgICAgICAgICAgICAgIFNpIHF1aWVyZXMgZGFyIHVuIHNhbHRvIGVuIGltYWdlbiwgY2xhcmlkYWQgeSBwcmVzZW5jaWEgZGlnaXRhbCwgcG9kZW1vcyBwbGFudGVhciB1bmEgcHJvcHVlc3RhIGNvbiB1bmEgZGlyZWNjaW9uIHZpc3VhbCBtZW5vcyBlc3RhbmRhciB5IHVuYSBiYXNlIGxpc3RhIHBhcmEgY29udmVydGlyLgogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icHJpbWFyeS1idXR0b24gbXQtOCBnYXAtMiBzZWxmLXN0YXJ0IgogICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRJc0NvbnRhY3RPcGVuKHRydWUpfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICBDb250YWN0YW5vcwogICAgICAgICAgICAgICAgICA8QXJyb3dSaWdodCBzaXplPXsxNn0gLz4KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8SG9yaXpvbnRhbFdoZWVsIGNsYXNzTmFtZT0iaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi0yIHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBtaW4tdy1tYXggYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4Ij4KICAgICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0idy1bODh2d10gbWF4LXctWzkyMHB4XSBzaHJpbmstMCBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS02IHNtOnB4LTYgbGc6dy1bNTh2d10iPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLVswLjNlbV0gdGV4dC1bI2ZmMmExZl0iPkNpZXJyZTwvcD4KICAgICAgICAgICAgICAgICAgPGgxIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy00eGwgZm9udC1kaXNwbGF5IHRleHQtNHhsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjldIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIGxnOnRleHQtNnhsIj4KICAgICAgICAgICAgICAgICAgICBUVSBNQVJDQSBOTyBORUNFU0lUQSBVTkEgV0VCIENPUlJFQ1RBLgogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1bI2ZmMmExZl0iPk5FQ0VTSVRBIFVOQSBXRUIgUVVFIFNFIFJFQ1VFUkRFLjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgICAgIDwvYXJ0aWNsZT4KCiAgICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9ImZsZXggdy1bNzJ2d10gbWF4LXctWzU2MHB4XSBzaHJpbmstMCBmbGV4LWNvbCBqdXN0aWZ5LWNlbnRlciBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS02IHNtOnB4LTYgbGc6dy1bMzB2d10iPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im1heC13LXhsIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUvODIiPgogICAgICAgICAgICAgICAgICAgIFNpIHF1aWVyZXMgZGFyIHVuIHNhbHRvIGVuIGltYWdlbiwgY2xhcmlkYWQgeSBwcmVzZW5jaWEgZGlnaXRhbCwgcG9kZW1vcyBwbGFudGVhciB1bmEgcHJvcHVlc3RhIGNvbiB1bmEgZGlyZWNjaW9uIHZpc3VhbCBtZW5vcyBlc3RhbmRhciB5IHVuYSBiYXNlIGxpc3RhIHBhcmEgY29udmVydGlyLgogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJwcmltYXJ5LWJ1dHRvbiBtdC04IGdhcC0yIHNlbGYtc3RhcnQiCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0SXNDb250YWN0T3Blbih0cnVlKX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIENvbnRhY3Rhbm9zCiAgICAgICAgICAgICAgICAgICAgPEFycm93UmlnaHQgc2l6ZT17MTZ9IC8+CiAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L0hvcml6b250YWxXaGVlbD4KICAgICAgICAgIDwvUmV2ZWFsPgogICAgICAgIDwvZGl2PgogICAgICA8L3NlY3Rpb24+CgogICAgICA8Q29udGFjdE9wdGlvbnNNb2RhbCBpc09wZW49e2lzQ29udGFjdE9wZW59IG9uQ2xvc2U9eygpID0+IHNldElzQ29udGFjdE9wZW4oZmFsc2UpfSAvPgogICAgPC8+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBGaW5hbEN0YQo="}
+import { ArrowRight } from 'lucide-react'
+import { useState } from 'react'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import ContactOptionsModal from '../ui/ContactOptionsModal'
+import Reveal from '../ui/Reveal'
+
+function FinalCta() {
+  const [isContactOpen, setIsContactOpen] = useState(false)
+
+  return (
+    <>
+      <section id="contacto" className="relative flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+        <img
+          src="/contact-bg.gif"
+          alt=""
+          className="pointer-events-none absolute inset-0 h-full w-full object-cover object-center opacity-[0.42]"
+        />
+        <div className="absolute inset-0 bg-black/58" />
+
+        <div className="section-shell relative w-full">
+          <Reveal className="overflow-hidden text-white">
+            <div className="grid gap-0 border-y border-white/18 lg:hidden">
+              <article className="border-b border-white/12 px-5 py-6">
+                <p className="text-xs uppercase tracking-[0.3em] text-[#ff2a1f]">Cierre</p>
+                <h1 className="mt-3 max-w-4xl font-display text-4xl uppercase leading-[0.9] tracking-[-0.05em] text-white sm:text-5xl">
+                  TU MARCA NO NECESITA UNA WEB CORRECTA.
+                  <span className="block text-[#ff2a1f]">NECESITA UNA WEB QUE SE RECUERDE.</span>
+                </h1>
+              </article>
+
+              <article className="px-5 py-6">
+                <p className="max-w-xl text-sm leading-6 text-white/82">
+                  Si quieres dar un salto en imagen, claridad y presencia digital, podemos plantear una propuesta con una direccion visual menos estandar y una base lista para convertir.
+                </p>
+                <button
+                  type="button"
+                  className="primary-button mt-8 gap-2 self-start"
+                  onClick={() => setIsContactOpen(true)}
+                >
+                  Contactanos
+                  <ArrowRight size={16} />
+                </button>
+              </article>
+            </div>
+
+            <HorizontalWheel className="hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+              <div className="flex min-w-max border-y border-white/18">
+                <article className="w-[88vw] max-w-[920px] shrink-0 border-r border-white/18 px-5 py-6 sm:px-6 lg:w-[58vw]">
+                  <p className="text-xs uppercase tracking-[0.3em] text-[#ff2a1f]">Cierre</p>
+                  <h1 className="mt-3 max-w-4xl font-display text-4xl uppercase leading-[0.9] tracking-[-0.05em] text-white sm:text-5xl lg:text-6xl">
+                    TU MARCA NO NECESITA UNA WEB CORRECTA.
+                    <span className="block text-[#ff2a1f]">NECESITA UNA WEB QUE SE RECUERDE.</span>
+                  </h1>
+                </article>
+
+                <article className="flex w-[72vw] max-w-[560px] shrink-0 flex-col justify-center border-r border-white/18 px-5 py-6 sm:px-6 lg:w-[30vw]">
+                  <p className="max-w-xl text-sm leading-6 text-white/82">
+                    Si quieres dar un salto en imagen, claridad y presencia digital, podemos plantear una propuesta con una direccion visual menos estandar y una base lista para convertir.
+                  </p>
+                  <button
+                    type="button"
+                    className="primary-button mt-8 gap-2 self-start"
+                    onClick={() => setIsContactOpen(true)}
+                  >
+                    Contactanos
+                    <ArrowRight size={16} />
+                  </button>
+                </article>
+              </div>
+            </HorizontalWheel>
+          </Reveal>
+        </div>
+      </section>
+
+      <ContactOptionsModal isOpen={isContactOpen} onClose={() => setIsContactOpen(false)} />
+    </>
+  )
+}
+
+export default FinalCta

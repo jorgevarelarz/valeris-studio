@@ -1,1 +1,72 @@
-{"data":"aW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwppbXBvcnQgU2VjdGlvbkhlYWRpbmcgZnJvbSAnLi4vdWkvU2VjdGlvbkhlYWRpbmcnCgpmdW5jdGlvbiBBYm91dCgpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9ImVzdHVkaW8iIGNsYXNzTmFtZT0iZmxleCBtaW4taC1bY2FsYygxMDBzdmgtNXJlbSldIGl0ZW1zLXN0YXJ0IG92ZXJmbG93LWhpZGRlbiBweC00IHB5LTUgbGc6aC1mdWxsIGxnOml0ZW1zLWNlbnRlciBsZzpweS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InNlY3Rpb24tc2hlbGwgdy1mdWxsIj4KICAgICAgICA8UmV2ZWFsIGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgIDxTZWN0aW9uSGVhZGluZwogICAgICAgICAgICBleWVicm93PSJTb2JyZSBWYWxlcmlzIFN0dWRpbyIKICAgICAgICAgICAgdGl0bGU9IkRJU0VOTywgRVNUUkFURUdJQSBZIERFU0FSUk9MTE8gREVOVFJPIERFIFVOQSBNSVNNQSBESVJFQ0NJT04uIgogICAgICAgICAgICBjb3B5PSJWYWxlcmlzIFN0dWRpbyBjcmVhIHdlYnMgcGFyYSBuZWdvY2lvcyBxdWUgbmVjZXNpdGFuIGRhciB1bmEgbWVqb3IgaW1wcmVzaW9uLCB0cmFuc21pdGlyIG1hcyBhY3R1YWxpZGFkIHkgb3JkZW5hciBzdSBwcmVzZW5jaWEgZGlnaXRhbCBjb24gY3JpdGVyaW8uIgogICAgICAgICAgICBsZXZlbD17MX0KICAgICAgICAgIC8+CiAgICAgICAgPC9SZXZlYWw+CgogICAgICAgIDxSZXZlYWwgZGVsYXk9ezgwfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01IGdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IGxnOmhpZGRlbiI+CiAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNmVtXSB0ZXh0LVsjZmYyYTFmXSI+RW5mb3F1ZTwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTMgbWF4LXcteGwgZm9udC1kaXNwbGF5IHRleHQtNHhsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjkyXSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LTV4bCI+CiAgICAgICAgICAgICAgICBXRUJTIENPTiBNQVMgUEVSU09OQUxJREFEIFBBUkEgUE9TSUNJT05BUiBNRUpPUiBBIE5FR09DSU9TIFJFQUxFUy4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYXJ0aWNsZT4KCiAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNGVtXSB0ZXh0LXdoaXRlIj5NYXJjYTwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTMgbWF4LXctbWQgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICBSZWZpbmFtb3MgbGEgcGVyY2VwY2lvbiB2aXN1YWwgcGFyYSB0cmFuc21pdGlyIHVuYSBpZGVudGlkYWQgbWFzIHNvbGlkYSB5IG1hcyBjb2hlcmVudGUuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9InB4LTUgcHktNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNGVtXSB0ZXh0LXdoaXRlIj5OZWdvY2lvPC9wPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy1tZCB0ZXh0LXNtIGxlYWRpbmctNiB0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgICAgIENhZGEgZGVjaXNpb24gZGUgZXN0cnVjdHVyYSB5IGNvbnRlbmlkbyByZXNwb25kZSBhIG9iamV0aXZvcyBjb25jcmV0b3MgZGUgY2FwdGFjaW9uLCBjb25maWFuemEgbyB2ZW50YS4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxIb3Jpem9udGFsV2hlZWwgY2xhc3NOYW1lPSJtdC01IGhpZGRlbiBvdmVyZmxvdy14LWF1dG8gcGItMiBzY3JvbGxiYXItbm9uZSBsZzpibG9jayI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IG1pbi13LW1heCBib3JkZXIteSBib3JkZXItd2hpdGUvMTgiPgogICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0idy1bODR2d10gbWF4LXctWzgyMHB4XSBzaHJpbmstMCBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS01IHNtOnB4LTYgbGc6dy1bNDh2d10iPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNmVtXSB0ZXh0LVsjZmYyYTFmXSI+RW5mb3F1ZTwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMyBtYXgtdy14bCBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIj4KICAgICAgICAgICAgICAgICAgV0VCUyBDT04gTUFTIFBFUlNPTkFMSURBRCBQQVJBIFBPU0lDSU9OQVIgTUVKT1IgQSBORUdPQ0lPUyBSRUFMRVMuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAgICA8YXJ0aWNsZSBjbGFzc05hbWU9InctWzcwdnddIG1heC13LVs1NjBweF0gc2hyaW5rLTAgYm9yZGVyLXIgYm9yZGVyLXdoaXRlLzE4IHB4LTUgcHktNSBzbTpweC02IGxnOnctWzMwdnddIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjRlbV0gdGV4dC13aGl0ZSI+TWFyY2E8L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTMgbWF4LXctbWQgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICAgIFJlZmluYW1vcyBsYSBwZXJjZXBjaW9uIHZpc3VhbCBwYXJhIHRyYW5zbWl0aXIgdW5hIGlkZW50aWRhZCBtYXMgc29saWRhIHkgbWFzIGNvaGVyZW50ZS4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2FydGljbGU+CgogICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0idy1bNzB2d10gbWF4LXctWzU2MHB4XSBzaHJpbmstMCBib3JkZXItciBib3JkZXItd2hpdGUvMTggcHgtNSBweS01IHNtOnB4LTYgbGc6dy1bMzB2d10iPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNGVtXSB0ZXh0LXdoaXRlIj5OZWdvY2lvPC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIG1heC13LW1kIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICBDYWRhIGRlY2lzaW9uIGRlIGVzdHJ1Y3R1cmEgeSBjb250ZW5pZG8gcmVzcG9uZGUgYSBvYmpldGl2b3MgY29uY3JldG9zIGRlIGNhcHRhY2lvbiwgY29uZmlhbnphIG8gdmVudGEuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvSG9yaXpvbnRhbFdoZWVsPgogICAgICAgIDwvUmV2ZWFsPgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IEFib3V0Cg=="}
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function About() {
+  return (
+    <section id="estudio" className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <div className="section-shell w-full">
+        <Reveal className="overflow-hidden">
+          <SectionHeading
+            eyebrow="Sobre Valeris Studio"
+            title="DISENO, ESTRATEGIA Y DESARROLLO DENTRO DE UNA MISMA DIRECCION."
+            copy="Valeris Studio crea webs para negocios que necesitan dar una mejor impresion, transmitir mas actualidad y ordenar su presencia digital con criterio."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={80}>
+          <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+            <article className="border-b border-white/12 px-5 py-5">
+              <p className="text-xs uppercase tracking-[0.26em] text-[#ff2a1f]">Enfoque</p>
+              <p className="mt-3 max-w-xl font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl">
+                WEBS CON MAS PERSONALIDAD PARA POSICIONAR MEJOR A NEGOCIOS REALES.
+              </p>
+            </article>
+
+            <article className="border-b border-white/12 px-5 py-5">
+              <p className="text-sm uppercase tracking-[0.24em] text-white">Marca</p>
+              <p className="mt-3 max-w-md text-sm leading-6 text-white">
+                Refinamos la percepcion visual para transmitir una identidad mas solida y mas coherente.
+              </p>
+            </article>
+
+            <article className="px-5 py-5">
+              <p className="text-sm uppercase tracking-[0.24em] text-white">Negocio</p>
+              <p className="mt-3 max-w-md text-sm leading-6 text-white">
+                Cada decision de estructura y contenido responde a objetivos concretos de captacion, confianza o venta.
+              </p>
+            </article>
+          </div>
+
+          <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+            <div className="flex min-w-max border-y border-white/18">
+              <article className="w-[84vw] max-w-[820px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[48vw]">
+                <p className="text-xs uppercase tracking-[0.26em] text-[#ff2a1f]">Enfoque</p>
+                <p className="mt-3 max-w-xl font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl">
+                  WEBS CON MAS PERSONALIDAD PARA POSICIONAR MEJOR A NEGOCIOS REALES.
+                </p>
+              </article>
+
+              <article className="w-[70vw] max-w-[560px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[30vw]">
+                <p className="text-sm uppercase tracking-[0.24em] text-white">Marca</p>
+                <p className="mt-3 max-w-md text-sm leading-6 text-white">
+                  Refinamos la percepcion visual para transmitir una identidad mas solida y mas coherente.
+                </p>
+              </article>
+
+              <article className="w-[70vw] max-w-[560px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[30vw]">
+                <p className="text-sm uppercase tracking-[0.24em] text-white">Negocio</p>
+                <p className="mt-3 max-w-md text-sm leading-6 text-white">
+                  Cada decision de estructura y contenido responde a objetivos concretos de captacion, confianza o venta.
+                </p>
+              </article>
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default About

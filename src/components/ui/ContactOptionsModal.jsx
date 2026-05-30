@@ -1,1 +1,86 @@
-{"data":"aW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJwoKZnVuY3Rpb24gQ29udGFjdE9wdGlvbnNNb2RhbCh7IGlzT3Blbiwgb25DbG9zZSB9KSB7CiAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpCgogIGlmICghaXNPcGVuKSB7CiAgICByZXR1cm4gbnVsbAogIH0KCiAgY29uc3QgaGFuZGxlV2hhdHNhcHBDbGljayA9ICgpID0+IHsKICAgIHdpbmRvdy5vcGVuKCdodHRwczovL3dhLm1lLzM0NjcyNzEwMDQwJywgJ19ibGFuaycsICdub29wZW5lcixub3JlZmVycmVyJykKICAgIG9uQ2xvc2UoKQogICAgbmF2aWdhdGUoJy9ncmFjaWFzJykKICB9CgogIGNvbnN0IGhhbmRsZUVtYWlsQ2xpY2sgPSAoKSA9PiB7CiAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9ICdtYWlsdG86aW5mb0B2YWxlcmlzc3R1ZGlvLmVzJwogICAgb25DbG9zZSgpCiAgICB3aW5kb3cuc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIG5hdmlnYXRlKCcvZ3JhY2lhcycpCiAgICB9LCAxNTApCiAgfQoKICByZXR1cm4gKAogICAgPGRpdgogICAgICBjbGFzc05hbWU9ImZpeGVkIGluc2V0LTAgei1bOTBdIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWJsYWNrLzc4IHB4LTQiCiAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICA+CiAgICAgIDxkaXYKICAgICAgICBjbGFzc05hbWU9ImZsZXggdy1mdWxsIG1heC13LXhsIGZsZXgtY29sIGdhcC0zIgogICAgICAgIG9uQ2xpY2s9eyhldmVudCkgPT4gZXZlbnQuc3RvcFByb3BhZ2F0aW9uKCl9CiAgICAgID4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWwtYXV0byB3LWZpdCBib3JkZXIgYm9yZGVyLXdoaXRlLzE4IGJnLVsjN2E3YTdhXSBweC00IHB5LTMgdGV4dC1jZW50ZXIiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LVswLjY1cmVtXSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNGVtXSB0ZXh0LWJsYWNrIj4KICAgICAgICAgICAgRWxpZ2UgY2FuYWwKICAgICAgICAgIDwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMSBmb250LWRpc3BsYXkgdGV4dC1sZyB1cHBlcmNhc2UgbGVhZGluZy1ub25lIHRyYWNraW5nLVswLjA0ZW1dIHRleHQtYmxhY2sgc206dGV4dC14bCI+CiAgICAgICAgICAgIENPTlRBQ1RBTk9TCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxidXR0b24KICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgIGNsYXNzTmFtZT0ibXItYXV0byBmbGV4IHctZnVsbCBtYXgtdy1tZCBmbGV4LWNvbCBib3JkZXIgYm9yZGVyLVsjZmYyYTFmXS83MCBiZy1bI2ZmMmExZl0gcHgtNSBweS00IHRleHQtbGVmdCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24gaG92ZXI6LXRyYW5zbGF0ZS15LTEiCiAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVXaGF0c2FwcENsaWNrfQogICAgICAgID4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMC42NXJlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMjhlbV0gdGV4dC13aGl0ZS82OCI+CiAgICAgICAgICAgIE1lbnNhamUgMDEKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibXQtMiBmb250LWRpc3BsYXkgdGV4dC0yeGwgdXBwZXJjYXNlIGxlYWRpbmctbm9uZSB0cmFja2luZy1bMC4wMmVtXSI+CiAgICAgICAgICAgIFdoYXRzQXBwCiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im10LTIgdGV4dC1zbSBsZWFkaW5nLTUgdGV4dC13aGl0ZS84MiI+CiAgICAgICAgICAgIEFicmlyIGNoYXQgZGlyZWN0byBhbCA2NzIgNzEwIDA0MAogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvYnV0dG9uPgoKICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCB3LWZ1bGwgbWF4LXctbWQgZmxleC1jb2wgYm9yZGVyIGJvcmRlci1bI2ZmMmExZl0vNzAgYmctWyNmZjJhMWZdIHB4LTUgcHktNCB0ZXh0LWxlZnQgdGV4dC13aGl0ZSB0cmFuc2l0aW9uIGhvdmVyOi10cmFuc2xhdGUteS0xIgogICAgICAgICAgb25DbGljaz17aGFuZGxlRW1haWxDbGlja30KICAgICAgICA+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWzAuNjVyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI4ZW1dIHRleHQtd2hpdGUvNjgiPgogICAgICAgICAgICBNZW5zYWplIDAyCiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im10LTIgZm9udC1kaXNwbGF5IHRleHQtMnhsIHVwcGVyY2FzZSBsZWFkaW5nLW5vbmUgdHJhY2tpbmctWzAuMDJlbV0iPgogICAgICAgICAgICBDb3JyZW8KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibXQtMiB0ZXh0LXNtIGxlYWRpbmctNSB0ZXh0LXdoaXRlLzgyIj4KICAgICAgICAgICAgRXNjcmliaXIgYSBpbmZvQHZhbGVyaXNzdHVkaW8uZXMKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8L2J1dHRvbj4KCiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgY2xhc3NOYW1lPSJteC1hdXRvIG10LTIgYm9yZGVyIGJvcmRlci13aGl0ZS8xOCBweC00IHB5LTIgdGV4dC1bMC43cmVtXSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yZW1dIHRleHQtd2hpdGUiCiAgICAgICAgICBvbkNsaWNrPXtvbkNsb3NlfQogICAgICAgID4KICAgICAgICAgIENlcnJhcgogICAgICAgIDwvYnV0dG9uPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQoKZXhwb3J0IGRlZmF1bHQgQ29udGFjdE9wdGlvbnNNb2RhbAo="}
+import { useNavigate } from 'react-router-dom'
+
+function ContactOptionsModal({ isOpen, onClose }) {
+  const navigate = useNavigate()
+
+  if (!isOpen) {
+    return null
+  }
+
+  const handleWhatsappClick = () => {
+    window.open('https://wa.me/34672710040', '_blank', 'noopener,noreferrer')
+    onClose()
+    navigate('/gracias')
+  }
+
+  const handleEmailClick = () => {
+    window.location.href = 'mailto:info@valerisstudio.es'
+    onClose()
+    window.setTimeout(() => {
+      navigate('/gracias')
+    }, 150)
+  }
+
+  return (
+    <div
+      className="fixed inset-0 z-[90] flex items-center justify-center bg-black/78 px-4"
+      onClick={onClose}
+    >
+      <div
+        className="flex w-full max-w-xl flex-col gap-3"
+        onClick={(event) => event.stopPropagation()}
+      >
+        <div className="ml-auto w-fit border border-white/18 bg-[#7a7a7a] px-4 py-3 text-center">
+          <p className="text-[0.65rem] font-semibold uppercase tracking-[0.24em] text-black">
+            Elige canal
+          </p>
+          <p className="mt-1 font-display text-lg uppercase leading-none tracking-[0.04em] text-black sm:text-xl">
+            CONTACTANOS
+          </p>
+        </div>
+
+        <button
+          type="button"
+          className="mr-auto flex w-full max-w-md flex-col border border-[#ff2a1f]/70 bg-[#ff2a1f] px-5 py-4 text-left text-white transition hover:-translate-y-1"
+          onClick={handleWhatsappClick}
+        >
+          <span className="text-[0.65rem] font-semibold uppercase tracking-[0.28em] text-white/68">
+            Mensaje 01
+          </span>
+          <span className="mt-2 font-display text-2xl uppercase leading-none tracking-[0.02em]">
+            WhatsApp
+          </span>
+          <span className="mt-2 text-sm leading-5 text-white/82">
+            Abrir chat directo al 672 710 040
+          </span>
+        </button>
+
+        <button
+          type="button"
+          className="ml-auto flex w-full max-w-md flex-col border border-[#ff2a1f]/70 bg-[#ff2a1f] px-5 py-4 text-left text-white transition hover:-translate-y-1"
+          onClick={handleEmailClick}
+        >
+          <span className="text-[0.65rem] font-semibold uppercase tracking-[0.28em] text-white/68">
+            Mensaje 02
+          </span>
+          <span className="mt-2 font-display text-2xl uppercase leading-none tracking-[0.02em]">
+            Correo
+          </span>
+          <span className="mt-2 text-sm leading-5 text-white/82">
+            Escribir a info@valerisstudio.es
+          </span>
+        </button>
+
+        <button
+          type="button"
+          className="mx-auto mt-2 border border-white/18 px-4 py-2 text-[0.7rem] font-semibold uppercase tracking-[0.2em] text-white"
+          onClick={onClose}
+        >
+          Cerrar
+        </button>
+      </div>
+    </div>
+  )
+}
+
+export default ContactOptionsModal

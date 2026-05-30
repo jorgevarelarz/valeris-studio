@@ -1,1 +1,15 @@
-{"data":"ewogICJyZWRpcmVjdHMiOiBbCiAgICB7CiAgICAgICJzb3VyY2UiOiAiL2luaWNpbyIsCiAgICAgICJkZXN0aW5hdGlvbiI6ICIvIiwKICAgICAgInBlcm1hbmVudCI6IHRydWUKICAgIH0KICBdLAogICJyZXdyaXRlcyI6IFsKICAgIHsKICAgICAgInNvdXJjZSI6ICIvKC4qKSIsCiAgICAgICJkZXN0aW5hdGlvbiI6ICIvaW5kZXguaHRtbCIKICAgIH0KICBdCn0K"}
+{
+  "redirects": [
+    {
+      "source": "/inicio",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

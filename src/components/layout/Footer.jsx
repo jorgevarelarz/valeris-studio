@@ -1,1 +1,39 @@
-{"data":"aW1wb3J0IFJldmVhbCBmcm9tICcuLi91aS9SZXZlYWwnCgpmdW5jdGlvbiBGb290ZXIoKSB7CiAgcmV0dXJuICgKICAgIDxmb290ZXIgY2xhc3NOYW1lPSJib3JkZXItdCBib3JkZXItYmxhY2svWzAuMDhdIGJnLVsjMTExMTExXSBweS0xMiB0ZXh0LXdoaXRlIj4KICAgICAgPFJldmVhbCBjbGFzc05hbWU9InNlY3Rpb24tc2hlbGwgZmxleCBmbGV4LWNvbCBnYXAtOCBsZzpmbGV4LXJvdyBsZzppdGVtcy1lbmQgbGc6anVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXcteGwiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgPGltZyBzcmM9Ii9sb2dvLnBuZyIgYWx0PSJMb2dvIFZhbGVyaXMgU3R1ZGlvIiBjbGFzc05hbWU9ImgtMTYgdy1hdXRvIG9iamVjdC1jb250YWluIiAvPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTJ4bCBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yZW1dIHRleHQtd2hpdGUgc206dGV4dC0zeGwiPgogICAgICAgICAgICAgIFZhbGVyaXMgU3R1ZGlvCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIG1heC13LW1kIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUvWzAuNjhdIj4KICAgICAgICAgICAgRGlzZcOxbyB5IGRlc2Fycm9sbG8gd2ViIHBhcmEgbWFyY2FzIHF1ZSBuZWNlc2l0YW4gdW5hIHByZXNlbmNpYSBkaWdpdGFsIG3DoXMgY3VpZGFkYSwKICAgICAgICAgICAgbcOhcyBlc3RyYXTDqWdpY2EgeSBtw6FzIGFsaW5lYWRhIGNvbiBzdSB2YWxvciByZWFsLgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtMiB0ZXh0LXNtIHRleHQtd2hpdGUvWzAuNzJdIj4KICAgICAgICAgIDxhIGhyZWY9Im1haWx0bzppbmZvQHZhbGVyaXNzdHVkaW8uZXMiIGNsYXNzTmFtZT0idHJhbnNpdGlvbiBob3Zlcjp0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgaW5mb0B2YWxlcmlzc3R1ZGlvLmVzCiAgICAgICAgICA8L2E+CiAgICAgICAgICA8YSBocmVmPSJ0ZWw6KzM0NjcyNzEwMDQwIiBjbGFzc05hbWU9InRyYW5zaXRpb24gaG92ZXI6dGV4dC13aGl0ZSI+CiAgICAgICAgICAgICszNCA2NzIgNzEwIDA0MAogICAgICAgICAgPC9hPgogICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9pbnN0YWdyYW0uY29tL3ZhbGVyaXNzdHVkaW8iIGNsYXNzTmFtZT0idHJhbnNpdGlvbiBob3Zlcjp0ZXh0LXdoaXRlIj4KICAgICAgICAgICAgSW5zdGFncmFtIC8gQHZhbGVyaXNzdHVkaW8KICAgICAgICAgIDwvYT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHQtMyB0ZXh0LXdoaXRlL1swLjQyXSI+CiAgICAgICAgICAgIMKpIDIwMjYgVmFsZXJpcyBTdHVkaW8uIFRvZG9zIGxvcyBkZXJlY2hvcyByZXNlcnZhZG9zLgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L1JldmVhbD4KICAgIDwvZm9vdGVyPgogICkKfQoKZXhwb3J0IGRlZmF1bHQgRm9vdGVyCg=="}
+import Reveal from '../ui/Reveal'
+
+function Footer() {
+  return (
+    <footer className="border-t border-black/[0.08] bg-[#111111] py-12 text-white">
+      <Reveal className="section-shell flex flex-col gap-8 lg:flex-row lg:items-end lg:justify-between">
+        <div className="max-w-xl">
+          <div className="flex items-center gap-4">
+            <img src="/logo.png" alt="Logo Valeris Studio" className="h-16 w-auto object-contain" />
+            <p className="font-display text-2xl font-semibold uppercase tracking-[0.2em] text-white sm:text-3xl">
+              Valeris Studio
+            </p>
+          </div>
+          <p className="mt-3 max-w-md text-sm leading-6 text-white/[0.68]">
+            Diseño y desarrollo web para marcas que necesitan una presencia digital más cuidada,
+            más estratégica y más alineada con su valor real.
+          </p>
+        </div>
+
+        <div className="grid gap-2 text-sm text-white/[0.72]">
+          <a href="mailto:info@valerisstudio.es" className="transition hover:text-white">
+            info@valerisstudio.es
+          </a>
+          <a href="tel:+34672710040" className="transition hover:text-white">
+            +34 672 710 040
+          </a>
+          <a href="https://instagram.com/valerisstudio" className="transition hover:text-white">
+            Instagram / @valerisstudio
+          </a>
+          <p className="pt-3 text-white/[0.42]">
+            © 2026 Valeris Studio. Todos los derechos reservados.
+          </p>
+        </div>
+      </Reveal>
+    </footer>
+  )
+}
+
+export default Footer

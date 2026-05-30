@@ -1,1 +1,14 @@
-{"data":"ZnVuY3Rpb24gU2VjdGlvbkhlYWRpbmcoeyBleWVicm93LCB0aXRsZSwgY29weSwgYWxpZ24gPSAnbGVmdCcsIGxldmVsID0gMiB9KSB7CiAgY29uc3QgYWxpZ25DbGFzcyA9IGFsaWduID09PSAnY2VudGVyJyA/ICdteC1hdXRvIHRleHQtY2VudGVyIGl0ZW1zLWNlbnRlcicgOiAnJwogIGNvbnN0IFRpdGxlVGFnID0gYGgke2xldmVsfWAKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPXtgbWItMTIgZmxleCBmbGV4LWNvbCAke2FsaWduQ2xhc3N9YH0+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZXllYnJvdyI+e2V5ZWJyb3d9PC9zcGFuPgogICAgICA8VGl0bGVUYWcgY2xhc3NOYW1lPSJzZWN0aW9uLXRpdGxlIG1heC13LTN4bCI+e3RpdGxlfTwvVGl0bGVUYWc+CiAgICAgIHtjb3B5ID8gPHAgY2xhc3NOYW1lPSJzZWN0aW9uLWNvcHkgbXQtNSI+e2NvcHl9PC9wPiA6IG51bGx9CiAgICA8L2Rpdj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFNlY3Rpb25IZWFkaW5nCg=="}
+function SectionHeading({ eyebrow, title, copy, align = 'left', level = 2 }) {
+  const alignClass = align === 'center' ? 'mx-auto text-center items-center' : ''
+  const TitleTag = `h${level}`
+
+  return (
+    <div className={`mb-12 flex flex-col ${alignClass}`}>
+      <span className="eyebrow">{eyebrow}</span>
+      <TitleTag className="section-title max-w-3xl">{title}</TitleTag>
+      {copy ? <p className="section-copy mt-5">{copy}</p> : null}
+    </div>
+  )
+}
+
+export default SectionHeading

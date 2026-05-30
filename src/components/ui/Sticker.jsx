@@ -1,1 +1,5 @@
-{"data":"ZnVuY3Rpb24gU3RpY2tlcih7IGNoaWxkcmVuLCBjbGFzc05hbWUgPSAnJyB9KSB7CiAgcmV0dXJuIDxkaXYgY2xhc3NOYW1lPXtgc3RpY2tlciAke2NsYXNzTmFtZX1gfT57Y2hpbGRyZW59PC9kaXY+Cn0KCmV4cG9ydCBkZWZhdWx0IFN0aWNrZXIK"}
+function Sticker({ children, className = '' }) {
+  return <div className={`sticker ${className}`}>{children}</div>
+}
+
+export default Sticker

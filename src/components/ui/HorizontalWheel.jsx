@@ -1,1 +1,45 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICdyZWFjdCcKCmZ1bmN0aW9uIEhvcml6b250YWxXaGVlbCh7IGNoaWxkcmVuLCBjbGFzc05hbWUgPSAnJyB9KSB7CiAgY29uc3QgcmVmID0gdXNlUmVmKG51bGwpCgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBub2RlID0gcmVmLmN1cnJlbnQKCiAgICBpZiAoIW5vZGUpIHsKICAgICAgcmV0dXJuIHVuZGVmaW5lZAogICAgfQoKICAgIGNvbnN0IGhhbmRsZVdoZWVsID0gKGV2ZW50KSA9PiB7CiAgICAgIGNvbnN0IGNhblNjcm9sbEhvcml6b250YWxseSA9IG5vZGUuc2Nyb2xsV2lkdGggPiBub2RlLmNsaWVudFdpZHRoCgogICAgICBpZiAoIWNhblNjcm9sbEhvcml6b250YWxseSB8fCBNYXRoLmFicyhldmVudC5kZWx0YVkpIDw9IE1hdGguYWJzKGV2ZW50LmRlbHRhWCkpIHsKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgY29uc3QgYXRTdGFydCA9IG5vZGUuc2Nyb2xsTGVmdCA8PSAwICYmIGV2ZW50LmRlbHRhWSA8IDAKICAgICAgY29uc3QgYXRFbmQgPSBub2RlLnNjcm9sbExlZnQgKyBub2RlLmNsaWVudFdpZHRoID49IG5vZGUuc2Nyb2xsV2lkdGggLSAxICYmIGV2ZW50LmRlbHRhWSA+IDAKCiAgICAgIGlmIChhdFN0YXJ0IHx8IGF0RW5kKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KCiAgICAgIGV2ZW50LnByZXZlbnREZWZhdWx0KCkKICAgICAgbm9kZS5zY3JvbGxMZWZ0ICs9IGV2ZW50LmRlbHRhWQogICAgfQoKICAgIG5vZGUuYWRkRXZlbnRMaXN0ZW5lcignd2hlZWwnLCBoYW5kbGVXaGVlbCwgeyBwYXNzaXZlOiBmYWxzZSB9KQoKICAgIHJldHVybiAoKSA9PiB7CiAgICAgIG5vZGUucmVtb3ZlRXZlbnRMaXN0ZW5lcignd2hlZWwnLCBoYW5kbGVXaGVlbCkKICAgIH0KICB9LCBbXSkKCiAgcmV0dXJuICgKICAgIDxkaXYgcmVmPXtyZWZ9IGNsYXNzTmFtZT17Y2xhc3NOYW1lfT4KICAgICAge2NoaWxkcmVufQogICAgPC9kaXY+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBIb3Jpem9udGFsV2hlZWwK"}
+import { useEffect, useRef } from 'react'
+
+function HorizontalWheel({ children, className = '' }) {
+  const ref = useRef(null)
+
+  useEffect(() => {
+    const node = ref.current
+
+    if (!node) {
+      return undefined
+    }
+
+    const handleWheel = (event) => {
+      const canScrollHorizontally = node.scrollWidth > node.clientWidth
+
+      if (!canScrollHorizontally || Math.abs(event.deltaY) <= Math.abs(event.deltaX)) {
+        return
+      }
+
+      const atStart = node.scrollLeft <= 0 && event.deltaY < 0
+      const atEnd = node.scrollLeft + node.clientWidth >= node.scrollWidth - 1 && event.deltaY > 0
+
+      if (atStart || atEnd) {
+        return
+      }
+
+      event.preventDefault()
+      node.scrollLeft += event.deltaY
+    }
+
+    node.addEventListener('wheel', handleWheel, { passive: false })
+
+    return () => {
+      node.removeEventListener('wheel', handleWheel)
+    }
+  }, [])
+
+  return (
+    <div ref={ref} className={className}>
+      {children}
+    </div>
+  )
+}
+
+export default HorizontalWheel

@@ -1,1 +1,89 @@
-{"data":"LyoqIEB0eXBlIHtpbXBvcnQoJ3RhaWx3aW5kY3NzJykuQ29uZmlnfSAqLwpleHBvcnQgZGVmYXVsdCB7CiAgY29udGVudDogWycuL2luZGV4Lmh0bWwnLCAnLi9zcmMvKiovKi57anMsanN4LHRzLHRzeH0nXSwKICB0aGVtZTogewogICAgZXh0ZW5kOiB7CiAgICAgIGNvbG9yczogewogICAgICAgIGluazogJyMxMTExMTEnLAogICAgICAgIHNhbmQ6ICcjZmZmNWQ4JywKICAgICAgICBtaXN0OiAnI2Y0ZTBmZicsCiAgICAgICAgc3RvbmU6ICcjNDMzNzU1JywKICAgICAgICBnb2xkOiAnI2ZmN2EwMCcsCiAgICAgICAgc2t5OiAnIzIxZDRmZCcsCiAgICAgICAgbWludDogJyM1NGYwOGQnLAogICAgICAgIHBpbms6ICcjZmYzY2FjJywKICAgICAgICBhY2lkOiAnI2Q4ZmYzZScsCiAgICAgIH0sCiAgICAgIGZvbnRGYW1pbHk6IHsKICAgICAgICBzYW5zOiBbJ091dGZpdCcsICdzYW5zLXNlcmlmJ10sCiAgICAgICAgZGlzcGxheTogWydPc3dhbGQnLCAnc2Fucy1zZXJpZiddLAogICAgICB9LAogICAgICBib3hTaGFkb3c6IHsKICAgICAgICBzb2Z0OiAnMCAyOHB4IDkwcHggcmdiYSg0MSwgMCwgNjgsIDAuMjIpJywKICAgICAgICBjYXJkOiAnMCAyOHB4IDEwMHB4IHJnYmEoMjU1LCA2MCwgMTcyLCAwLjIyKScsCiAgICAgIH0sCiAgICAgIGJhY2tncm91bmRJbWFnZTogewogICAgICAgIG1lc2g6CiAgICAgICAgICAncmFkaWFsLWdyYWRpZW50KGNpcmNsZSBhdCAxMiUgMTglLCByZ2JhKDI1NSwgNjAsIDE3MiwgMC4yNiksIHRyYW5zcGFyZW50IDIyJSksIHJhZGlhbC1ncmFkaWVudChjaXJjbGUgYXQgNzglIDE0JSwgcmdiYSgyNTUsIDEyMiwgMCwgMC4yMiksIHRyYW5zcGFyZW50IDIwJSksIHJhZGlhbC1ncmFkaWVudChjaXJjbGUgYXQgNTQlIDkyJSwgcmdiYSgyMTYsIDI1NSwgNjIsIDAuMTYpLCB0cmFuc3BhcmVudCAyNiUpLCBsaW5lYXItZ3JhZGllbnQoMTgwZGVnLCAjN2EwMDFjIDAlLCAjYjEwMDJkIDQ0JSwgI2QxMTIzZiAxMDAlKScsCiAgICAgIH0sCiAgICAgIGFuaW1hdGlvbjogewogICAgICAgICdmYWRlLXVwJzogJ2ZhZGVVcCAwLjdzIGVhc2Utb3V0IGJvdGgnLAogICAgICAgIGZsb2F0OiAnZmxvYXQgOHMgZWFzZS1pbi1vdXQgaW5maW5pdGUnLAogICAgICAgIHB1bHNlR2xvdzogJ3B1bHNlR2xvdyA0cyBlYXNlLWluLW91dCBpbmZpbml0ZScsCiAgICAgICAgZHJpZnQ6ICdkcmlmdCAxNHMgbGluZWFyIGluZmluaXRlJywKICAgICAgICB3aWdnbGU6ICd3aWdnbGUgMi40cyBlYXNlLWluLW91dCBpbmZpbml0ZScsCiAgICAgICAgc3BpblNsb3c6ICdzcGluU2xvdyAxOHMgbGluZWFyIGluZmluaXRlJywKICAgICAgICBmbGFzaDogJ2ZsYXNoIDEuOHMgZWFzZS1pbi1vdXQgaW5maW5pdGUnLAogICAgICAgIGdsaWRlOiAnZ2xpZGUgMTJzIGVhc2UtaW4tb3V0IGluZmluaXRlJywKICAgICAgICBqaXR0ZXI6ICdqaXR0ZXIgMC44cyBzdGVwcygyLCBlbmQpIGluZmluaXRlJywKICAgICAgICBuZW9uUHVsc2U6ICduZW9uUHVsc2UgMS42cyBlYXNlLWluLW91dCBpbmZpbml0ZScsCiAgICAgIH0sCiAgICAgIGtleWZyYW1lczogewogICAgICAgIGZhZGVVcDogewogICAgICAgICAgJzAlJzogeyBvcGFjaXR5OiAnMCcsIHRyYW5zZm9ybTogJ3RyYW5zbGF0ZVkoMjJweCknIH0sCiAgICAgICAgICAnMTAwJSc6IHsgb3BhY2l0eTogJzEnLCB0cmFuc2Zvcm06ICd0cmFuc2xhdGVZKDApJyB9LAogICAgICAgIH0sCiAgICAgICAgZmxvYXQ6IHsKICAgICAgICAgICcwJSwgMTAwJSc6IHsgdHJhbnNmb3JtOiAndHJhbnNsYXRlWSgwcHgpJyB9LAogICAgICAgICAgJzUwJSc6IHsgdHJhbnNmb3JtOiAndHJhbnNsYXRlWSgtMTBweCknIH0sCiAgICAgICAgfSwKICAgICAgICBwdWxzZUdsb3c6IHsKICAgICAgICAgICcwJSwgMTAwJSc6IHsgb3BhY2l0eTogJzAuNjUnLCB0cmFuc2Zvcm06ICdzY2FsZSgxKScgfSwKICAgICAgICAgICc1MCUnOiB7IG9wYWNpdHk6ICcxJywgdHJhbnNmb3JtOiAnc2NhbGUoMS4wOCknIH0sCiAgICAgICAgfSwKICAgICAgICBkcmlmdDogewogICAgICAgICAgJzAlJzogeyB0cmFuc2Zvcm06ICd0cmFuc2xhdGUzZCgwLCAwLCAwKSByb3RhdGUoMGRlZyknIH0sCiAgICAgICAgICAnNTAlJzogeyB0cmFuc2Zvcm06ICd0cmFuc2xhdGUzZCgxMnB4LCAtMThweCwgMCkgcm90YXRlKDhkZWcpJyB9LAogICAgICAgICAgJzEwMCUnOiB7IHRyYW5zZm9ybTogJ3RyYW5zbGF0ZTNkKDAsIDAsIDApIHJvdGF0ZSgwZGVnKScgfSwKICAgICAgICB9LAogICAgICAgIHdpZ2dsZTogewogICAgICAgICAgJzAlLCAxMDAlJzogeyB0cmFuc2Zvcm06ICdyb3RhdGUoLTZkZWcpIHRyYW5zbGF0ZVkoMCknIH0sCiAgICAgICAgICAnNTAlJzogeyB0cmFuc2Zvcm06ICdyb3RhdGUoNmRlZykgdHJhbnNsYXRlWSgtNHB4KScgfSwKICAgICAgICB9LAogICAgICAgIHNwaW5TbG93OiB7CiAgICAgICAgICAnMCUnOiB7IHRyYW5zZm9ybTogJ3JvdGF0ZSgwZGVnKScgfSwKICAgICAgICAgICcxMDAlJzogeyB0cmFuc2Zvcm06ICdyb3RhdGUoMzYwZGVnKScgfSwKICAgICAgICB9LAogICAgICAgIGZsYXNoOiB7CiAgICAgICAgICAnMCUsIDEwMCUnOiB7IG9wYWNpdHk6ICcwLjc1JyB9LAogICAgICAgICAgJzUwJSc6IHsgb3BhY2l0eTogJzEnIH0sCiAgICAgICAgfSwKICAgICAgICBnbGlkZTogewogICAgICAgICAgJzAlLCAxMDAlJzogeyB0cmFuc2Zvcm06ICd0cmFuc2xhdGVYKDBweCkgdHJhbnNsYXRlWSgwcHgpJyB9LAogICAgICAgICAgJzUwJSc6IHsgdHJhbnNmb3JtOiAndHJhbnNsYXRlWCgxMHB4KSB0cmFuc2xhdGVZKC04cHgpJyB9LAogICAgICAgIH0sCiAgICAgICAgaml0dGVyOiB7CiAgICAgICAgICAnMCUsIDEwMCUnOiB7IHRyYW5zZm9ybTogJ3RyYW5zbGF0ZSgwLCAwKSByb3RhdGUoMGRlZyknIH0sCiAgICAgICAgICAnMjUlJzogeyB0cmFuc2Zvcm06ICd0cmFuc2xhdGUoLTJweCwgMXB4KSByb3RhdGUoLTFkZWcpJyB9LAogICAgICAgICAgJzUwJSc6IHsgdHJhbnNmb3JtOiAndHJhbnNsYXRlKDJweCwgLTFweCkgcm90YXRlKDFkZWcpJyB9LAogICAgICAgICAgJzc1JSc6IHsgdHJhbnNmb3JtOiAndHJhbnNsYXRlKC0xcHgsIDJweCkgcm90YXRlKC0wLjVkZWcpJyB9LAogICAgICAgIH0sCiAgICAgICAgbmVvblB1bHNlOiB7CiAgICAgICAgICAnMCUsIDEwMCUnOiB7IGZpbHRlcjogJ3NhdHVyYXRlKDEpIGJyaWdodG5lc3MoMSknIH0sCiAgICAgICAgICAnNTAlJzogeyBmaWx0ZXI6ICdzYXR1cmF0ZSgxLjM1KSBicmlnaHRuZXNzKDEuMDgpJyB9LAogICAgICAgIH0sCiAgICAgIH0sCiAgICB9LAogIH0sCiAgcGx1Z2luczogW10sCn0K"}
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
+  theme: {
+    extend: {
+      colors: {
+        ink: '#111111',
+        sand: '#fff5d8',
+        mist: '#f4e0ff',
+        stone: '#433755',
+        gold: '#ff7a00',
+        sky: '#21d4fd',
+        mint: '#54f08d',
+        pink: '#ff3cac',
+        acid: '#d8ff3e',
+      },
+      fontFamily: {
+        sans: ['Outfit', 'sans-serif'],
+        display: ['Oswald', 'sans-serif'],
+      },
+      boxShadow: {
+        soft: '0 28px 90px rgba(41, 0, 68, 0.22)',
+        card: '0 28px 100px rgba(255, 60, 172, 0.22)',
+      },
+      backgroundImage: {
+        mesh:
+          'radial-gradient(circle at 12% 18%, rgba(255, 60, 172, 0.26), transparent 22%), radial-gradient(circle at 78% 14%, rgba(255, 122, 0, 0.22), transparent 20%), radial-gradient(circle at 54% 92%, rgba(216, 255, 62, 0.16), transparent 26%), linear-gradient(180deg, #7a001c 0%, #b1002d 44%, #d1123f 100%)',
+      },
+      animation: {
+        'fade-up': 'fadeUp 0.7s ease-out both',
+        float: 'float 8s ease-in-out infinite',
+        pulseGlow: 'pulseGlow 4s ease-in-out infinite',
+        drift: 'drift 14s linear infinite',
+        wiggle: 'wiggle 2.4s ease-in-out infinite',
+        spinSlow: 'spinSlow 18s linear infinite',
+        flash: 'flash 1.8s ease-in-out infinite',
+        glide: 'glide 12s ease-in-out infinite',
+        jitter: 'jitter 0.8s steps(2, end) infinite',
+        neonPulse: 'neonPulse 1.6s ease-in-out infinite',
+      },
+      keyframes: {
+        fadeUp: {
+          '0%': { opacity: '0', transform: 'translateY(22px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+        float: {
+          '0%, 100%': { transform: 'translateY(0px)' },
+          '50%': { transform: 'translateY(-10px)' },
+        },
+        pulseGlow: {
+          '0%, 100%': { opacity: '0.65', transform: 'scale(1)' },
+          '50%': { opacity: '1', transform: 'scale(1.08)' },
+        },
+        drift: {
+          '0%': { transform: 'translate3d(0, 0, 0) rotate(0deg)' },
+          '50%': { transform: 'translate3d(12px, -18px, 0) rotate(8deg)' },
+          '100%': { transform: 'translate3d(0, 0, 0) rotate(0deg)' },
+        },
+        wiggle: {
+          '0%, 100%': { transform: 'rotate(-6deg) translateY(0)' },
+          '50%': { transform: 'rotate(6deg) translateY(-4px)' },
+        },
+        spinSlow: {
+          '0%': { transform: 'rotate(0deg)' },
+          '100%': { transform: 'rotate(360deg)' },
+        },
+        flash: {
+          '0%, 100%': { opacity: '0.75' },
+          '50%': { opacity: '1' },
+        },
+        glide: {
+          '0%, 100%': { transform: 'translateX(0px) translateY(0px)' },
+          '50%': { transform: 'translateX(10px) translateY(-8px)' },
+        },
+        jitter: {
+          '0%, 100%': { transform: 'translate(0, 0) rotate(0deg)' },
+          '25%': { transform: 'translate(-2px, 1px) rotate(-1deg)' },
+          '50%': { transform: 'translate(2px, -1px) rotate(1deg)' },
+          '75%': { transform: 'translate(-1px, 2px) rotate(-0.5deg)' },
+        },
+        neonPulse: {
+          '0%, 100%': { filter: 'saturate(1) brightness(1)' },
+          '50%': { filter: 'saturate(1.35) brightness(1.08)' },
+        },
+      },
+    },
+  },
+  plugins: [],
+}

@@ -1,1 +1,79 @@
-{"data":"aW1wb3J0IHsgcG9ydGZvbGlvUHJvamVjdHMgfSBmcm9tICcuLi8uLi9kYXRhL3NpdGVEYXRhJwppbXBvcnQgSG9yaXpvbnRhbFdoZWVsIGZyb20gJy4uL3VpL0hvcml6b250YWxXaGVlbCcKaW1wb3J0IFJldmVhbCBmcm9tICcuLi91aS9SZXZlYWwnCmltcG9ydCBTZWN0aW9uSGVhZGluZyBmcm9tICcuLi91aS9TZWN0aW9uSGVhZGluZycKCmZ1bmN0aW9uIFBvcnRmb2xpbygpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9InByb3llY3RvcyIgY2xhc3NOYW1lPSJmbGV4IG1pbi1oLVtjYWxjKDEwMHN2aC01cmVtKV0gaXRlbXMtc3RhcnQgb3ZlcmZsb3ctaGlkZGVuIHB4LTQgcHktNSBsZzpoLWZ1bGwgbGc6aXRlbXMtY2VudGVyIGxnOnB5LTgiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1zaGVsbCB3LWZ1bGwiPgogICAgICAgIDxSZXZlYWw+CiAgICAgICAgICA8U2VjdGlvbkhlYWRpbmcKICAgICAgICAgICAgZXllYnJvdz0iUHJveWVjdG9zIgogICAgICAgICAgICB0aXRsZT0iUFJPWUVDVE9TIFFVRSBTRSBMRUVOIENPTU8gQ0FNUEHDkUEsIE5PIENPTU8gUE9SVEZPTElPIERFIFBMQU5USUxMQS4iCiAgICAgICAgICAgIGNvcHk9IkNhZGEgY2FzbyBzZSBwcmVzZW50YSBjb21vIHVuYSBwaWV6YSBjb24gdG9ubywgcGVzbyB2aXN1YWwgeSB1bmEgcmF6w7NuIGNsYXJhIHBhcmEgZXhpc3Rpci4iCiAgICAgICAgICAgIGxldmVsPXsxfQogICAgICAgICAgLz4KICAgICAgICA8L1JldmVhbD4KCiAgICAgICAgPFJldmVhbCBkZWxheT17ODB9PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTggZ3JpZCBnYXAtMCBib3JkZXIteSBib3JkZXItd2hpdGUvMTggbGc6aGlkZGVuIj4KICAgICAgICAgICAge3BvcnRmb2xpb1Byb2plY3RzLm1hcCgocHJvamVjdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAga2V5PXtwcm9qZWN0Lm5hbWV9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2luZGV4IDwgcG9ydGZvbGlvUHJvamVjdHMubGVuZ3RoIC0gMSA/ICdib3JkZXItYiBib3JkZXItd2hpdGUvMTIgcHgtNSBweS02JyA6ICdweC01IHB5LTYnfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1kaXNwbGF5IHRleHQtNXhsIGxlYWRpbmctbm9uZSB0cmFja2luZy1bLTAuMDZlbV0gdGV4dC13aGl0ZS8yNCI+CiAgICAgICAgICAgICAgICAgIDB7aW5kZXggKyAxfQogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI0ZW1dIHRleHQtWyNmZjJhMWZdIj57cHJvamVjdC5jYXRlZ29yeX08L3A+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNCBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOV0gdHJhY2tpbmctWy0wLjA1ZW1dIHRleHQtd2hpdGUgc206dGV4dC01eGwiPgogICAgICAgICAgICAgICAgICAgIHtwcm9qZWN0Lm5hbWV9CiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZ3JpZCBnYXAtNCI+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibWF4LXcteGwgdGV4dC1zbSBsZWFkaW5nLTYgdGV4dC13aGl0ZSI+e3Byb2plY3QuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im1heC13LWxnIHRleHQtc20gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMTZlbV0gdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgICAgICAge3Byb2plY3QuaW1wYWN0fQogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPEhvcml6b250YWxXaGVlbCBjbGFzc05hbWU9Im10LTggaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi00IHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWluLXctbWF4IGdhcC0wIGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgICAge3BvcnRmb2xpb1Byb2plY3RzLm1hcCgocHJvamVjdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgIDxhcnRpY2xlCiAgICAgICAgICAgICAgICAgIGtleT17cHJvamVjdC5uYW1lfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggdy1bODh2d10gbWF4LXctWzExMDBweF0gc2hyaW5rLTAgZmxleC1jb2wganVzdGlmeS1iZXR3ZWVuIGJvcmRlci1yIGJvcmRlci13aGl0ZS8xOCBweC02IHB5LTggc206cHgtOCBsZzp3LVs3MnZ3XSBsZzpweC0xMCIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTEwIGxnOmdyaWQtY29scy1bMC4xNGZyXzAuMzhmcl8wLjQ4ZnJdIGxnOml0ZW1zLXN0YXJ0Ij4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtZGlzcGxheSB0ZXh0LTZ4bCBsZWFkaW5nLW5vbmUgdHJhY2tpbmctWy0wLjA2ZW1dIHRleHQtd2hpdGUvMjQiPgogICAgICAgICAgICAgICAgICAgICAgMHtpbmRleCArIDF9CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI0ZW1dIHRleHQtWyNmZjJhMWZdIj57cHJvamVjdC5jYXRlZ29yeX08L3A+CiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTQgZm9udC1kaXNwbGF5IHRleHQtNnhsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjg2XSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LTd4bCBsZzp0ZXh0LVs1LjVyZW1dIj4KICAgICAgICAgICAgICAgICAgICAgICAge3Byb2plY3QubmFtZX0KICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNiI+CiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im1heC13LXhsIHRleHQtYmFzZSBsZWFkaW5nLTcgdGV4dC13aGl0ZS84MiI+e3Byb2plY3QuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtYXgtdy1sZyB0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjE2ZW1dIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgICAgICAgICB7cHJvamVjdC5pbXBhY3R9CiAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvSG9yaXpvbnRhbFdoZWVsPgogICAgICAgIDwvUmV2ZWFsPgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFBvcnRmb2xpbwo="}
+import { portfolioProjects } from '../../data/siteData'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function Portfolio() {
+  return (
+    <section id="proyectos" className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-8">
+      <div className="section-shell w-full">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Proyectos"
+            title="PROYECTOS QUE SE LEEN COMO CAMPAÑA, NO COMO PORTFOLIO DE PLANTILLA."
+            copy="Cada caso se presenta como una pieza con tono, peso visual y una razón clara para existir."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={80}>
+          <div className="mt-8 grid gap-0 border-y border-white/18 lg:hidden">
+            {portfolioProjects.map((project, index) => (
+              <article
+                key={project.name}
+                className={index < portfolioProjects.length - 1 ? 'border-b border-white/12 px-5 py-6' : 'px-5 py-6'}
+              >
+                <p className="font-display text-5xl leading-none tracking-[-0.06em] text-white/24">
+                  0{index + 1}
+                </p>
+                <div className="mt-4">
+                  <p className="text-xs uppercase tracking-[0.24em] text-[#ff2a1f]">{project.category}</p>
+                  <p className="mt-4 font-display text-4xl uppercase leading-[0.9] tracking-[-0.05em] text-white sm:text-5xl">
+                    {project.name}
+                  </p>
+                </div>
+                <div className="mt-5 grid gap-4">
+                  <p className="max-w-xl text-sm leading-6 text-white">{project.description}</p>
+                  <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white">
+                    {project.impact}
+                  </p>
+                </div>
+              </article>
+            ))}
+          </div>
+
+          <HorizontalWheel className="mt-8 hidden overflow-x-auto pb-4 scrollbar-none lg:block">
+            <div className="flex min-w-max gap-0 border-y border-white/18">
+              {portfolioProjects.map((project, index) => (
+                <article
+                  key={project.name}
+                  className="flex w-[88vw] max-w-[1100px] shrink-0 flex-col justify-between border-r border-white/18 px-6 py-8 sm:px-8 lg:w-[72vw] lg:px-10"
+                >
+                  <div className="grid gap-10 lg:grid-cols-[0.14fr_0.38fr_0.48fr] lg:items-start">
+                    <p className="font-display text-6xl leading-none tracking-[-0.06em] text-white/24">
+                      0{index + 1}
+                    </p>
+                    <div>
+                      <p className="text-xs uppercase tracking-[0.24em] text-[#ff2a1f]">{project.category}</p>
+                      <p className="mt-4 font-display text-6xl uppercase leading-[0.86] tracking-[-0.05em] text-white sm:text-7xl lg:text-[5.5rem]">
+                        {project.name}
+                      </p>
+                    </div>
+                    <div className="grid gap-6">
+                      <p className="max-w-xl text-base leading-7 text-white/82">{project.description}</p>
+                      <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white">
+                        {project.impact}
+                      </p>
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Portfolio

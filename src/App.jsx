@@ -1,1 +1,141 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAncmVhY3QnCmltcG9ydCB7IE5hdmlnYXRlLCBSb3V0ZXMsIFJvdXRlLCB1c2VMb2NhdGlvbiB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCmltcG9ydCBOYXZiYXIgZnJvbSAnLi9jb21wb25lbnRzL2xheW91dC9OYXZiYXInCmltcG9ydCBTZW9IZWFkIGZyb20gJy4vY29tcG9uZW50cy9zZW8vU2VvSGVhZCcKaW1wb3J0IEFib3V0IGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9BYm91dCcKaW1wb3J0IEJlbmVmaXRzIGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9CZW5lZml0cycKaW1wb3J0IEZpbmFsQ3RhIGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9GaW5hbEN0YScKaW1wb3J0IEhlcm8gZnJvbSAnLi9jb21wb25lbnRzL3NlY3Rpb25zL0hlcm8nCmltcG9ydCBJbnRyb0dhdGUgZnJvbSAnLi9jb21wb25lbnRzL3NlY3Rpb25zL0ludHJvR2F0ZScKaW1wb3J0IFBvcnRmb2xpbyBmcm9tICcuL2NvbXBvbmVudHMvc2VjdGlvbnMvUG9ydGZvbGlvJwppbXBvcnQgUHJvY2VzcyBmcm9tICcuL2NvbXBvbmVudHMvc2VjdGlvbnMvUHJvY2VzcycKaW1wb3J0IFNlcnZpY2VzIGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9TZXJ2aWNlcycKaW1wb3J0IFRoYW5rcyBmcm9tICcuL2NvbXBvbmVudHMvc2VjdGlvbnMvVGhhbmtzJwppbXBvcnQgVGVzdGltb25pYWxzIGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9UZXN0aW1vbmlhbHMnCmltcG9ydCBWYWxlcmlzUm93IGZyb20gJy4vY29tcG9uZW50cy9zZWN0aW9ucy9WYWxlcmlzUm93JwoKZnVuY3Rpb24gU2Nyb2xsVG9Ub3AoKSB7CiAgY29uc3QgeyBwYXRobmFtZSB9ID0gdXNlTG9jYXRpb24oKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgd2luZG93LnNjcm9sbFRvKDAsIDApCiAgfSwgW3BhdGhuYW1lXSkKCiAgcmV0dXJuIG51bGwKfQoKZnVuY3Rpb24gUGFnZSh7IGNoaWxkcmVuIH0pIHsKICByZXR1cm4gKAogICAgPG1haW4gY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIG1pbi1oLVsxMDBzdmhdIG92ZXJmbG93LXktYXV0byBvdmVyZmxvdy14LWhpZGRlbiBwdC0yMCBzY3JvbGxiYXItbm9uZSBsZzpoLXNjcmVlbiBsZzpvdmVyZmxvdy1oaWRkZW4iPgogICAgICB7Y2hpbGRyZW59CiAgICA8L21haW4+CiAgKQp9CgpmdW5jdGlvbiBBcHAoKSB7CiAgY29uc3QgbG9jYXRpb24gPSB1c2VMb2NhdGlvbigpCgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuc3R5bGUuc2Nyb2xsQmVoYXZpb3IgPSAnYXV0bycKICB9LCBbXSkKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBtaW4taC1bMTAwc3ZoXSBvdmVyZmxvdy14LWhpZGRlbiBiZy10cmFuc3BhcmVudCB0ZXh0LWluayBsZzpoLXNjcmVlbiBsZzpvdmVyZmxvdy1oaWRkZW4iPgogICAgICA8U2VvSGVhZCAvPgogICAgICA8U2Nyb2xsVG9Ub3AgLz4KICAgICAge2xvY2F0aW9uLnBhdGhuYW1lID09PSAnL2FjY2VzbycgPyBudWxsIDogPE5hdmJhciAvPn0KICAgICAgPFJvdXRlcz4KICAgICAgICA8Um91dGUKICAgICAgICAgIHBhdGg9Ii8iCiAgICAgICAgICBlbGVtZW50PXsKICAgICAgICAgICAgPFBhZ2U+CiAgICAgICAgICAgICAgPEhlcm8gLz4KICAgICAgICAgICAgPC9QYWdlPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICAgPFJvdXRlCiAgICAgICAgICBwYXRoPSIvYWNjZXNvIgogICAgICAgICAgZWxlbWVudD17PEludHJvR2F0ZSAvPn0KICAgICAgICAvPgogICAgICAgIDxSb3V0ZQogICAgICAgICAgcGF0aD0iL2luaWNpbyIKICAgICAgICAgIGVsZW1lbnQ9ezxOYXZpZ2F0ZSB0bz0iLyIgcmVwbGFjZSAvPn0KICAgICAgICAvPgogICAgICAgIDxSb3V0ZQogICAgICAgICAgcGF0aD0iL3NlcnZpY2lvcyIKICAgICAgICAgIGVsZW1lbnQ9ewogICAgICAgICAgICA8UGFnZT4KICAgICAgICAgICAgICA8U2VydmljZXMgLz4KICAgICAgICAgICAgPC9QYWdlPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICAgPFJvdXRlCiAgICAgICAgICBwYXRoPSIvdmFsZXJpcy1yb3ciCiAgICAgICAgICBlbGVtZW50PXsKICAgICAgICAgICAgPFBhZ2U+CiAgICAgICAgICAgICAgPFZhbGVyaXNSb3cgLz4KICAgICAgICAgICAgPC9QYWdlPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICAgPFJvdXRlCiAgICAgICAgICBwYXRoPSIvcG9yLXF1ZS12YWxlcmlzIgogICAgICAgICAgZWxlbWVudD17CiAgICAgICAgICAgIDxQYWdlPgogICAgICAgICAgICAgIDxCZW5lZml0cyAvPgogICAgICAgICAgICA8L1BhZ2U+CiAgICAgICAgICB9CiAgICAgICAgLz4KICAgICAgICA8Um91dGUKICAgICAgICAgIHBhdGg9Ii9wcm9jZXNvIgogICAgICAgICAgZWxlbWVudD17CiAgICAgICAgICAgIDxQYWdlPgogICAgICAgICAgICAgIDxQcm9jZXNzIC8+CiAgICAgICAgICAgIDwvUGFnZT4KICAgICAgICAgIH0KICAgICAgICAvPgogICAgICAgIDxSb3V0ZQogICAgICAgICAgcGF0aD0iL3Byb3llY3RvcyIKICAgICAgICAgIGVsZW1lbnQ9ewogICAgICAgICAgICA8UGFnZT4KICAgICAgICAgICAgICA8UG9ydGZvbGlvIC8+CiAgICAgICAgICAgIDwvUGFnZT4KICAgICAgICAgIH0KICAgICAgICAvPgogICAgICAgIDxSb3V0ZQogICAgICAgICAgcGF0aD0iL3Rlc3RpbW9uaW9zIgogICAgICAgICAgZWxlbWVudD17CiAgICAgICAgICAgIDxQYWdlPgogICAgICAgICAgICAgIDxUZXN0aW1vbmlhbHMgLz4KICAgICAgICAgICAgPC9QYWdlPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICAgPFJvdXRlCiAgICAgICAgICBwYXRoPSIvZXN0dWRpbyIKICAgICAgICAgIGVsZW1lbnQ9ewogICAgICAgICAgICA8UGFnZT4KICAgICAgICAgICAgICA8QWJvdXQgLz4KICAgICAgICAgICAgPC9QYWdlPgogICAgICAgICAgfQogICAgICAgIC8+CiAgICAgICAgPFJvdXRlCiAgICAgICAgICBwYXRoPSIvY29udGFjdG8iCiAgICAgICAgICBlbGVtZW50PXsKICAgICAgICAgICAgPFBhZ2U+CiAgICAgICAgICAgICAgPEZpbmFsQ3RhIC8+CiAgICAgICAgICAgIDwvUGFnZT4KICAgICAgICAgIH0KICAgICAgICAvPgogICAgICAgIDxSb3V0ZQogICAgICAgICAgcGF0aD0iL2dyYWNpYXMiCiAgICAgICAgICBlbGVtZW50PXsKICAgICAgICAgICAgPFBhZ2U+CiAgICAgICAgICAgICAgPFRoYW5rcyAvPgogICAgICAgICAgICA8L1BhZ2U+CiAgICAgICAgICB9CiAgICAgICAgLz4KICAgICAgPC9Sb3V0ZXM+CiAgICA8L2Rpdj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IEFwcAo="}
+import { useEffect } from 'react'
+import { Navigate, Routes, Route, useLocation } from 'react-router-dom'
+import Navbar from './components/layout/Navbar'
+import SeoHead from './components/seo/SeoHead'
+import About from './components/sections/About'
+import Benefits from './components/sections/Benefits'
+import FinalCta from './components/sections/FinalCta'
+import Hero from './components/sections/Hero'
+import IntroGate from './components/sections/IntroGate'
+import Portfolio from './components/sections/Portfolio'
+import Process from './components/sections/Process'
+import Services from './components/sections/Services'
+import Thanks from './components/sections/Thanks'
+import Testimonials from './components/sections/Testimonials'
+import ValerisRow from './components/sections/ValerisRow'
+
+function ScrollToTop() {
+  const { pathname } = useLocation()
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [pathname])
+
+  return null
+}
+
+function Page({ children }) {
+  return (
+    <main className="relative z-10 min-h-[100svh] overflow-y-auto overflow-x-hidden pt-20 scrollbar-none lg:h-screen lg:overflow-hidden">
+      {children}
+    </main>
+  )
+}
+
+function App() {
+  const location = useLocation()
+
+  useEffect(() => {
+    document.documentElement.style.scrollBehavior = 'auto'
+  }, [])
+
+  return (
+    <div className="relative min-h-[100svh] overflow-x-hidden bg-transparent text-ink lg:h-screen lg:overflow-hidden">
+      <SeoHead />
+      <ScrollToTop />
+      {location.pathname === '/acceso' ? null : <Navbar />}
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <Page>
+              <Hero />
+            </Page>
+          }
+        />
+        <Route
+          path="/acceso"
+          element={<IntroGate />}
+        />
+        <Route
+          path="/inicio"
+          element={<Navigate to="/" replace />}
+        />
+        <Route
+          path="/servicios"
+          element={
+            <Page>
+              <Services />
+            </Page>
+          }
+        />
+        <Route
+          path="/valeris-row"
+          element={
+            <Page>
+              <ValerisRow />
+            </Page>
+          }
+        />
+        <Route
+          path="/por-que-valeris"
+          element={
+            <Page>
+              <Benefits />
+            </Page>
+          }
+        />
+        <Route
+          path="/proceso"
+          element={
+            <Page>
+              <Process />
+            </Page>
+          }
+        />
+        <Route
+          path="/proyectos"
+          element={
+            <Page>
+              <Portfolio />
+            </Page>
+          }
+        />
+        <Route
+          path="/testimonios"
+          element={
+            <Page>
+              <Testimonials />
+            </Page>
+          }
+        />
+        <Route
+          path="/estudio"
+          element={
+            <Page>
+              <About />
+            </Page>
+          }
+        />
+        <Route
+          path="/contacto"
+          element={
+            <Page>
+              <FinalCta />
+            </Page>
+          }
+        />
+        <Route
+          path="/gracias"
+          element={
+            <Page>
+              <Thanks />
+            </Page>
+          }
+        />
+      </Routes>
+    </div>
+  )
+}
+
+export default App

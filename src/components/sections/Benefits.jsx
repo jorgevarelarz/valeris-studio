@@ -1,1 +1,62 @@
-{"data":"aW1wb3J0IHsgYmVuZWZpdHMgfSBmcm9tICcuLi8uLi9kYXRhL3NpdGVEYXRhJwppbXBvcnQgSG9yaXpvbnRhbFdoZWVsIGZyb20gJy4uL3VpL0hvcml6b250YWxXaGVlbCcKaW1wb3J0IFJldmVhbCBmcm9tICcuLi91aS9SZXZlYWwnCmltcG9ydCBTZWN0aW9uSGVhZGluZyBmcm9tICcuLi91aS9TZWN0aW9uSGVhZGluZycKCmZ1bmN0aW9uIEJlbmVmaXRzKCkgewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIGZsZXggbWluLWgtW2NhbGMoMTAwc3ZoLTVyZW0pXSBpdGVtcy1zdGFydCBvdmVyZmxvdy1oaWRkZW4gcHgtNCBweS01IGxnOmgtZnVsbCBsZzppdGVtcy1jZW50ZXIgbGc6cHktNCI+CiAgICAgIDxpbWcKICAgICAgICBzcmM9Ii9iZW5lZml0cy1iZy5naWYiCiAgICAgICAgYWx0PSIiCiAgICAgICAgY2xhc3NOYW1lPSJwb2ludGVyLWV2ZW50cy1ub25lIGFic29sdXRlIGluc2V0LTAgaC1mdWxsIHctZnVsbCBvYmplY3QtY292ZXIgb2JqZWN0LWNlbnRlciBvcGFjaXR5LVswLjQyXSIKICAgICAgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNTgiIC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1zaGVsbCByZWxhdGl2ZSB3LWZ1bGwiPgogICAgICAgIDxSZXZlYWw+CiAgICAgICAgICA8U2VjdGlvbkhlYWRpbmcKICAgICAgICAgICAgZXllYnJvdz0iUG9yIHF1w6kgVmFsZXJpcyIKICAgICAgICAgICAgdGl0bGU9Ik5PIEhBQ0VNT1MgV0VCUyBCT05JVEFTLiBIQUNFTU9TIFdFQlMgUVVFIEVNUFVKQU4uIgogICAgICAgICAgICBjb3B5PSJMYSBkaWZlcmVuY2lhIG5vIGVzdGEgZW4gcG9uZXIgdW5hIGNhcGEgZGUgZXN0aWxvLiBFc3RhIGVuIGNvbnN0cnVpciB1bmEgbWFyY2EgcXVlIHNlIG5vdGUgZGVzZGUgZWwgcHJpbWVyIHNjcm9sbC4iCiAgICAgICAgICAgIGxldmVsPXsxfQogICAgICAgICAgLz4KICAgICAgICA8L1JldmVhbD4KCiAgICAgICAgPFJldmVhbCBkZWxheT17ODB9PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZ3JpZCBnYXAtMCBib3JkZXIteSBib3JkZXItd2hpdGUvMTggbGc6aGlkZGVuIj4KICAgICAgICAgICAge2JlbmVmaXRzLm1hcCgoYmVuZWZpdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8YXJ0aWNsZQogICAgICAgICAgICAgICAga2V5PXtiZW5lZml0LnRpdGxlfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtpbmRleCA8IGJlbmVmaXRzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNScgOiAncHgtNSBweS01J30KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0zeGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNGVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNHhsIj4KICAgICAgICAgICAgICAgICAge2JlbmVmaXQudGl0bGV9CiAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IG1heC13LXhsIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPntiZW5lZml0LmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPEhvcml6b250YWxXaGVlbCBjbGFzc05hbWU9Im10LTUgaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi0yIHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWluLXctbWF4IGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgICAge2JlbmVmaXRzLm1hcCgoYmVuZWZpdCkgPT4gKAogICAgICAgICAgICAgICAgPGFydGljbGUKICAgICAgICAgICAgICAgICAga2V5PXtiZW5lZml0LnRpdGxlfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggdy1bNzJ2d10gbWF4LXctWzYyMHB4XSBzaHJpbmstMCBmbGV4LWNvbCBqdXN0aWZ5LWJldHdlZW4gYm9yZGVyLXIgYm9yZGVyLXdoaXRlLzE4IHB4LTUgcHktNSBzbTpweC02IGxnOnctWzM2dnddIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0zeGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNGVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNHhsIj4KICAgICAgICAgICAgICAgICAgICB7YmVuZWZpdC50aXRsZX0KICAgICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC00IG1heC13LXhsIHRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPntiZW5lZml0LmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0hvcml6b250YWxXaGVlbD4KICAgICAgICA8L1JldmVhbD4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBCZW5lZml0cwo="}
+import { benefits } from '../../data/siteData'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function Benefits() {
+  return (
+    <section className="relative flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <img
+        src="/benefits-bg.gif"
+        alt=""
+        className="pointer-events-none absolute inset-0 h-full w-full object-cover object-center opacity-[0.42]"
+      />
+      <div className="absolute inset-0 bg-black/58" />
+
+      <div className="section-shell relative w-full">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Por qué Valeris"
+            title="NO HACEMOS WEBS BONITAS. HACEMOS WEBS QUE EMPUJAN."
+            copy="La diferencia no esta en poner una capa de estilo. Esta en construir una marca que se note desde el primer scroll."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={80}>
+          <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+            {benefits.map((benefit, index) => (
+              <article
+                key={benefit.title}
+                className={index < benefits.length - 1 ? 'border-b border-white/12 px-5 py-5' : 'px-5 py-5'}
+              >
+                <h3 className="font-display text-3xl uppercase leading-[0.92] tracking-[-0.04em] text-white sm:text-4xl">
+                  {benefit.title}
+                </h3>
+                <p className="mt-4 max-w-xl text-sm leading-6 text-white">{benefit.description}</p>
+              </article>
+            ))}
+          </div>
+
+          <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+            <div className="flex min-w-max border-y border-white/18">
+              {benefits.map((benefit) => (
+                <article
+                  key={benefit.title}
+                  className="flex w-[72vw] max-w-[620px] shrink-0 flex-col justify-between border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[36vw]"
+                >
+                  <h3 className="font-display text-3xl uppercase leading-[0.92] tracking-[-0.04em] text-white sm:text-4xl">
+                    {benefit.title}
+                  </h3>
+                  <p className="mt-4 max-w-xl text-sm leading-6 text-white">{benefit.description}</p>
+                </article>
+              ))}
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Benefits

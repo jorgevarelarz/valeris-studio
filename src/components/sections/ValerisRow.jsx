@@ -1,1 +1,88 @@
-{"data":"aW1wb3J0IHsgQXJyb3dSaWdodCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCcKaW1wb3J0IHsgTGluayB9IGZyb20gJ3JlYWN0LXJvdXRlci1kb20nCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwoKZnVuY3Rpb24gVmFsZXJpc1JvdygpIHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJmbGV4IG1pbi1oLVtjYWxjKDEwMHN2aC01cmVtKV0gaXRlbXMtc3RhcnQgb3ZlcmZsb3ctaGlkZGVuIGJnLVsjMDUwNTA1XSBweC00IHB5LTUgbGc6aC1mdWxsIGxnOml0ZW1zLWNlbnRlciBsZzpweS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InctZnVsbCBweC01IG1kOnB4LTYiPgogICAgICAgIDxSZXZlYWwgY2xhc3NOYW1lPSJoLWZ1bGwiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGdyaWQgaC1mdWxsIG92ZXJmbG93LWhpZGRlbiBib3JkZXIgYm9yZGVyLVsjMWYxZjFmXSBiZy1bIzA1MDUwNV0gdGV4dC1bI2YzZjNmM10gbGc6Z3JpZC1jb2xzLVsxLjFmcl8wLjlmcl0iPgogICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgc3JjPSIvdmFsZXJpcy1yb3ctYmcuZ2lmIgogICAgICAgICAgICAgIGFsdD0iIgogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBoLWZ1bGwgdy1mdWxsIG9iamVjdC1jb3ZlciBvYmplY3QtY2VudGVyIG9wYWNpdHktWzAuMjJdIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1bIzA1MDUwNV0vODIiIC8+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUgZmxleCBmbGV4LWNvbCBqdXN0aWZ5LWJldHdlZW4gYm9yZGVyLWIgYm9yZGVyLVsjMWYxZjFmXSBweC01IHB5LTYgc206cHgtNiBsZzpib3JkZXItYi0wIGxnOmJvcmRlci1yIGxnOnB4LTggbGc6cHktOCI+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1bMC42OHJlbV0gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuM2VtXSB0ZXh0LXdoaXRlLzU4Ij4KICAgICAgICAgICAgICAgICAgQ29sbGFib3JhdGl2ZSBmb3JtYXQKICAgICAgICAgICAgICAgIDwvcD4KCiAgICAgICAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJtdC01IGZvbnQtZGlzcGxheSB0ZXh0LVszcmVtXSB1cHBlcmNhc2UgbGVhZGluZy1bMC44Nl0gdHJhY2tpbmctWy0wLjA2ZW1dIHNtOnRleHQtWzQuMjVyZW1dIGxnOnRleHQtWzYuNXJlbV0iPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtWyNmZjNiMzBdIj5WYWxlcmlzPC9zcGFuPgogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InB4LTIgdGV4dC1bI2YzZjNmM10iPng8L3NwYW4+CiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bIzJkNWJmZl0iPlJvdzwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvaDE+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgaC1weCB3LWZ1bGwgYmctWyMxZjFmMWZdIj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImgtZnVsbCB3LWZ1bGwgYmctZ3JhZGllbnQtdG8tciBmcm9tLVsjZmYzYjMwXSB2aWEtWyNmM2YzZjNdIHRvLVsjMmQ1YmZmXSIgLz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9Im10LTYgbWF4LXctM3hsIGZvbnQtZGlzcGxheSB0ZXh0LTJ4bCB1cHBlcmNhc2UgbGVhZGluZy1bMC45NF0gdHJhY2tpbmctWy0wLjA0ZW1dIHRleHQtWyNmM2YzZjNdIHNtOnRleHQtM3hsIGxnOnRleHQtWzIuN3JlbV0iPgogICAgICAgICAgICAgICAgICBJZGVudGlkYWQgdmlzdWFsIHkgZXhwZXJpZW5jaWEgZGlnaXRhbCBkZW50cm8gZGUgdW5hIG1pc21hIGRpcmVjY2lvbgogICAgICAgICAgICAgICAgPC9oMj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiBtYXgtdy0zeGwgc3BhY2UteS00IHRleHQtc20gbGVhZGluZy02IHRleHQtWyNmM2YzZjNdIHNtOnRleHQtYmFzZSI+CiAgICAgICAgICAgICAgICAgIDxwPkFsZ3Vub3MgcHJveWVjdG9zIG5lY2VzaXRhbiBhbGdvIG1hcyBxdWUgdW5hIHdlYi48L3A+CiAgICAgICAgICAgICAgICAgIDxwPk5lY2VzaXRhbiB1bmEgaWRlbnRpZGFkIHNvbGlkYSBkZXRyYXMgeSB1bmEgcHJlc2VuY2lhIGRpZ2l0YWwgYSBsYSBhbHR1cmEuPC9wPgogICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICBQYXJhIGVzb3MgY2Fzb3MsIFZhbGVyaXMgeSBSb3cgY29sYWJvcmFuIGVuIHVuYSBkaXJlY2Npb24gY29tcGFydGlkYTogUm93IHRyYWJhamEgbGEgaWRlbnRpZGFkIHZpc3VhbCB5IGVsIHNpc3RlbWEgZGUgbWFyY2E7IFZhbGVyaXMgbGEgdHJhZHVjZSBhIGVzdHJ1Y3R1cmEsIGV4cGVyaWVuY2lhIHkgZGVzYXJyb2xsbyB3ZWIuCiAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtOCI+CiAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICB0bz0iL2NvbnRhY3RvIgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InNlY29uZGFyeS1idXR0b24gZ2FwLTIgYm9yZGVyLVsjMWYxZjFmXSBiZy10cmFuc3BhcmVudCB0ZXh0LVsjZjNmM2YzXSBob3Zlcjpib3JkZXItd2hpdGUgaG92ZXI6Ymctd2hpdGUgaG92ZXI6dGV4dC1ibGFjayIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgRXhwbG9yYXIgY29sYWJvcmFjaW9uCiAgICAgICAgICAgICAgICAgIDxBcnJvd1JpZ2h0IHNpemU9ezE2fSAvPgogICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBncmlkIGNvbnRlbnQtY2VudGVyIGdhcC00IHB4LTUgcHktNiBzbTpweC02IGxnOnB4LTggbGc6cHktOCI+CiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLVsjMWYxZjFmXSBiZy1ibGFjayBweC01IHB5LTUgdHJhbnNpdGlvbiBkdXJhdGlvbi0zMDAgaG92ZXI6LXRyYW5zbGF0ZS15LTEgaG92ZXI6Ym9yZGVyLVsjMmQ1YmZmXS82MCI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzAuNzJyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI4ZW1dIHRleHQtWyMyZDViZmZdIj4KICAgICAgICAgICAgICAgICAgUm93CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBncmlkIGdhcC0wIGJvcmRlci15IGJvcmRlci1bIzFmMWYxZl0gdGV4dC1zbSBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4xNGVtXSB0ZXh0LVsjZjNmM2YzXSI+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLVsjMWYxZjFmXSBweS0zIj5JZGVudGlkYWQgdmlzdWFsPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci1bIzFmMWYxZl0gcHktMyI+U2lzdGVtYSBncmFmaWNvPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InB5LTMiPkRpcmVjY2lvbiBkZSBtYXJjYTwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvYXJ0aWNsZT4KCiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLVsjMWYxZjFmXSBiZy1ibGFjayBweC01IHB5LTUgdHJhbnNpdGlvbiBkdXJhdGlvbi0zMDAgaG92ZXI6LXRyYW5zbGF0ZS15LTEgaG92ZXI6Ym9yZGVyLVsjZmYzYjMwXS82MCI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzAuNzJyZW1dIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI4ZW1dIHRleHQtWyNmZjNiMzBdIj4KICAgICAgICAgICAgICAgICAgVmFsZXJpcwogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZ3JpZCBnYXAtMCBib3JkZXIteSBib3JkZXItWyMxZjFmMWZdIHRleHQtc20gZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctWzAuMTRlbV0gdGV4dC1bI2YzZjNmM10iPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci1bIzFmMWYxZl0gcHktMyI+RXN0cnVjdHVyYSBkaWdpdGFsPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImJvcmRlci1iIGJvcmRlci1bIzFmMWYxZl0gcHktMyI+RGlzZcOxbyB3ZWI8L3A+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icHktMyI+RGVzYXJyb2xsbyB5IGxhbnphbWllbnRvPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvUmV2ZWFsPgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApCn0KCmV4cG9ydCBkZWZhdWx0IFZhbGVyaXNSb3cK"}
+import { ArrowRight } from 'lucide-react'
+import { Link } from 'react-router-dom'
+import Reveal from '../ui/Reveal'
+
+function ValerisRow() {
+  return (
+    <section className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden bg-[#050505] px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <div className="w-full px-5 md:px-6">
+        <Reveal className="h-full">
+          <div className="relative grid h-full overflow-hidden border border-[#1f1f1f] bg-[#050505] text-[#f3f3f3] lg:grid-cols-[1.1fr_0.9fr]">
+            <img
+              src="/valeris-row-bg.gif"
+              alt=""
+              className="absolute inset-0 h-full w-full object-cover object-center opacity-[0.22]"
+            />
+            <div className="absolute inset-0 bg-[#050505]/82" />
+
+            <div className="relative flex flex-col justify-between border-b border-[#1f1f1f] px-5 py-6 sm:px-6 lg:border-b-0 lg:border-r lg:px-8 lg:py-8">
+              <div>
+                <p className="text-[0.68rem] font-semibold uppercase tracking-[0.3em] text-white/58">
+                  Collaborative format
+                </p>
+
+                <h1 className="mt-5 font-display text-[3rem] uppercase leading-[0.86] tracking-[-0.06em] sm:text-[4.25rem] lg:text-[6.5rem]">
+                  <span className="text-[#ff3b30]">Valeris</span>
+                  <span className="px-2 text-[#f3f3f3]">x</span>
+                  <span className="text-[#2d5bff]">Row</span>
+                </h1>
+
+                <div className="mt-5 h-px w-full bg-[#1f1f1f]">
+                  <div className="h-full w-full bg-gradient-to-r from-[#ff3b30] via-[#f3f3f3] to-[#2d5bff]" />
+                </div>
+
+                <h2 className="mt-6 max-w-3xl font-display text-2xl uppercase leading-[0.94] tracking-[-0.04em] text-[#f3f3f3] sm:text-3xl lg:text-[2.7rem]">
+                  Identidad visual y experiencia digital dentro de una misma direccion
+                </h2>
+
+                <div className="mt-6 max-w-3xl space-y-4 text-sm leading-6 text-[#f3f3f3] sm:text-base">
+                  <p>Algunos proyectos necesitan algo mas que una web.</p>
+                  <p>Necesitan una identidad solida detras y una presencia digital a la altura.</p>
+                  <p>
+                    Para esos casos, Valeris y Row colaboran en una direccion compartida: Row trabaja la identidad visual y el sistema de marca; Valeris la traduce a estructura, experiencia y desarrollo web.
+                  </p>
+                </div>
+              </div>
+
+              <div className="mt-8">
+                <Link
+                  to="/contacto"
+                  className="secondary-button gap-2 border-[#1f1f1f] bg-transparent text-[#f3f3f3] hover:border-white hover:bg-white hover:text-black"
+                >
+                  Explorar colaboracion
+                  <ArrowRight size={16} />
+                </Link>
+              </div>
+            </div>
+
+            <div className="relative grid content-center gap-4 px-5 py-6 sm:px-6 lg:px-8 lg:py-8">
+              <article className="border border-[#1f1f1f] bg-black px-5 py-5 transition duration-300 hover:-translate-y-1 hover:border-[#2d5bff]/60">
+                <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#2d5bff]">
+                  Row
+                </p>
+                <div className="mt-5 grid gap-0 border-y border-[#1f1f1f] text-sm font-semibold uppercase tracking-[0.14em] text-[#f3f3f3]">
+                  <p className="border-b border-[#1f1f1f] py-3">Identidad visual</p>
+                  <p className="border-b border-[#1f1f1f] py-3">Sistema grafico</p>
+                  <p className="py-3">Direccion de marca</p>
+                </div>
+              </article>
+
+              <article className="border border-[#1f1f1f] bg-black px-5 py-5 transition duration-300 hover:-translate-y-1 hover:border-[#ff3b30]/60">
+                <p className="text-[0.72rem] font-semibold uppercase tracking-[0.28em] text-[#ff3b30]">
+                  Valeris
+                </p>
+                <div className="mt-5 grid gap-0 border-y border-[#1f1f1f] text-sm font-semibold uppercase tracking-[0.14em] text-[#f3f3f3]">
+                  <p className="border-b border-[#1f1f1f] py-3">Estructura digital</p>
+                  <p className="border-b border-[#1f1f1f] py-3">Diseño web</p>
+                  <p className="py-3">Desarrollo y lanzamiento</p>
+                </div>
+              </article>
+            </div>
+          </div>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default ValerisRow

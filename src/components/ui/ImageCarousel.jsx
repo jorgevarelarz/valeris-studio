@@ -1,1 +1,61 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JwoKY29uc3QgaW1hZ2VzID0gWwogIG5ldyBVUkwoJy4uLy4uLy4uL1RpZ2VyLmpwZycsIGltcG9ydC5tZXRhLnVybCkuaHJlZiwKICBuZXcgVVJMKCcuLi8uLi8uLi9ocTcyMC5qcGcnLCBpbXBvcnQubWV0YS51cmwpLmhyZWYsCiAgbmV3IFVSTCgnLi4vLi4vLi4vcGF2ZWwta2V5emlrLWxXQXpQc2xyYW5vLXVuc3BsYXNoLmpwZycsIGltcG9ydC5tZXRhLnVybCkuaHJlZiwKICBuZXcgVVJMKCcuLi8uLi8uLi9QcmF0b25lIEdyYXNzIExvdW5nZSBDaGlsbGluLmpwZycsIGltcG9ydC5tZXRhLnVybCkuaHJlZiwKICBuZXcgVVJMKCcuLi8uLi8uLi93aWxkIGhvcnNlcyB0YXR0b28uanBnJywgaW1wb3J0Lm1ldGEudXJsKS5ocmVmLAogIG5ldyBVUkwoJy4uLy4uLy4uLyAtMi5qcGcnLCBpbXBvcnQubWV0YS51cmwpLmhyZWYsCl0KCmZ1bmN0aW9uIEltYWdlQ2Fyb3VzZWwoKSB7CiAgY29uc3QgW2FjdGl2ZUluZGV4LCBzZXRBY3RpdmVJbmRleF0gPSB1c2VTdGF0ZSgwKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgaW50ZXJ2YWwgPSB3aW5kb3cuc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICBzZXRBY3RpdmVJbmRleCgoY3VycmVudCkgPT4gKGN1cnJlbnQgKyAxKSAlIGltYWdlcy5sZW5ndGgpCiAgICB9LCAzMDApCgogICAgcmV0dXJuICgpID0+IHdpbmRvdy5jbGVhckludGVydmFsKGludGVydmFsKQogIH0sIFtdKQoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGgtZnVsbCBtaW4taC1bNTIwcHhdIG92ZXJmbG93LWhpZGRlbiBib3JkZXIgYm9yZGVyLXdoaXRlLzEwIGJnLVsjMTExMTExXSI+CiAgICAgIHtpbWFnZXMubWFwKChpbWFnZSwgaW5kZXgpID0+ICgKICAgICAgICA8aW1nCiAgICAgICAgICBrZXk9e2ltYWdlfQogICAgICAgICAgc3JjPXtpbWFnZX0KICAgICAgICAgIGFsdD0iIgogICAgICAgICAgY2xhc3NOYW1lPXtgYWJzb2x1dGUgaW5zZXQtMCBoLWZ1bGwgdy1mdWxsIG9iamVjdC1jb3ZlciB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0yMDAgJHsKICAgICAgICAgICAgaW5kZXggPT09IGFjdGl2ZUluZGV4CiAgICAgICAgICAgICAgPyAnc2NhbGUtMTAwIG9wYWNpdHktMTAwIHNhdHVyYXRlLTE1MCcKICAgICAgICAgICAgICA6ICdzY2FsZS0xMTAgb3BhY2l0eS0wIHNhdHVyYXRlLTUwJwogICAgICAgICAgfWB9CiAgICAgICAgLz4KICAgICAgKSl9CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJub2lzZS1ncmlkIGFic29sdXRlIGluc2V0LTAgbWl4LWJsZW5kLW92ZXJsYXkgb3BhY2l0eS0zMCIgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctW2xpbmVhci1ncmFkaWVudCgxODBkZWcscmdiYSgwLDAsMCwwLjA4KSxyZ2JhKDAsMCwwLDAuNDYpKV0iIC8+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBsZWZ0LTUgdG9wLTUgYm9yZGVyIGJvcmRlci13aGl0ZS8yMCBiZy1ibGFjay8yNSBweC00IHB5LTIgdGV4dC1bMC42NXJlbV0gZm9udC1ib2xkIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNGVtXSB0ZXh0LXdoaXRlIj4KICAgICAgICAzMDBtcyBpbWFnZSBzd2l0Y2gKICAgICAgPC9kaXY+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBib3R0b20tNSBsZWZ0LTUgcmlnaHQtNSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gYm9yZGVyIGJvcmRlci13aGl0ZS8xNSBiZy1ibGFjay8yNSBweC01IHB5LTQgYmFja2Ryb3AtYmx1ci1tZCI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LWRpc3BsYXkgdGV4dC0zeGwgbGVhZGluZy1ub25lIHRyYWNraW5nLVstMC4wNmVtXSB0ZXh0LXdoaXRlIj4KICAgICAgICAgIEhpZ2gtc3RpbXVsdXMgdmlzdWFsIGZlZWQKICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgICAge2ltYWdlcy5tYXAoKGltYWdlLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgIGtleT17YCR7aW1hZ2V9LWRvdGB9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgaC0yLjUgdy0yLjUgdHJhbnNpdGlvbi1hbGwgJHsKICAgICAgICAgICAgICAgIGluZGV4ID09PSBhY3RpdmVJbmRleCA/ICdiZy1hY2lkIHNoYWRvdy1bMF8wXzE0cHhfcmdiYSgyMTYsMjU1LDYyLDAuOSldJyA6ICdiZy13aGl0ZS80MCcKICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgLz4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICkKfQoKZXhwb3J0IGRlZmF1bHQgSW1hZ2VDYXJvdXNlbAo="}
+import { useEffect, useState } from 'react'
+
+const images = [
+  new URL('../../../Tiger.jpg', import.meta.url).href,
+  new URL('../../../hq720.jpg', import.meta.url).href,
+  new URL('../../../pavel-keyzik-lWAzPslrano-unsplash.jpg', import.meta.url).href,
+  new URL('../../../Pratone Grass Lounge Chillin.jpg', import.meta.url).href,
+  new URL('../../../wild horses tattoo.jpg', import.meta.url).href,
+  new URL('../../../ -2.jpg', import.meta.url).href,
+]
+
+function ImageCarousel() {
+  const [activeIndex, setActiveIndex] = useState(0)
+
+  useEffect(() => {
+    const interval = window.setInterval(() => {
+      setActiveIndex((current) => (current + 1) % images.length)
+    }, 300)
+
+    return () => window.clearInterval(interval)
+  }, [])
+
+  return (
+    <div className="relative h-full min-h-[520px] overflow-hidden border border-white/10 bg-[#111111]">
+      {images.map((image, index) => (
+        <img
+          key={image}
+          src={image}
+          alt=""
+          className={`absolute inset-0 h-full w-full object-cover transition-all duration-200 ${
+            index === activeIndex
+              ? 'scale-100 opacity-100 saturate-150'
+              : 'scale-110 opacity-0 saturate-50'
+          }`}
+        />
+      ))}
+      <div className="noise-grid absolute inset-0 mix-blend-overlay opacity-30" />
+      <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(0,0,0,0.08),rgba(0,0,0,0.46))]" />
+      <div className="absolute left-5 top-5 border border-white/20 bg-black/25 px-4 py-2 text-[0.65rem] font-bold uppercase tracking-[0.24em] text-white">
+        300ms image switch
+      </div>
+      <div className="absolute bottom-5 left-5 right-5 flex items-center justify-between border border-white/15 bg-black/25 px-5 py-4 backdrop-blur-md">
+        <p className="font-display text-3xl leading-none tracking-[-0.06em] text-white">
+          High-stimulus visual feed
+        </p>
+        <div className="flex gap-2">
+          {images.map((image, index) => (
+            <span
+              key={`${image}-dot`}
+              className={`h-2.5 w-2.5 transition-all ${
+                index === activeIndex ? 'bg-acid shadow-[0_0_14px_rgba(216,255,62,0.9)]' : 'bg-white/40'
+              }`}
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default ImageCarousel

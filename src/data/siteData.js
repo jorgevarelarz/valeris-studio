@@ -1,1 +1,218 @@
-{"data": "aW1wb3J0IHsKICBBcnJvd1VwUmlnaHQsCiAgR2F1Z2UsCiAgTGF5b3V0VGVtcGxhdGUsCiAgTGlmZUJ1b3ksCiAgTWFwUGlubmVkLAogIFJlZnJlc2hDdywKICBTZWFyY2gsCiAgU21hcnRwaG9uZSwKICBTcGFya2xlcywKICBUYXJnZXQsCn0gZnJvbSAnbHVjaWRlLXJlYWN0JwoKZXhwb3J0IGNvbnN0IG5hdkl0ZW1zID0gWwogIHsgbGFiZWw6ICdTZXJ2aWNpb3MnLCBocmVmOiAnL3NlcnZpY2lvcycgfSwKICB7IGxhYmVsOiAnVmFsZXJpcyB4IFJvdycsIGhyZWY6ICcvdmFsZXJpcy1yb3cnIH0sCiAgeyBsYWJlbDogJ1ZhbG9yJywgaHJlZjogJy9wb3ItcXVlLXZhbGVyaXMnIH0sCiAgeyBsYWJlbDogJ1Byb2Nlc28nLCBocmVmOiAnL3Byb2Nlc28nIH0sCiAgeyBsYWJlbDogJ1Byb3llY3RvcycsIGhyZWY6ICcvcHJveWVjdG9zJyB9LAogIHsgbGFiZWw6ICdUZXN0aW1vbmlvcycsIGhyZWY6ICcvdGVzdGltb25pb3MnIH0sCiAgeyBsYWJlbDogJ0VzdHVkaW8nLCBocmVmOiAnL2VzdHVkaW8nIH0sCl0KCmV4cG9ydCBjb25zdCBzZXJ2aWNlcyA9IFsKICB7CiAgICB0aXRsZTogJ0Rpc2XDsW8geSBkZXNhcnJvbGxvIHdlYicsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1NpdGlvcyBjb3Jwb3JhdGl2b3MgYSBtZWRpZGEgY29uIHVuYSBkaXJlY2Npw7NuIHZpc3VhbCBzw7NsaWRhIHkgdW5hIGJhc2UgdMOpY25pY2EgcHJlcGFyYWRhIHBhcmEgY3JlY2VyLicsCiAgICBpY29uOiBTcGFya2xlcywKICB9LAogIHsKICAgIHRpdGxlOiAnTGFuZGluZyBwYWdlcyBkZSBhbHRhIGNvbnZlcnNpw7NuJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnUMOhZ2luYXMgcGVuc2FkYXMgcGFyYSBjYW1wYcOxYXMsIGNhcHRhY2nDs24geSB2ZW50YXMgY29uIHVuYSBqZXJhcnF1w61hIGNsYXJhIHkgbWVuc2FqZXMgZW5mb2NhZG9zIGVuIGFjY2nDs24uJywKICAgIGljb246IExheW91dFRlbXBsYXRlLAogIH0sCiAgewogICAgdGl0bGU6ICdXZWJzIHBhcmEgbmVnb2Npb3MgbG9jYWxlcycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1ByZXNlbmNpYSBkaWdpdGFsIHByb2Zlc2lvbmFsIHBhcmEgcmVzdGF1cmFudGVzLCBjbMOtbmljYXMsIGRlc3BhY2hvcyB5IG1hcmNhcyBxdWUgbmVjZXNpdGFuIGRlc3RhY2FyIGVuIHN1IHpvbmEuJywKICAgIGljb246IE1hcFBpbm5lZCwKICB9LAogIHsKICAgIHRpdGxlOiAnUmVkaXNlw7FvIGRlIHDDoWdpbmFzIGV4aXN0ZW50ZXMnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdSZXBsYW50ZWFtb3Mgd2VicyBkZXNhY3R1YWxpemFkYXMgcGFyYSBtZWpvcmFyIGltYWdlbiwgZXhwZXJpZW5jaWEgZGUgdXN1YXJpbyB5IHBlcmNlcGNpw7NuIGRlIHZhbG9yLicsCiAgICBpY29uOiBSZWZyZXNoQ3csCiAgfSwKICB7CiAgICB0aXRsZTogJ01hbnRlbmltaWVudG8geSBzb3BvcnRlJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnQWNvbXBhw7FhbWllbnRvIGNvbnRpbnVvIHBhcmEgbWFudGVuZXIgdHUgd2ViIGN1aWRhZGEsIGVzdGFibGUgeSBsaXN0YSBwYXJhIGV2b2x1Y2lvbmFyIHNpbiBmcmljY2lvbmVzLicsCiAgICBpY29uOiBMaWZlQnVveSwKICB9LAogIHsKICAgIHRpdGxlOiAnU0VPIGLDoXNpY28geSByZW5kaW1pZW50bycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ09wdGltaXphY2nDs24gaW5pY2lhbCBkZSBlc3RydWN0dXJhLCB2ZWxvY2lkYWQgeSBmdW5kYW1lbnRvcyB0w6ljbmljb3MgcGFyYSBtZWpvcmFyIHZpc2liaWxpZGFkIHkgZXhwZXJpZW5jaWEuJywKICAgIGljb246IFNlYXJjaCwKICB9LAogIHsKICAgIHRpdGxlOiAnV2VicyBjb24gaW50ZWxpZ2VuY2lhIGludGVncmFkYScsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0FsZ3VuYXMgd2VicyBuZWNlc2l0YW4gYWxnbyBtw6FzIHF1ZSBkaXNlw7FvIHkgZGVzYXJyb2xsby4gSW50ZWdyYW1vcyBhc2lzdGVudGVzLCBhdXRvbWF0aXphY2lvbmVzIHkgc2lzdGVtYXMgaW50ZWxpZ2VudGVzIHBhcmEgbWVqb3JhciBhdGVuY2nDs24sIGNhcHRhY2nDs24geSBlZmljaWVuY2lhLicsCiAgICBzdWJzZXJ2aWNlczogWwogICAgICAnQXNpc3RlbnRlcyB3ZWIgcGFyYSByZXNvbHZlciBkdWRhcyBmcmVjdWVudGVzJywKICAgICAgJ0F1dG9tYXRpemFjacOzbiBkZSBmb3JtdWxhcmlvcyB5IGNhcHRhY2nDs24nLAogICAgICAnRmlsdHJhZG8gaW50ZWxpZ2VudGUgZGUgbGVhZHMnLAogICAgICAnSW50ZWdyYWNpw7NuIGNvbiBXaGF0c0FwcCwgY29ycmVvIG8gQ1JNJywKICAgICAgJ1Npc3RlbWFzIHBlcnNvbmFsaXphZG9zIHNlZ8O6biBlbCBmbHVqbyBkZWwgbmVnb2NpbycsCiAgICBdLAogICAgaWNvbjogU3BhcmtsZXMsCiAgfSwKXQoKZXhwb3J0IGNvbnN0IGJlbmVmaXRzID0gWwogIHsKICAgIHRpdGxlOiAnRGlzZcOxbyBwcmVtaXVtIHkgYSBtZWRpZGEnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdDYWRhIHByb3llY3RvIHJlc3BvbmRlIGEgdW5hIG1hcmNhIGNvbmNyZXRhLCBzaW4gc29sdWNpb25lcyBnZW7DqXJpY2FzIG5pIGVzdHJ1Y3R1cmFzIGludGVyY2FtYmlhYmxlcy4nLAogICAgaWNvbjogU3BhcmtsZXMsCiAgfSwKICB7CiAgICB0aXRsZTogJ1dlYnMgcsOhcGlkYXMgeSBvcHRpbWl6YWRhcycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1ByaW9yaXphbW9zIHJlbmRpbWllbnRvLCBjbGFyaWRhZCB2aXN1YWwgeSB1bmEgZXhwZXJpZW5jaWEgw6FnaWwgZGVzZGUgZWwgcHJpbWVyIHNlZ3VuZG8uJywKICAgIGljb246IEdhdWdlLAogIH0sCiAgewogICAgdGl0bGU6ICdBZGFwdGFjacOzbiB0b3RhbCBhIG3Ds3ZpbCcsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0xhIGV4cGVyaWVuY2lhIHNlIGRpc2XDsWEgcGVuc2FuZG8gZW4gbcOzdmlsLCB0YWJsZXQgeSBkZXNrdG9wIGNvbiBlbCBtaXNtbyBuaXZlbCBkZSBkZXRhbGxlLicsCiAgICBpY29uOiBTbWFydHBob25lLAogIH0sCiAgewogICAgdGl0bGU6ICdJbWFnZW4gcHJvZmVzaW9uYWwgZGUgbWFyY2EnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdVbmEgd2ViIG1lam9yIGRpc2XDsWFkYSBtZWpvcmEgcGVyY2VwY2nDs24sIGNvbmZpYW56YSB5IGNvaGVyZW5jaWEgZW4gdG9kb3MgbG9zIHB1bnRvcyBkZSBjb250YWN0by4nLAogICAgaWNvbjogQXJyb3dVcFJpZ2h0LAogIH0sCiAgewogICAgdGl0bGU6ICdFbmZvcXVlIGVuIGNvbnZlcnNpw7NuJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnT3JkZW5hbW9zIGVsIGNvbnRlbmlkbyBwYXJhIGd1aWFyIGFsIHVzdWFyaW8sIHJlZHVjaXIgZnJpY2Npw7NuIHkgZmF2b3JlY2VyIHNvbGljaXR1ZGVzIHJlYWxlcy4nLAogICAgaWNvbjogVGFyZ2V0LAogIH0sCiAgewogICAgdGl0bGU6ICdUcmF0byBjZXJjYW5vIHkgcGVyc29uYWxpemFkbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ1Byb2Nlc29zIGNsYXJvcywgY29tdW5pY2FjacOzbiBkaXJlY3RhIHkgZGVjaXNpb25lcyBkZSBkaXNlw7FvIGFsaW5lYWRhcyBjb24gdHVzIG9iamV0aXZvcy4nLAogICAgaWNvbjogTGlmZUJ1b3ksCiAgfSwKXQoKZXhwb3J0IGNvbnN0IHByb2Nlc3NTdGVwcyA9IFsKICB7CiAgICBudW1iZXI6ICcwMScsCiAgICB0aXRsZTogJ0VzdHJhdGVnaWEnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdBbmFsaXphbW9zIHR1IG5lZ29jaW8sIHR1IHBvc2ljaW9uYW1pZW50byB5IHF1w6kgZGViZSBjb25zZWd1aXIgbGEgd2ViIGFudGVzIGRlIGRpc2XDsWFyIG5hZGEuJywKICB9LAogIHsKICAgIG51bWJlcjogJzAyJywKICAgIHRpdGxlOiAnRGlzZcOxbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0NyZWFtb3MgdW5hIHByb3B1ZXN0YSB2aXN1YWwgZWxlZ2FudGUsIGNsYXJhIHkgY29oZXJlbnRlIGNvbiBsYSBwZXJjZXBjacOzbiBxdWUgcXVpZXJlcyBwcm95ZWN0YXIuJywKICB9LAogIHsKICAgIG51bWJlcjogJzAzJywKICAgIHRpdGxlOiAnRGVzYXJyb2xsbycsCiAgICBkZXNjcmlwdGlvbjoKICAgICAgJ0NvbnZlcnRpbW9zIGVsIGRpc2XDsW8gZW4gdW5hIGV4cGVyaWVuY2lhIHLDoXBpZGEsIHJlc3BvbnNpdmUgeSB0w6ljbmljYW1lbnRlIGxpbXBpYS4gQ3VhbmRvIGVsIHByb3llY3RvIGxvIG5lY2VzaXRhLCBkZWZpbmltb3MgdGFtYmnDqW4gYXV0b21hdGl6YWNpb25lcyBvIGFzaXN0ZW50ZXMgcXVlIGNvbXBsZW1lbnRhbiBsYSB3ZWIgeSBtZWpvcmFuIGxhIGNhcHRhY2nDs24gbyBsYSBhdGVuY2nDs24uJywKICB9LAogIHsKICAgIG51bWJlcjogJzA0JywKICAgIHRpdGxlOiAnTGFuemFtaWVudG8geSBzb3BvcnRlJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnUHVibGljYW1vcywgcmV2aXNhbW9zIGRldGFsbGVzIGNsYXZlIHkgZGVqYW1vcyBsYSBiYXNlIGxpc3RhIHBhcmEgc2VndWlyIGNyZWNpZW5kbyBjb24gb3JkZW4uJywKICB9LApdCgpleHBvcnQgY29uc3QgcG9ydGZvbGlvUHJvamVjdHMgPSBbCiAgewogICAgbmFtZTogJ05vbWEgQ2x1YicsCiAgICBjYXRlZ29yeTogJ1NhbGEgZGUgY29uY2llcnRvcyB5IHJlc3RhdXJhbnRlJywKICAgIGRlc2NyaXB0aW9uOgogICAgICAnV2ViIGNvbXBsZXRhIHBhcmEgdW4gZXNwYWNpbyBkZSBtw7pzaWNhIGVuIHZpdm8geSBob3N0ZWxlcsOtYTogcHJvZ3JhbWFjacOzbiBkZSBldmVudG9zLCBmb3JtdWxhcmlvIGRlIGNhcHRhY2nDs24gcGFyYSBhcnRpc3RhcyB5IGNhcnRhcyBkZSBtZW7DuiBpbnRlZ3JhZGFzLicsCiAgICBpbXBhY3Q6ICdQcmVzZW5jaWEgZGlnaXRhbCBjb2hlcmVudGUgY29uIGxhIGlkZW50aWRhZCBkZWwgZXNwYWNpbywgY29uIG1lam9yIGNhcHRhY2nDs24gZGUgYXJ0aXN0YXMgeSBtw6FzIHZpc2liaWxpZGFkIGRlIGxhIG9mZXJ0YSBnYXN0cm9uw7NtaWNhLicsCiAgfSwKICB7CiAgICBuYW1lOiAnSUhBIFJhY2UnLAogICAgY2F0ZWdvcnk6ICdUaWVuZGEgb25saW5lIGVzcGVjaWFsaXphZGEnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdSZWRpc2XDsW8gdmlzdWFsIGRlIGxhIGhvbWUgZGUgdW5hIHRpZW5kYSBXb29Db21tZXJjZSBkZSBtYXRlcmlhbCBGUFYgeSBkcm9uZXMsIGNvbiBudWV2YSBlc3RydWN0dXJhLCBqZXJhcnF1w61hIGRlIGNhdGVnb3LDrWFzIHkgY29tcG9uZW50ZXMgZWRpdGFibGVzIGRlc2RlIEVsZW1lbnRvci4nLAogICAgaW1wYWN0OiAnSG9tZSBtw6FzIGNsYXJhIHkgY29tZXJjaWFsLCBjb24gbWVqb3IgcmVjb3JyaWRvIGhhY2lhIGxhcyBjYXRlZ29yw61hcyBjbGF2ZSB5IG1heW9yIGNvaGVyZW5jaWEgdmlzdWFsIGRlIG1hcmNhLicsCiAgfSwKICB7CiAgICBuYW1lOiAnTXVzc3ZhcCcsCiAgICBjYXRlZ29yeTogJ01hcmNhIGRlIHZhcGVhZG9yZXMnLAogICAgZGVzY3JpcHRpb246CiAgICAgICdMYW5kaW5nIHBhZ2UgZGUgY2FwdGFjacOzbiwgY29ycmVjY2nDs24gZGUgZXJyb3JlcyB0w6ljbmljb3MgeSBhY3R1YWxpemFjacOzbiBkZSBww6FnaW5hcyBwYXJhIHVuYSBtYXJjYSBkZSB2YXBlYWRvcmVzIGNvbiBwcmVzZW5jaWEgZGlnaXRhbCBhY3RpdmEuJywKICAgIGltcGFjdDogJ1dlYiBtw6FzIHPDs2xpZGEgeSB1bmEgbGFuZGluZyBtw6FzIGVmZWN0aXZhIHF1ZSBtZWpvcmEgbGEgcHJpbWVyYSBpbXByZXNpw7NuIHkgZWwgcmVjb3JyaWRvIGhhY2lhIGNvbXByYSBvIGNvbnRhY3RvLicsCiAgfSwKXQoKZXhwb3J0IGNvbnN0IHRlc3RpbW9uaWFscyA9IFsKICB7CiAgICBxdW90ZToKICAgICAgJ05lY2VzaXTDoWJhbW9zIHVuYSB3ZWIgcXVlIHRyYW5zbWl0aWVyYSB1biBuaXZlbCBtw6FzIGFsdG8gZGUgbWFyY2EuIEVsIHJlc3VsdGFkbyBmdWUgbGltcGlvLCBlbGVnYW50ZSB5IG11eSBmw6FjaWwgZGUgcHJlc2VudGFyIGEgY2xpZW50ZXMuJywKICAgIGF1dGhvcjogJ01hcnRhIFJpdmFzJywKICAgIHJvbGU6ICdEaXJlY3RvcmEsIFJpdmFzICYgQ28uJywKICB9LAogIHsKICAgIHF1b3RlOgogICAgICAnVmFsZXJpcyBTdHVkaW8gZW50ZW5kacOzIHLDoXBpZG8gcXXDqSBkZWLDrWFtb3MgY29tdW5pY2FyIHkgb3JkZW7DsyB0b2RvIGVsIHByb3llY3RvIGNvbiBtdWNobyBjcml0ZXJpby4gTGEgZGlmZXJlbmNpYSBmcmVudGUgYSBudWVzdHJhIHdlYiBhbnRlcmlvciBlcyBldmlkZW50ZS4nLAogICAgYXV0aG9yOiAnSmF2aWVyIE9ydGVnYScsCiAgICByb2xlOiAnU29jaW8sIE9ydGVnYSBMZWdhbCcsCiAgfSwKICB7CiAgICBxdW90ZToKICAgICAgJ0VsIHByb2Nlc28gZnVlIGNsYXJvIGRlIHByaW5jaXBpbyBhIGZpbi4gU2Ugbm90YSBxdWUgaGF5IHVuYSBpbnRlbmNpw7NuIGVzdHJhdMOpZ2ljYSBkZXRyw6FzIGRlbCBkaXNlw7FvLCBubyBzb2xvIHVuYSBjYXBhIGVzdMOpdGljYS4nLAogICAgYXV0aG9yOiAnQ2xhdWRpYSBTZXJyYW5vJywKICAgIHJvbGU6ICdGdW5kYWRvcmEsIFNlcnJhIENsaW5pYycsCiAgfSwKXQoKZXhwb3J0IGNvbnN0IHNlcnZpY2VGYXFzID0gWwogIHsKICAgIHF1ZXN0aW9uOiAnwr9RdcOpIHRpcG8gZGUgcHJveWVjdG9zIGhhY2UgVmFsZXJpcyBTdHVkaW8/JywKICAgIGFuc3dlcjoKICAgICAgJ0Rpc2XDsWFtb3MgeSBkZXNhcnJvbGxhbW9zIHdlYnMgcHJlbWl1bSBwYXJhIG1hcmNhcywgbmVnb2Npb3MgbG9jYWxlcywgY2zDrW5pY2FzLCBkZXNwYWNob3MsIHJlc3RhdXJhbnRlcywgcG9ydGZvbGlvcyB5IHByb3llY3RvcyBxdWUgbmVjZXNpdGFuIHVuYSBwcmVzZW5jaWEgZGlnaXRhbCBtw6FzIGZ1ZXJ0ZS4nLAogIH0sCiAgewogICAgcXVlc3Rpb246ICfCv1NvbG8gaGFjw6lpcyBkaXNlw7FvIG8gdGFtYmnDqW4gZGVzYXJyb2xsbyB3ZWI/JywKICAgIGFuc3dlcjoKICAgICAgJ1RyYWJhamFtb3MgbGEgcGFydGUgdmlzdWFsLCBsYSBlc3RydWN0dXJhLCBlbCBjb3B5IHkgZWwgZGVzYXJyb2xsbyBmcm9udGVuZCBwYXJhIGVudHJlZ2FyIHVuYSB3ZWIgbGlzdGEgcGFyYSBwdWJsaWNhcnNlIHkgY3JlY2VyIGNvbiB1bmEgYmFzZSB0w6ljbmljYSBsaW1waWEuJywKICB9LAogIHsKICAgIHF1ZXN0aW9uOiAnwr9Qb2TDqWlzIHJlZGlzZcOxYXIgdW5hIHdlYiBxdWUgeWEgZXhpc3RlPycsCiAgICBhbnN3ZXI6CiAgICAgICdTw60uIFJlcGxhbnRlYW1vcyB3ZWJzIGRlc2FjdHVhbGl6YWRhcyBwYXJhIG1lam9yYXIgcGVyY2VwY2nDs24gZGUgbWFyY2EsIGNsYXJpZGFkLCByZWNvcnJpZG8gZGUgdXN1YXJpbyB5IGNhcGFjaWRhZCBkZSBjYXB0YWNpw7NuLicsCiAgfSwKICB7CiAgICBxdWVzdGlvbjogJ8K/VHJhYmFqw6FpcyBsYW5kaW5ncyB5IHdlYnMgb3JpZW50YWRhcyBhIGNvbnZlcnNpw7NuPycsCiAgICBhbnN3ZXI6CiAgICAgICdTw60uIERpc2XDsWFtb3MgbGFuZGluZyBwYWdlcywgd2VicyBjb3Jwb3JhdGl2YXMgeSBww6FnaW5hcyBkZSBjYXB0YWNpw7NuIGNvbiBqZXJhcnF1w61hIGNsYXJhLCBtZW5zYWplcyBkaXJlY3RvcyB5IGVzdHJ1Y3R1cmEgZW5mb2NhZGEgZW4gY29udGFjdG8gbyB2ZW50YS4nLAogIH0sCiAgewogICAgcXVlc3Rpb246ICfCv0ludGVncsOhaXMgYXV0b21hdGl6YWNpb25lcyBvIGFzaXN0ZW50ZXMgZW4gbGEgd2ViPycsCiAgICBhbnN3ZXI6CiAgICAgICdDdWFuZG8gZWwgcHJveWVjdG8gbG8gbmVjZXNpdGEsIGludGVncmFtb3MgYXNpc3RlbnRlcywgYXV0b21hdGl6YWNpb25lcyB5IHNpc3RlbWFzIGludGVsaWdlbnRlcyBwYXJhIG1lam9yYXIgYXRlbmNpw7NuLCBmaWx0cmFkbyBkZSBsZWFkcyB5IGVmaWNpZW5jaWEuJywKICB9LAogIHsKICAgIHF1ZXN0aW9uOiAnwr9TZSBwdWVkZSBjb250YWN0YXIgcG9yIFdoYXRzQXBwIG8gY29ycmVvPycsCiAgICBhbnN3ZXI6CiAgICAgICdTw60uIFB1ZWRlcyBlc2NyaWJpciBhIGluZm9AdmFsZXJpc3N0dWRpby5lcyBvIGFicmlyIGNvbnZlcnNhY2nDs24gZGlyZWN0YSBwb3IgV2hhdHNBcHAgZW4gZWwgNjcyIDcxMCAwNDAuJywKICB9LApdCg=="}
+import {
+  ArrowUpRight,
+  Gauge,
+  LayoutTemplate,
+  LifeBuoy,
+  MapPinned,
+  RefreshCw,
+  Search,
+  Smartphone,
+  Sparkles,
+  Target,
+} from 'lucide-react'
+
+export const navItems = [
+  { label: 'Servicios', href: '/servicios' },
+  { label: 'Valeris x Row', href: '/valeris-row' },
+  { label: 'Valor', href: '/por-que-valeris' },
+  { label: 'Proceso', href: '/proceso' },
+  { label: 'Proyectos', href: '/proyectos' },
+  { label: 'Testimonios', href: '/testimonios' },
+  { label: 'Estudio', href: '/estudio' },
+]
+
+export const services = [
+  {
+    title: 'Diseño y desarrollo web',
+    description:
+      'Sitios corporativos a medida con una dirección visual sólida y una base técnica preparada para crecer.',
+    icon: Sparkles,
+  },
+  {
+    title: 'Landing pages de alta conversión',
+    description:
+      'Páginas pensadas para campañas, captación y ventas con una jerarquía clara y mensajes enfocados en acción.',
+    icon: LayoutTemplate,
+  },
+  {
+    title: 'Webs para negocios locales',
+    description:
+      'Presencia digital profesional para restaurantes, clínicas, despachos y marcas que necesitan destacar en su zona.',
+    icon: MapPinned,
+  },
+  {
+    title: 'Rediseño de páginas existentes',
+    description:
+      'Replanteamos webs desactualizadas para mejorar imagen, experiencia de usuario y percepción de valor.',
+    icon: RefreshCw,
+  },
+  {
+    title: 'Mantenimiento y soporte',
+    description:
+      'Acompañamiento continuo para mantener tu web cuidada, estable y lista para evolucionar sin fricciones.',
+    icon: LifeBuoy,
+  },
+  {
+    title: 'SEO básico y rendimiento',
+    description:
+      'Optimización inicial de estructura, velocidad y fundamentos técnicos para mejorar visibilidad y experiencia.',
+    icon: Search,
+  },
+  {
+    title: 'Webs con inteligencia integrada',
+    description:
+      'Algunas webs necesitan algo más que diseño y desarrollo. Integramos asistentes, automatizaciones y sistemas inteligentes para mejorar atención, captación y eficiencia.',
+    subservices: [
+      'Asistentes web para resolver dudas frecuentes',
+      'Automatización de formularios y captación',
+      'Filtrado inteligente de leads',
+      'Integración con WhatsApp, correo o CRM',
+      'Sistemas personalizados según el flujo del negocio',
+    ],
+    icon: Sparkles,
+  },
+]
+
+export const benefits = [
+  {
+    title: 'Diseño premium y a medida',
+    description:
+      'Cada proyecto responde a una marca concreta, sin soluciones genéricas ni estructuras intercambiables.',
+    icon: Sparkles,
+  },
+  {
+    title: 'Webs rápidas y optimizadas',
+    description:
+      'Priorizamos rendimiento, claridad visual y una experiencia ágil desde el primer segundo.',
+    icon: Gauge,
+  },
+  {
+    title: 'Adaptación total a móvil',
+    description:
+      'La experiencia se diseña pensando en móvil, tablet y desktop con el mismo nivel de detalle.',
+    icon: Smartphone,
+  },
+  {
+    title: 'Imagen profesional de marca',
+    description:
+      'Una web mejor diseñada mejora percepción, confianza y coherencia en todos los puntos de contacto.',
+    icon: ArrowUpRight,
+  },
+  {
+    title: 'Enfoque en conversión',
+    description:
+      'Ordenamos el contenido para guiar al usuario, reducir fricción y favorecer solicitudes reales.',
+    icon: Target,
+  },
+  {
+    title: 'Trato cercano y personalizado',
+    description:
+      'Procesos claros, comunicación directa y decisiones de diseño alineadas con tus objetivos.',
+    icon: LifeBuoy,
+  },
+]
+
+export const processSteps = [
+  {
+    number: '01',
+    title: 'Estrategia',
+    description:
+      'Analizamos tu negocio, tu posicionamiento y qué debe conseguir la web antes de diseñar nada.',
+  },
+  {
+    number: '02',
+    title: 'Diseño',
+    description:
+      'Creamos una propuesta visual elegante, clara y coherente con la percepción que quieres proyectar.',
+  },
+  {
+    number: '03',
+    title: 'Desarrollo',
+    description:
+      'Convertimos el diseño en una experiencia rápida, responsive y técnicamente limpia. Cuando el proyecto lo necesita, definimos también automatizaciones o asistentes que complementan la web y mejoran la captación o la atención.',
+  },
+  {
+    number: '04',
+    title: 'Lanzamiento y soporte',
+    description:
+      'Publicamos, revisamos detalles clave y dejamos la base lista para seguir creciendo con orden.',
+  },
+]
+
+export const portfolioProjects = [
+  {
+    name: 'Noma Club',
+    category: 'Sala de conciertos y restaurante',
+    description:
+      'Web completa para un espacio de música en vivo y hostelería: programación de eventos, formulario de captación para artistas y cartas de menú integradas.',
+    impact: 'Presencia digital coherente con la identidad del espacio, con mejor captación de artistas y más visibilidad de la oferta gastronómica.',
+  },
+  {
+    name: 'IHA Race',
+    category: 'Tienda online especializada',
+    description:
+      'Rediseño visual de la home de una tienda WooCommerce de material FPV y drones, con nueva estructura, jerarquía de categorías y componentes editables desde Elementor.',
+    impact: 'Home más clara y comercial, con mejor recorrido hacia las categorías clave y mayor coherencia visual de marca.',
+  },
+  {
+    name: 'Mussvap',
+    category: 'Marca de vapeadores',
+    description:
+      'Landing page de captación, corrección de errores técnicos y actualización de páginas para una marca de vapeadores con presencia digital activa.',
+    impact: 'Web más sólida y una landing más efectiva que mejora la primera impresión y el recorrido hacia compra o contacto.',
+  },
+]
+
+export const testimonials = [
+  {
+    quote:
+      'Necesitábamos una web que transmitiera un nivel más alto de marca. El resultado fue limpio, elegante y muy fácil de presentar a clientes.',
+    author: 'Marta Rivas',
+    role: 'Directora, Rivas & Co.',
+  },
+  {
+    quote:
+      'Valeris Studio entendió rápido qué debíamos comunicar y ordenó todo el proyecto con mucho criterio. La diferencia frente a nuestra web anterior es evidente.',
+    author: 'Javier Ortega',
+    role: 'Socio, Ortega Legal',
+  },
+  {
+    quote:
+      'El proceso fue claro de principio a fin. Se nota que hay una intención estratégica detrás del diseño, no solo una capa estética.',
+    author: 'Claudia Serrano',
+    role: 'Fundadora, Serra Clinic',
+  },
+]
+
+export const serviceFaqs = [
+  {
+    question: '¿Qué tipo de proyectos hace Valeris Studio?',
+    answer:
+      'Diseñamos y desarrollamos webs premium para marcas, negocios locales, clínicas, despachos, restaurantes, portfolios y proyectos que necesitan una presencia digital más fuerte.',
+  },
+  {
+    question: '¿Solo hacéis diseño o también desarrollo web?',
+    answer:
+      'Trabajamos la parte visual, la estructura, el copy y el desarrollo frontend para entregar una web lista para publicarse y crecer con una base técnica limpia.',
+  },
+  {
+    question: '¿Podéis rediseñar una web que ya existe?',
+    answer:
+      'Sí. Replanteamos webs desactualizadas para mejorar percepción de marca, claridad, recorrido de usuario y capacidad de captación.',
+  },
+  {
+    question: '¿Trabajáis landings y webs orientadas a conversión?',
+    answer:
+      'Sí. Diseñamos landing pages, webs corporativas y páginas de captación con jerarquía clara, mensajes directos y estructura enfocada en contacto o venta.',
+  },
+  {
+    question: '¿Integráis automatizaciones o asistentes en la web?',
+    answer:
+      'Cuando el proyecto lo necesita, integramos asistentes, automatizaciones y sistemas inteligentes para mejorar atención, filtrado de leads y eficiencia.',
+  },
+  {
+    question: '¿Se puede contactar por WhatsApp o correo?',
+    answer:
+      'Sí. Puedes escribir a info@valerisstudio.es o abrir conversación directa por WhatsApp en el 672 710 040.',
+  },
+]

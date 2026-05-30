@@ -1,1 +1,79 @@
-{"data":"aW1wb3J0IHsgdGVzdGltb25pYWxzIH0gZnJvbSAnLi4vLi4vZGF0YS9zaXRlRGF0YScKaW1wb3J0IEhvcml6b250YWxXaGVlbCBmcm9tICcuLi91aS9Ib3Jpem9udGFsV2hlZWwnCmltcG9ydCBSZXZlYWwgZnJvbSAnLi4vdWkvUmV2ZWFsJwppbXBvcnQgU2VjdGlvbkhlYWRpbmcgZnJvbSAnLi4vdWkvU2VjdGlvbkhlYWRpbmcnCgpmdW5jdGlvbiBUZXN0aW1vbmlhbHMoKSB7CiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJ0ZXN0aW1vbmlvcyIgY2xhc3NOYW1lPSJmbGV4IG1pbi1oLVtjYWxjKDEwMHN2aC01cmVtKV0gaXRlbXMtc3RhcnQgb3ZlcmZsb3ctaGlkZGVuIHB4LTQgcHktNSBsZzpoLWZ1bGwgbGc6aXRlbXMtY2VudGVyIGxnOnB5LTQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ic2VjdGlvbi1zaGVsbCB3LWZ1bGwiPgogICAgICAgIDxSZXZlYWw+CiAgICAgICAgICA8U2VjdGlvbkhlYWRpbmcKICAgICAgICAgICAgZXllYnJvdz0iVGVzdGltb25pb3MiCiAgICAgICAgICAgIHRpdGxlPSJMTyBRVUUgQ0FNQklBIE5PIEVTIFNPTE8gTEEgV0VCLiBDQU1CSUEgQ09NTyBTRSBQRVJDSUJFIExBIE1BUkNBLiIKICAgICAgICAgICAgY29weT0iQ3VhbmRvIGxhIGRpcmVjY2lvbiB2aXN1YWwgZXN0YSBiaWVuIHBsYW50ZWFkYSwgZWwgcHJveWVjdG8gc2UgZW50aWVuZGUgYW50ZXMgeSBzZSByZWN1ZXJkYSBtYXMuIgogICAgICAgICAgICBsZXZlbD17MX0KICAgICAgICAgIC8+CiAgICAgICAgPC9SZXZlYWw+CgogICAgICAgIDxSZXZlYWwgZGVsYXk9ezQwfT4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01IGdyaWQgZ2FwLTAgYm9yZGVyLXkgYm9yZGVyLXdoaXRlLzE4IGxnOmhpZGRlbiI+CiAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0iYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHVwcGVyY2FzZSB0cmFja2luZy1bMC4yNmVtXSB0ZXh0LVsjZmYyYTFmXSI+Q29tZW50YXJpbyBwcmluY2lwYWw8L3A+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC01IG1heC13LTR4bCBmb250LWRpc3BsYXkgdGV4dC00eGwgdXBwZXJjYXNlIGxlYWRpbmctWzAuOTJdIHRyYWNraW5nLVstMC4wNWVtXSB0ZXh0LXdoaXRlIHNtOnRleHQtNXhsIj4KICAgICAgICAgICAgICAgICZsZHF1bztOZWNlc2l0w6FiYW1vcyB1bmEgd2ViIHF1ZSBkZWphcmEgZGUgcGFyZWNlciB1biBwcm92ZWVkb3IgbcOhcyB5IGVtcGV6YXJhIGEgc2VudGlyc2UgY29tbyB1bmEgbWFyY2EgY29uIGNyaXRlcmlvLiZyZHF1bzsKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYgYm9yZGVyLXQgYm9yZGVyLXdoaXRlLzE0IHB0LTQiPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPk1hcnRhIFJpdmFzPC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xIHRleHQtc20gdGV4dC13aGl0ZSI+RGlyZWN0b3JhLCBSaXZhcyAmIENvLjwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAge3Rlc3RpbW9uaWFscy5tYXAoKGl0ZW0sIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgPGFydGljbGUKICAgICAgICAgICAgICAgIGtleT17aXRlbS5hdXRob3J9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2luZGV4IDwgdGVzdGltb25pYWxzLmxlbmd0aCAtIDEgPyAnYm9yZGVyLWIgYm9yZGVyLXdoaXRlLzEyIHB4LTUgcHktNScgOiAncHgtNSBweS01J30KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbGVhZGluZy02IHRleHQtd2hpdGUiPiZsZHF1bzt7aXRlbS5xdW90ZX0mcmRxdW87PC9wPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgYm9yZGVyLXQgYm9yZGVyLXdoaXRlLzE0IHB0LTQiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC13aGl0ZSI+e2l0ZW0uYXV0aG9yfTwvcD4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xIHRleHQtc20gdGV4dC13aGl0ZSI+e2l0ZW0ucm9sZX08L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2FydGljbGU+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPEhvcml6b250YWxXaGVlbCBjbGFzc05hbWU9Im10LTUgaGlkZGVuIG92ZXJmbG93LXgtYXV0byBwYi0yIHNjcm9sbGJhci1ub25lIGxnOmJsb2NrIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggbWluLXctbWF4IGJvcmRlci15IGJvcmRlci13aGl0ZS8xOCI+CiAgICAgICAgICAgICAgPGFydGljbGUgY2xhc3NOYW1lPSJ3LVs5MnZ3XSBtYXgtdy1bOTgwcHhdIHNocmluay0wIGJvcmRlci1yIGJvcmRlci13aGl0ZS8xOCBweC01IHB5LTUgc206cHgtNiBsZzp3LVs2NHZ3XSI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdXBwZXJjYXNlIHRyYWNraW5nLVswLjI2ZW1dIHRleHQtWyNmZjJhMWZdIj5Db21lbnRhcmlvIHByaW5jaXBhbDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtNSBtYXgtdy00eGwgZm9udC1kaXNwbGF5IHRleHQtNHhsIHVwcGVyY2FzZSBsZWFkaW5nLVswLjkyXSB0cmFja2luZy1bLTAuMDVlbV0gdGV4dC13aGl0ZSBzbTp0ZXh0LTV4bCBsZzp0ZXh0LTZ4bCI+CiAgICAgICAgICAgICAgICAgICZsZHF1bztOZWNlc2l0w6FiYW1vcyB1bmEgd2ViIHF1ZSBkZWphcmEgZGUgcGFyZWNlciB1biBwcm92ZWVkb3IgbcOhcyB5IGVtcGV6YXJhIGEgc2VudGlyc2UgY29tbyB1bmEgbWFyY2EgY29uIGNyaXRlcmlvLiZyZHF1bzsKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IGJvcmRlci10IGJvcmRlci13aGl0ZS8xNCBwdC00Ij4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtd2hpdGUiPk1hcnRhIFJpdmFzPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTEgdGV4dC1zbSB0ZXh0LXdoaXRlIj5EaXJlY3RvcmEsIFJpdmFzICYgQ28uPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9hcnRpY2xlPgoKICAgICAgICAgICAgICB7dGVzdGltb25pYWxzLm1hcCgoaXRlbSkgPT4gKAogICAgICAgICAgICAgICAgPGFydGljbGUKICAgICAgICAgICAgICAgICAga2V5PXtpdGVtLmF1dGhvcn0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IHctWzcydnddIG1heC13LVs2MjBweF0gc2hyaW5rLTAgZmxleC1jb2wganVzdGlmeS1iZXR3ZWVuIGJvcmRlci1yIGJvcmRlci13aGl0ZS8xOCBweC01IHB5LTUgc206cHgtNiBsZzp3LVszNHZ3XSIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxlYWRpbmctNiB0ZXh0LXdoaXRlIj4mbGRxdW87e2l0ZW0ucXVvdGV9JnJkcXVvOzwvcD4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgYm9yZGVyLXQgYm9yZGVyLXdoaXRlLzE0IHB0LTQiPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXdoaXRlIj57aXRlbS5hdXRob3J9PC9wPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LXNtIHRleHQtd2hpdGUiPntpdGVtLnJvbGV9PC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvYXJ0aWNsZT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0hvcml6b250YWxXaGVlbD4KICAgICAgICA8L1JldmVhbD4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBUZXN0aW1vbmlhbHMK"}
+import { testimonials } from '../../data/siteData'
+import HorizontalWheel from '../ui/HorizontalWheel'
+import Reveal from '../ui/Reveal'
+import SectionHeading from '../ui/SectionHeading'
+
+function Testimonials() {
+  return (
+    <section id="testimonios" className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-4">
+      <div className="section-shell w-full">
+        <Reveal>
+          <SectionHeading
+            eyebrow="Testimonios"
+            title="LO QUE CAMBIA NO ES SOLO LA WEB. CAMBIA COMO SE PERCIBE LA MARCA."
+            copy="Cuando la direccion visual esta bien planteada, el proyecto se entiende antes y se recuerda mas."
+            level={1}
+          />
+        </Reveal>
+
+        <Reveal delay={40}>
+          <div className="mt-5 grid gap-0 border-y border-white/18 lg:hidden">
+            <article className="border-b border-white/12 px-5 py-5">
+              <p className="text-xs uppercase tracking-[0.26em] text-[#ff2a1f]">Comentario principal</p>
+              <p className="mt-5 max-w-4xl font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl">
+                &ldquo;Necesitábamos una web que dejara de parecer un proveedor más y empezara a sentirse como una marca con criterio.&rdquo;
+              </p>
+              <div className="mt-6 border-t border-white/14 pt-4">
+                <p className="font-semibold text-white">Marta Rivas</p>
+                <p className="mt-1 text-sm text-white">Directora, Rivas & Co.</p>
+              </div>
+            </article>
+
+            {testimonials.map((item, index) => (
+              <article
+                key={item.author}
+                className={index < testimonials.length - 1 ? 'border-b border-white/12 px-5 py-5' : 'px-5 py-5'}
+              >
+                <p className="text-sm leading-6 text-white">&ldquo;{item.quote}&rdquo;</p>
+                <div className="mt-5 border-t border-white/14 pt-4">
+                  <p className="font-semibold text-white">{item.author}</p>
+                  <p className="mt-1 text-sm text-white">{item.role}</p>
+                </div>
+              </article>
+            ))}
+          </div>
+
+          <HorizontalWheel className="mt-5 hidden overflow-x-auto pb-2 scrollbar-none lg:block">
+            <div className="flex min-w-max border-y border-white/18">
+              <article className="w-[92vw] max-w-[980px] shrink-0 border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[64vw]">
+                <p className="text-xs uppercase tracking-[0.26em] text-[#ff2a1f]">Comentario principal</p>
+                <p className="mt-5 max-w-4xl font-display text-4xl uppercase leading-[0.92] tracking-[-0.05em] text-white sm:text-5xl lg:text-6xl">
+                  &ldquo;Necesitábamos una web que dejara de parecer un proveedor más y empezara a sentirse como una marca con criterio.&rdquo;
+                </p>
+                <div className="mt-6 border-t border-white/14 pt-4">
+                  <p className="font-semibold text-white">Marta Rivas</p>
+                  <p className="mt-1 text-sm text-white">Directora, Rivas & Co.</p>
+                </div>
+              </article>
+
+              {testimonials.map((item) => (
+                <article
+                  key={item.author}
+                  className="flex w-[72vw] max-w-[620px] shrink-0 flex-col justify-between border-r border-white/18 px-5 py-5 sm:px-6 lg:w-[34vw]"
+                >
+                  <p className="text-sm leading-6 text-white">&ldquo;{item.quote}&rdquo;</p>
+                  <div className="mt-5 border-t border-white/14 pt-4">
+                    <p className="font-semibold text-white">{item.author}</p>
+                    <p className="mt-1 text-sm text-white">{item.role}</p>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </HorizontalWheel>
+        </Reveal>
+      </div>
+    </section>
+  )
+}
+
+export default Testimonials
