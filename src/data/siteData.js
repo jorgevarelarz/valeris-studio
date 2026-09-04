@@ -139,6 +139,8 @@ export const processSteps = [
   },
 ]
 
+// `url` y `shot` son opcionales: `url` pinta el enlace «Ver web» y `shot` la captura
+// de la home. Las capturas viven en /projects/shots/<nombre>.jpg.
 export const portfolioProjects = [
   {
     name: 'Noma Club',
@@ -149,12 +151,52 @@ export const portfolioProjects = [
     logo: '/projects/noma-logo.png',
   },
   {
+    name: 'TiendaFactu',
+    category: 'Producto propio · Plugin de facturación',
+    description:
+      'Plugin de Veri*factu para WooCommerce, publicado en el repositorio oficial de WordPress.org: registro de facturas ante la AEAT, alta automática de clientes y panel para gestorías.',
+    impact: 'Producto propio en producción, con web, checkout y soporte funcionando de punta a punta.',
+    url: 'https://tiendafactu.es',
+  },
+  {
+    name: 'Permiso VTC Madrid',
+    category: 'Producto propio · Formación online',
+    description:
+      'Plataforma de preparación del examen oficial de conductor VTC de la Comunidad de Madrid: banco de preguntas, simulacros cronometrados y explicaciones razonadas.',
+    impact: 'De la idea al producto cobrando en semanas, con analítica y pasarela de pago integradas.',
+    url: 'https://permisovtc.es',
+  },
+  {
+    name: 'Mave Studio',
+    category: 'Estudio de fotografía',
+    description:
+      'Web del estudio y migración completa de su alojamiento y su correo a servidor propio, con certificado con SAN, SPF y DNS saneados.',
+    impact: 'Web y correo bajo control, sin depender de la agencia anterior ni de su infraestructura.',
+    url: 'https://mavestudio.es',
+  },
+  {
     name: 'IHA Race',
     category: 'Tienda online especializada',
     description:
       'Rediseño visual de la home de una tienda WooCommerce de material FPV y drones, con nueva estructura, jerarquía de categorías y componentes editables desde Elementor.',
     impact: 'Home más clara y comercial, con mejor recorrido hacia las categorías clave y mayor coherencia visual de marca.',
     logo: '/projects/iha-logo.png',
+  },
+  {
+    name: 'Valeris Hosting',
+    category: 'Producto propio · Plataforma',
+    description:
+      'Panel de alojamiento gestionado con portal de cliente, despliegue por releases con rollback automático y comprobación de salud en cada publicación.',
+    impact: 'Infraestructura propia para alojar y mantener los proyectos de los clientes sin intermediarios.',
+    url: 'https://hosting.valerisstudio.es',
+  },
+  {
+    name: 'EDER',
+    category: 'Restaurante · Campaña',
+    description:
+      'Campaña de sorteo «Viaja gratis con EDER» sobre su WordPress: landing, popup de captación y formulario conectados, montados sin tocar el tema del sitio.',
+    impact: 'Una acción de captación de leads en marcha sobre una web que ya estaba en producción.',
+    url: 'https://eder.gal/gana-viaje-gratis-eder/',
   },
   {
     name: 'Mussvap',

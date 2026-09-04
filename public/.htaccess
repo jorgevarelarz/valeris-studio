@@ -1,0 +1,39 @@
+# Equivalente en Apache de vercel.json, para cuando el sitio se sirve desde el VPS
+# (Plesk + Apache). Vite copia este fichero a dist/ tal cual.
+
+Options -Indexes
+
+RewriteEngine On
+
+# redirects: /inicio -> / (permanente)
+RewriteRule ^inicio/?$ / [R=301,L]
+
+# cleanUrls: /aviso-legal sirve aviso-legal.html, y /aviso-legal.html redirige a la
+# URL limpia, que es la que declaran los <link rel="canonical">.
+RewriteCond %{THE_REQUEST} \s/+([^?\s]+)\.html[\s?]
+RewriteRule ^ /%1 [R=301,L]
+RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+RewriteRule ^([^.]+?)/?$ /$1.html [L]
+
+# rewrites: el resto de rutas las resuelve React Router en cliente
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/css text/xml application/javascript application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Los bundles de Vite llevan hash en el nombre: se pueden cachear para siempre.
+  <FilesMatch "\.(js|css|woff2?)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  # Las imágenes no llevan hash: una semana, para poder reemplazarlas sin drama.
+  <FilesMatch "\.(gif|png|jpe?g|svg|webp|ico)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+  <FilesMatch "\.html$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+</IfModule>

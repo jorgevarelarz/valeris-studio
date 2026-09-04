@@ -3,6 +3,21 @@ import HorizontalWheel from '../ui/HorizontalWheel'
 import Reveal from '../ui/Reveal'
 import SectionHeading from '../ui/SectionHeading'
 
+function ProjectLink({ url, name }) {
+  return (
+    <a
+      href={url}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="inline-flex w-fit items-center gap-2 border-b border-white/30 pb-1 text-xs font-semibold uppercase tracking-[0.2em] text-white transition hover:border-[#ff2a1f] hover:text-[#ff2a1f]"
+    >
+      Ver web
+      <span aria-hidden="true">↗</span>
+      <span className="sr-only">de {name}, se abre en una pestaña nueva</span>
+    </a>
+  )
+}
+
 function Portfolio() {
   return (
     <section id="proyectos" className="flex min-h-[calc(100svh-5rem)] items-start overflow-hidden px-4 py-5 lg:h-full lg:items-center lg:py-8">
@@ -41,11 +56,20 @@ function Portfolio() {
                     />
                   </div>
                 )}
+                {project.shot && (
+                  <img
+                    src={project.shot}
+                    alt={`Captura de la web de ${project.name}`}
+                    loading="lazy"
+                    className="mt-4 w-full border border-white/18 object-cover"
+                  />
+                )}
                 <div className="mt-5 grid gap-4">
                   <p className="max-w-xl text-sm leading-6 text-white">{project.description}</p>
                   <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white/70">
                     {project.impact}
                   </p>
+                  {project.url && <ProjectLink url={project.url} name={project.name} />}
                 </div>
               </article>
             ))}
@@ -76,10 +100,19 @@ function Portfolio() {
                           className="h-10 w-auto object-contain brightness-0 invert"
                         />
                       )}
+                      {project.shot && (
+                        <img
+                          src={project.shot}
+                          alt={`Captura de la web de ${project.name}`}
+                          loading="lazy"
+                          className="w-full max-w-xl border border-white/18 object-cover"
+                        />
+                      )}
                       <p className="max-w-xl text-base leading-7 text-white">{project.description}</p>
                       <p className="max-w-lg text-sm font-semibold uppercase tracking-[0.16em] text-white/70">
                         {project.impact}
                       </p>
+                      {project.url && <ProjectLink url={project.url} name={project.name} />}
                     </div>
                   </div>
                 </article>
