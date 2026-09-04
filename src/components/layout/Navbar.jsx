@@ -37,6 +37,15 @@ function Navbar() {
             </Link>
 
           <div className="hidden items-center gap-3 lg:flex">
+            <div className="flex items-center gap-3 pr-2 text-[11px] uppercase tracking-[0.12em] text-white/45">
+              <a href="/aviso-legal" className="transition hover:text-white">
+                Aviso legal
+              </a>
+              <span aria-hidden="true">·</span>
+              <a href="/privacidad" className="transition hover:text-white">
+                Privacidad
+              </a>
+            </div>
             <img
               src="/phone-sticker.png"
               alt="Telefono sticker"
@@ -116,6 +125,15 @@ function Navbar() {
               >
                 Contacta
               </button>
+              <div className="mt-4 flex items-center gap-3 px-4 text-[11px] uppercase tracking-[0.12em] text-white/45">
+                <a href="/aviso-legal" className="transition hover:text-white">
+                  Aviso legal
+                </a>
+                <span aria-hidden="true">·</span>
+                <a href="/privacidad" className="transition hover:text-white">
+                  Privacidad
+                </a>
+              </div>
             </nav>
           </Reveal>
         </div>
