@@ -157,6 +157,7 @@ export const portfolioProjects = [
       'Plugin de Veri*factu para WooCommerce, publicado en el repositorio oficial de WordPress.org: registro de facturas ante la AEAT, alta automática de clientes y panel para gestorías.',
     impact: 'Producto propio en producción, con web, checkout y soporte funcionando de punta a punta.',
     url: 'https://tiendafactu.es',
+    shot: '/projects/shots/tiendafactu.jpg',
   },
   {
     name: 'Permiso VTC Madrid',
@@ -165,6 +166,7 @@ export const portfolioProjects = [
       'Plataforma de preparación del examen oficial de conductor VTC de la Comunidad de Madrid: banco de preguntas, simulacros cronometrados y explicaciones razonadas.',
     impact: 'De la idea al producto cobrando en semanas, con analítica y pasarela de pago integradas.',
     url: 'https://permisovtc.es',
+    shot: '/projects/shots/permisovtc.jpg',
   },
   {
     name: 'Mave Studio',
@@ -173,6 +175,7 @@ export const portfolioProjects = [
       'Web del estudio y migración completa de su alojamiento y su correo a servidor propio, con certificado con SAN, SPF y DNS saneados.',
     impact: 'Web y correo bajo control, sin depender de la agencia anterior ni de su infraestructura.',
     url: 'https://mavestudio.es',
+    shot: '/projects/shots/mavestudio.jpg',
   },
   {
     name: 'IHA Race',
@@ -189,6 +192,7 @@ export const portfolioProjects = [
       'Panel de alojamiento gestionado con portal de cliente, despliegue por releases con rollback automático y comprobación de salud en cada publicación.',
     impact: 'Infraestructura propia para alojar y mantener los proyectos de los clientes sin intermediarios.',
     url: 'https://hosting.valerisstudio.es',
+    shot: '/projects/shots/hosting.jpg',
   },
   {
     name: 'EDER',
@@ -197,6 +201,7 @@ export const portfolioProjects = [
       'Campaña de sorteo «Viaja gratis con EDER» sobre su WordPress: landing, popup de captación y formulario conectados, montados sin tocar el tema del sitio.',
     impact: 'Una acción de captación de leads en marcha sobre una web que ya estaba en producción.',
     url: 'https://eder.gal/gana-viaje-gratis-eder/',
+    shot: '/projects/shots/eder.jpg',
   },
   {
     name: 'Mussvap',
