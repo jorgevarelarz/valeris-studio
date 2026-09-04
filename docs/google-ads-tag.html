@@ -1,0 +1,20 @@
+Tag de Google Ads (AW-18197841168) que estaba sin commitear en index.html.
+
+NO lo pegues en index.html sin resolver antes dos cosas:
+
+1. La sección «Cookies» de public/privacidad.html afirma que la web no usa cookies
+   de analítica, publicidad ni perfilado. Google Ads sí las instala, así que ese
+   párrafo dejaría de ser cierto.
+2. Haría falta un banner de consentimiento previo: sin él, cargar este script al
+   entrar incumple el artículo 22.2 de la LSSI.
+
+El evento de conversión de src/components/sections/Thanks.jsx ya comprueba que
+`window.gtag` exista, así que sin este bloque no hace nada y puede quedarse.
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-18197841168"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-18197841168');
+    </script>
